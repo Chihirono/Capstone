@@ -1,0 +1,3601 @@
+hhid,sectionb3,sectionb4,sectionb5,sectionb6,sectionb7,sectionb8,sectionb9,sectionb10,sectionb11,sectionb12,sectionb13,sectionb14,sectionb15
+11,lem (fertile),2,1.25,gemad,.3125,0,,,,1,1,gemad,.25
+11,lem-teuf,0,,,,0,,,,1,.5,gemad,.125
+11,teuf(infertile),1,.25,gemad,.0625,0,,,,2,.5,gemad,.125
+12,lem (fertile),0,,,,0,,,,1,1.5,gezem,.1875
+12,lem-teuf,4,8,gezem,1,0,,,,2,3.5,gezem,.4375
+12,teuf(infertile),1,1,gezem,.125,0,,,,1,1.5,gezem,.186
+13,lem (fertile),4,9,gezem,1.125,0,,,,5,16,gezem,2
+13,lem-teuf,0,,,,0,,,,0,,,
+13,teuf(infertile),0,,,,0,,,,0,,,
+14,lem (fertile),0,,,,0,,,,1,1.5,timad,.375
+14,lem-teuf,3,5.5,timad,1.375,0,,,,1,1,timad,.25
+14,teuf(infertile),0,,,,0,,,,0,,,
+15,lem (fertile),1,2,gemad,.5,0,,,,3,3,gemad,.75
+15,lem-teuf,0,,,,0,,,,0,,,
+15,teuf(infertile),1,2,gemad,.5,0,,,,0,,,
+16,lem (fertile),3,6,timad,1.5,0,,,,0,,,
+16,lem-teuf,1,1,timad,.25,0,,,,0,,,
+16,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+17,lem (fertile),3,5.5,timad,.1375,0,,,,2,2.5,timad,.625
+17,lem-teuf,1,1,timad,.25,0,,,,0,,,
+17,teuf(infertile),0,,,,0,,,,0,,,
+18,lem (fertile),1,.5,gemad,.125,0,,,,0,,,
+18,lem-teuf,0,,,,0,,,,2,2,gemad,.5
+18,teuf(infertile),0,,,,0,,,,0,,,
+19,lem (fertile),2,4,timad,1,0,,,,0,,,
+19,lem-teuf,4,5,timad,1.25,0,,,,1,1,timad,.25
+19,teuf(infertile),1,1,timad,.25,0,,,,1,2,timad,.5
+20,lem (fertile),4,10,gezem,1.25,0,,,,0,,,
+20,lem-teuf,0,,,,0,,,,0,,,
+20,teuf(infertile),0,,,,0,,,,0,,,
+21,lem (fertile),0,,,,0,,,,0,,,
+21,lem-teuf,1,1,timad,.25,0,,,,1,.5,timad,.125
+21,teuf(infertile),0,,,,0,,,,0,,,
+22,lem (fertile),1,1,gezem,.125,0,,,,2,2.5,gezem,.3125
+22,lem-teuf,2,4,gezem,.5,0,,,,0,,,
+22,teuf(infertile),2,1.5,gezem,.1875,0,,,,0,,,
+23,lem (fertile),3,7.5,gezem,.9375,0,,,,0,,,
+23,lem-teuf,0,,,,0,,,,0,,,
+23,teuf(infertile),0,,,,0,,,,0,,,
+24,lem (fertile),0,,,,0,,,,0,,,
+24,lem-teuf,2,5,gezem,.625,0,,,,1,2,gezem,.25
+24,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+25,lem (fertile),3,3.5,gemad,.875,0,,,,0,,,
+25,lem-teuf,0,,,,0,,,,1,1,gemad,.25
+25,teuf(infertile),0,,,,0,,,,2,2.25,gemad,.5625
+26,lem (fertile),3,10,gezem,1.25,0,,,,4,7,gezem,.875
+26,lem-teuf,0,,,,0,,,,0,,,
+26,teuf(infertile),0,,,,0,,,,0,,,
+27,lem (fertile),1,9,gezem,1.125,0,,,,0,,,
+27,lem-teuf,1,1,gezem,.125,0,,,,0,,,
+27,teuf(infertile),0,,,,0,,,,0,,,
+28,lem (fertile),0,,,,0,,,,0,,,
+28,lem-teuf,0,,,,1,1,gezem,.125,0,,,
+28,teuf(infertile),1,1,gezem,.25,2,7,gezem,.875,0,,,
+29,lem (fertile),2,7,gezem,.875,0,,,,0,,,
+29,lem-teuf,0,,,,0,,,,2,3,gezem,.375
+29,teuf(infertile),0,,,,0,,,,0,,,
+30,lem (fertile),1,1.5,timad,.375,0,,,,1,1.5,timad,.375
+30,lem-teuf,2,3.5,timad,.875,0,,,,2,3,timad,.75
+30,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+354,lem (fertile),2,4,kert,1,0,,,,0,,,
+354,lem-teuf,0,,,,0,,,,0,,,
+354,teuf(infertile),2,4,kert,1,0,,,,0,,,
+355,lem (fertile),2,4,kert,1,0,,,,1,2,kert,.5
+355,lem-teuf,1,3,kert,.75,0,,,,1,2,kert,.5
+355,teuf(infertile),0,,,,0,,,,0,,,
+356,lem (fertile),3,17,kert,4.25,0,,,,0,,,
+356,lem-teuf,1,4,kert,1,0,,,,0,,,
+356,teuf(infertile),0,,,,0,,,,0,,,
+357,lem (fertile),1,1,kert,.25,0,,,,0,,,
+357,lem-teuf,1,2,kert,.5,0,,,,1,2,kert,.5
+357,teuf(infertile),0,,,,0,,,,1,2,kert,.5
+358,lem (fertile),0,,,,0,,,,0,,,
+358,lem-teuf,3,10,kert,2.5,0,,,,0,,,
+358,teuf(infertile),3,4,kert,1,0,,,,0,,,
+359,lem (fertile),1,5,kert,1.25,0,,,,0,,,
+359,lem-teuf,1,3,kert,.75,0,,,,0,,,
+359,teuf(infertile),0,,,,0,,,,0,,,
+31,lem (fertile),0,,,,0,,,,1,5,gezem,.625
+31,lem-teuf,1,2,gezem,.25,0,,,,3,9,gezem,1.125
+31,teuf(infertile),0,,,,0,,,,0,,,
+32,lem (fertile),0,,,,0,,,,2,3,timad,.75
+32,lem-teuf,1,2,timad,.5,0,,,,1,1,timad,.25
+32,teuf(infertile),0,,,,0,,,,0,,,
+33,lem (fertile),2,1.5,timad,.375,0,,,,1,1,timad,.25
+33,lem-teuf,0,,,,0,,,,0,,,
+33,teuf(infertile),0,,,,0,,,,0,,,
+34,lem (fertile),2,4,gezem,.5,0,,,,1,2,gezem,.25
+34,lem-teuf,0,,,,0,,,,0,,,
+34,teuf(infertile),0,,,,0,,,,0,,,
+35,lem (fertile),1,2.5,timad,.625,0,,,,1,2,timad,.5
+35,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+35,teuf(infertile),0,,,,0,,,,2,1.5,timad,.375
+36,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+36,lem-teuf,0,,,,0,,,,0,,,
+36,teuf(infertile),2,1,timad,.25,0,,,,0,,,
+121,lem (fertile),3,4.5,kert,1.125,0,,,,0,,,
+121,lem-teuf,5,17,kert,4.25,0,,,,0,,,
+121,teuf(infertile),0,,,,0,,,,0,,,
+122,lem (fertile),1,.5,kert,.125,1,2,kert,.5,1,2,kert,.5
+122,lem-teuf,1,1.5,kert,.375,0,,,,0,,,
+122,teuf(infertile),0,,,,0,,,,0,,,
+123,lem (fertile),2,4,kert,1,0,,,,0,,,
+123,lem-teuf,2,2.5,kert,.625,1,1,kert,.25,1,1.5,kert,.375
+123,teuf(infertile),0,,,,0,,,,0,,,
+124,lem (fertile),3,2,kert,.5,0,,,,0,,,
+124,lem-teuf,1,2.5,kert,.625,4,7,kert,1.75,0,,,
+124,teuf(infertile),0,,,,0,,,,0,,,
+125,lem (fertile),6,8.5,kert,2.125,0,,,,0,,,
+125,lem-teuf,0,,,,2,5,kert,1.25,0,,,
+125,teuf(infertile),0,,,,0,,,,0,,,
+126,lem (fertile),1,3,kert,.75,0,,,,0,,,
+126,lem-teuf,1,.75,kert,.1875,1,2,kert,.5,0,,,
+126,teuf(infertile),0,,,,0,,,,0,,,
+127,lem (fertile),5,13,kert,3.25,0,,,,3,6,kert,1.5
+127,lem-teuf,0,,,,0,,,,4,10,kert,2.5
+127,teuf(infertile),0,,,,0,,,,0,,,
+129,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+129,lem-teuf,3,4.5,kert,1.125,0,,,,4,3.75,kert,.9375
+129,teuf(infertile),0,,,,0,,,,0,,,
+130,lem (fertile),2,4,kert,1,0,,,,0,,,
+130,lem-teuf,0,,,,0,,,,0,,,
+130,teuf(infertile),0,,,,0,,,,0,,,
+131,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+131,lem-teuf,6,16,kert,4,1,2,kert,.5,0,,,
+131,teuf(infertile),0,,,,0,,,,0,,,
+132,lem (fertile),3,4,kert,1,0,,,,0,,,
+132,lem-teuf,4,5,kert,1.25,0,,,,1,2,kert,.5
+132,teuf(infertile),0,,,,0,,,,0,,,
+133,lem (fertile),1,4,kert,1,0,,,,0,,,
+133,lem-teuf,2,4,kert,1,0,,,,0,,,
+133,teuf(infertile),0,,,,0,,,,0,,,
+134,lem (fertile),3,3,kert,.75,1,1,kert,.25,0,,,
+134,lem-teuf,5,5,kert,1.25,1,1,kert,.25,0,,,
+134,teuf(infertile),1,6,kert,1.5,0,,,,0,,,
+135,lem (fertile),1,8,kert,2,0,,,,1,8,kert,2
+135,lem-teuf,0,,,,0,,,,0,,,
+135,teuf(infertile),0,,,,0,,,,0,,,
+136,lem (fertile),1,.5,kert,.125,0,,,,1,1,kert,.25
+136,lem-teuf,0,,,,0,,,,0,,,
+136,teuf(infertile),0,,,,0,,,,0,,,
+137,lem (fertile),1,1,kert,.25,0,,,,0,,,
+137,lem-teuf,2,2.5,kert,.625,0,,,,0,,,
+137,teuf(infertile),0,,,,0,,,,0,,,
+138,lem (fertile),2,3,kert,.75,0,,,,0,,,
+138,lem-teuf,0,,,,0,,,,0,,,
+138,teuf(infertile),0,,,,0,,,,0,,,
+139,lem (fertile),8,20.5,kert,5.125,0,,,,0,,,
+139,lem-teuf,0,,,,0,,,,0,,,
+139,teuf(infertile),0,,,,0,,,,0,,,
+140,lem (fertile),0,,,,0,,,,2,12,kert,3
+140,lem-teuf,1,2,kert,.5,0,,,,3,6,kert,1.5
+140,teuf(infertile),0,,,,0,,,,0,,,
+141,lem (fertile),1,1,kert,.25,0,,,,3,8.5,kert,2.125
+141,lem-teuf,0,,,,0,,,,0,,,
+141,teuf(infertile),0,,,,0,,,,0,,,
+142,lem (fertile),7,15.25,kert,3.8125,0,,,,0,,,
+142,lem-teuf,0,,,,0,,,,0,,,
+142,teuf(infertile),0,,,,0,,,,0,,,
+143,lem (fertile),1,1,kert,.25,0,,,,0,,,
+143,lem-teuf,1,1,kert,.25,0,,,,0,,,
+143,teuf(infertile),0,,,,0,,,,0,,,
+144,lem (fertile),2,9,kert,2.25,0,,,,0,,,
+144,lem-teuf,1,8,kert,2,0,,,,0,,,
+144,teuf(infertile),0,,,,0,,,,0,,,
+145,lem (fertile),2,4,kert,1,0,,,,0,,,
+145,lem-teuf,2,3,kert,.075000003,0,,,,0,,,
+145,teuf(infertile),1,.75,kert,.1875,0,,,,0,,,
+146,lem (fertile),1,.5,kert,.125,0,,,,3,7,kert,1.75
+146,lem-teuf,1,1.5,kert,.375,0,,,,2,1.5,kert,.375
+146,teuf(infertile),0,,,,0,,,,0,,,
+147,lem (fertile),0,,,,0,,,,1,6,kert,1.5
+147,lem-teuf,0,,,,0,,,,2,6,kert,1.5
+147,teuf(infertile),0,,,,0,,,,0,,,
+148,lem (fertile),6,5.5,kert,1.375,0,,,,0,,,
+148,lem-teuf,1,2,kert,.5,0,,,,0,,,
+148,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+149,lem (fertile),1,1,kert,.25,0,,,,4,7,kert,1.75
+149,lem-teuf,0,,,,0,,,,4,7,kert,1.75
+149,teuf(infertile),0,,,,0,,,,0,,,
+150,lem (fertile),7,9.5,kert,2.375,0,,,,1,4,kert,1
+150,lem-teuf,0,,,,0,,,,0,,,
+150,teuf(infertile),0,,,,0,,,,0,,,
+151,lem (fertile),6,30,kert,7.5,0,,,,1,4,kert,1
+151,lem-teuf,1,5,kert,1.25,0,,,,0,,,
+151,teuf(infertile),0,,,,0,,,,0,,,
+152,lem (fertile),2,2.5,kert,.625,0,,,,0,,,
+152,lem-teuf,4,2,kert,.5,0,,,,2,5,kert,1.25
+152,teuf(infertile),0,,,,0,,,,0,,,
+153,lem (fertile),3,2.5,kert,.625,1,3,kert,.75,1,1,kert,.25
+153,lem-teuf,0,,,,0,,,,0,,,
+153,teuf(infertile),0,,,,0,,,,0,,,
+154,lem (fertile),4,5.5,kert,1.375,0,,,,0,,,
+154,lem-teuf,0,,,,0,,,,0,,,
+154,teuf(infertile),0,,,,0,,,,0,,,
+155,lem (fertile),1,2,kert,.5,0,,,,2,2,kert,.5
+155,lem-teuf,1,.5,kert,.125,0,,,,0,,,
+155,teuf(infertile),0,,,,0,,,,0,,,
+156,lem (fertile),8,10,kert,2.5,0,,,,1,1,kert,.25
+156,lem-teuf,0,,,,0,,,,0,,,
+156,teuf(infertile),0,,,,0,,,,0,,,
+157,lem (fertile),1,1,kert,.25,0,,,,3,3,kert,.75
+157,lem-teuf,1,1,kert,.25,0,,,,0,,,
+157,teuf(infertile),0,,,,0,,,,0,,,
+158,lem (fertile),1,1,kert,.25,2,5,kert,1.25,0,,,
+158,lem-teuf,0,,,,0,,,,0,,,
+158,teuf(infertile),0,,,,0,,,,0,,,
+159,lem (fertile),1,2,kert,.5,0,,,,0,,,
+159,lem-teuf,1,1,kert,.25,0,,,,0,,,
+159,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+160,lem (fertile),1,1,kert,.25,0,,,,0,,,
+160,lem-teuf,2,4,kert,1,0,,,,0,,,
+160,teuf(infertile),0,,,,0,,,,0,,,
+161,lem (fertile),3,10,kert,2.5,0,,,,0,,,
+161,lem-teuf,2,4,kert,1,0,,,,0,,,
+161,teuf(infertile),0,,,,0,,,,0,,,
+162,lem (fertile),1,2,kert,.5,0,,,,1,6,kert,1.5
+162,lem-teuf,0,,,,0,,,,1,2,kert,.5
+162,teuf(infertile),0,,,,0,,,,0,,,
+163,lem (fertile),1,1,kert,.25,0,,,,0,,,
+163,lem-teuf,0,,,,0,,,,2,2,kert,.5
+163,teuf(infertile),0,,,,0,,,,0,,,
+164,lem (fertile),6,8.5,kert,2.125,0,,,,0,,,
+164,lem-teuf,3,6.8000002,kert,1.625,0,,,,0,,,
+164,teuf(infertile),0,,,,0,,,,0,,,
+165,lem (fertile),4,7.5,kert,1.875,0,,,,0,,,
+165,lem-teuf,0,,,,0,,,,0,,,
+165,teuf(infertile),0,,,,0,,,,0,,,
+166,lem (fertile),9,13.25,kert,3.3125,0,,,,0,,,
+166,lem-teuf,0,,,,0,,,,0,,,
+166,teuf(infertile),0,,,,0,,,,0,,,
+167,lem (fertile),2,1.25,kert,.3125,0,,,,0,,,
+167,lem-teuf,0,,,,0,,,,0,,,
+167,teuf(infertile),0,,,,0,,,,0,,,
+168,lem (fertile),0,,,,0,,,,0,,,
+168,lem-teuf,3,3.25,kert,.8125,0,,,,0,,,
+168,teuf(infertile),0,,,,0,,,,0,,,
+169,lem (fertile),1,2,kert,.5,0,,,,2,5,kert,1.25
+169,lem-teuf,0,,,,0,,,,0,,,
+169,teuf(infertile),0,,,,0,,,,0,,,
+170,lem (fertile),0,,,,0,,,,3,5,kert,1.25
+170,lem-teuf,2,1.5,kert,.375,0,,,,4,4.5,kert,1.125
+170,teuf(infertile),0,,,,0,,,,0,,,
+171,lem (fertile),1,1,kert,.25,0,,,,3,3,kert,.75
+171,lem-teuf,1,1,kert,.25,0,,,,1,2,kert,.5
+171,teuf(infertile),0,,,,0,,,,0,,,
+172,lem (fertile),1,1,kert,.25,0,,,,0,,,
+172,lem-teuf,0,,,,0,,,,2,3,kert,.75
+172,teuf(infertile),0,,,,0,,,,0,,,
+173,lem (fertile),2,1.5,kert,.375,0,,,,0,,,
+173,lem-teuf,0,,,,0,,,,6,8,kert,2
+173,teuf(infertile),0,,,,0,,,,0,,,
+174,lem (fertile),0,,,,0,,,,0,,,
+174,lem-teuf,1,1,kert,.25,0,,,,4,8,kert,2
+174,teuf(infertile),0,,,,0,,,,0,,,
+175,lem (fertile),7,14,kert,3.5,0,,,,2,4,kert,1
+175,lem-teuf,0,,,,0,,,,0,,,
+175,teuf(infertile),0,,,,0,,,,0,,,
+176,lem (fertile),2,3.5,kert,.875,0,,,,0,,,
+176,lem-teuf,1,4,kert,1,0,,,,0,,,
+176,teuf(infertile),0,,,,0,,,,0,,,
+177,lem (fertile),0,,,,0,,,,3,7.5,kert,1.875
+177,lem-teuf,1,1.5,kert,.375,0,,,,2,3.5,kert,.875
+177,teuf(infertile),0,,,,0,,,,0,,,
+178,lem (fertile),1,44,kert,11,0,,,,1,8,kert,2
+178,lem-teuf,0,,,,0,,,,0,,,
+178,teuf(infertile),0,,,,0,,,,0,,,
+179,lem (fertile),0,,,,0,,,,2,2.5,kert,.625
+179,lem-teuf,0,,,,0,,,,3,4.5,kert,1.125
+179,teuf(infertile),0,,,,0,,,,0,,,
+180,lem (fertile),2,6,kert,1.5,0,,0,,0,,,
+180,lem-teuf,1,1,kert,.25,0,,,,2,3,kert,.75
+180,teuf(infertile),1,.5,kert,.125,0,,,,0,,,
+182,lem (fertile),0,,,,0,,,,2,3,kert,.75
+182,lem-teuf,1,3,kert,.75,0,,,,4,4.5,kert,1.125
+182,teuf(infertile),0,,,,0,,,,0,,,
+183,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+183,lem-teuf,4,3,kert,.75,0,,,,0,,,
+183,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+184,lem (fertile),3,3.5,kert,.875,0,,,,0,,,
+184,lem-teuf,3,2.5,kert,.625,0,,,,3,1.5,kert,37
+184,teuf(infertile),1,.5,kert,.125,0,,,,0,,,
+185,lem (fertile),0,,,,0,,,,2,35,kert,8.75
+185,lem-teuf,0,,,,0,,,,0,,,
+185,teuf(infertile),0,,,,0,,,,0,,,
+186,lem (fertile),3,2,kert,.5,0,,,,1,2,kert,.5
+186,lem-teuf,1,.5,kert,.125,0,,,,0,,,
+186,teuf(infertile),0,,,,0,,,,0,,,
+187,lem (fertile),2,3,kert,.75,0,,,,0,,,
+187,lem-teuf,0,,,,0,,,,0,,,
+187,teuf(infertile),2,3,kert,.75,0,,,,0,,,
+188,lem (fertile),2,23,kert,5.75,0,,,,0,,,
+188,lem-teuf,0,,,,0,,,,0,,,
+188,teuf(infertile),0,,,,0,,,,0,,,
+189,lem (fertile),1,2,kert,.5,0,,,,0,,,
+189,lem-teuf,3,8,kert,2,0,,,,0,,,
+189,teuf(infertile),2,1,kert,.25,,,,,,,,
+190,lem (fertile),0,,,,0,,,,0,,,
+190,lem-teuf,1,1,kert,.25,0,,,,2,2.5,kert,.625
+190,teuf(infertile),0,,,,0,,,,0,,,
+191,lem (fertile),3,4.5,kert,1.125,0,,,,0,,,
+191,lem-teuf,0,,,,0,,,,0,,,
+191,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+192,lem (fertile),1,1,kert,.25,0,,,,0,,,
+192,lem-teuf,0,,,,0,,,,1,1,kert,.25
+192,teuf(infertile),2,1.5,kert,.375,0,,,,2,2,kert,.5
+193,lem (fertile),4,9,kert,2.25,0,,,,0,,,
+193,lem-teuf,0,,,,0,,,,0,,,
+193,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+194,lem (fertile),2,6,kert,1.5,0,,,,0,,,
+194,lem-teuf,3,2.5,kert,.625,0,,,,1,1,kert,.25
+194,teuf(infertile),1,.5,kert,.125,0,,,,0,,,
+195,lem (fertile),4,9,kert,2.25,0,,,,0,,,
+195,lem-teuf,1,1,kert,.25,0,,,,0,,,
+195,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+196,lem (fertile),4,5.5,kert,1.375,0,,,,2,3,kert,.75
+196,lem-teuf,1,4,kert,1,0,,,,0,,,
+196,teuf(infertile),0,,,,0,,,,0,,,
+197,lem (fertile),3,5.5,kert,1.375,0,,,,0,,,
+197,lem-teuf,2,2,kert,.5,0,,,,0,,,
+197,teuf(infertile),0,,,,0,,,,0,,,
+198,lem (fertile),2,5,kert,1.25,0,,,,3,8,kert,2
+198,lem-teuf,0,,,,0,,,,1,4,kert,1
+198,teuf(infertile),0,,,,0,,,,0,,,
+199,lem (fertile),1,1,kert,.25,0,,,,3,9,kert,2.25
+199,lem-teuf,0,,,,0,,,,1,1,kert,.25
+199,teuf(infertile),0,,,,0,,,,0,,,
+200,lem (fertile),4,11,kert,2.75,0,,,,1,4,kert,1
+200,lem-teuf,0,,,,0,,,,1,4,kert,1
+200,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+201,lem (fertile),0,,,,0,,,,0,,,
+201,lem-teuf,0,,,,0,,,,0,,,
+201,teuf(infertile),1,12,kert,3,0,,,,0,,,
+202,lem (fertile),2,3.5,kert,.875,0,,,,0,,,
+202,lem-teuf,0,,,,0,,,,1,4,kert,1
+202,teuf(infertile),0,,,,0,,,,0,,,
+203,lem (fertile),3,5,kert,1.25,0,,,,1,6,kert,1.5
+203,lem-teuf,1,1,kert,.25,0,,,,2,2,kert,.5
+203,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+204,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+204,lem-teuf,2,5,kert,1.25,0,,,,0,,,
+204,teuf(infertile),0,,,,0,,,,0,,,
+205,lem (fertile),6,25,kert,6.25,0,,,,0,,,
+205,lem-teuf,1,3,kert,.75,0,,,,0,,,
+205,teuf(infertile),1,1.5,kert,.375,0,,,,0,,,
+206,lem (fertile),1,2,kert,.5,0,,,,0,,,
+206,lem-teuf,0,,,,0,,,,0,,,
+206,teuf(infertile),0,,,,0,,,,1,1,kert,.25
+207,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+207,lem-teuf,1,1,kert,.25,0,,,,0,,,
+207,teuf(infertile),0,,,,0,,,,0,,,
+208,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+208,lem-teuf,0,,,,0,,,,0,,,
+208,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+209,lem (fertile),4,4,kert,1,0,,,,0,,,
+209,lem-teuf,1,1,kert,.25,0,,,,0,,,
+209,teuf(infertile),0,,,,0,,,,0,,,
+210,lem (fertile),1,2,kert,.5,2,3,kert,.75,0,,,
+210,lem-teuf,3,2.5,kert,.625,1,.5,kert,.125,0,,,
+210,teuf(infertile),0,,,,0,,,,0,,,
+211,lem (fertile),1,1,kert,.25,0,,,,0,,,
+211,lem-teuf,1,.5,kert,.125,0,,,,0,,,
+211,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+212,lem (fertile),0,,,,0,,,,0,,,
+212,lem-teuf,4,13,kert,3.25,0,,,,4,12,kert,3
+212,teuf(infertile),0,,,,0,,,,0,,,
+213,lem (fertile),0,,,,0,,,,0,,,
+213,lem-teuf,4,5.25,kert,1.3125,0,,,,0,,,
+213,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+214,lem (fertile),2,3,kert,.75,0,,,,0,,,
+214,lem-teuf,2,3,kert,.75,0,,,,0,,,
+214,teuf(infertile),2,1.5,kert,.375,0,,,,0,,,
+215,lem (fertile),0,,,,0,,,,0,,,
+215,lem-teuf,0,,,,0,,,,3,5,kert,1.25
+215,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+216,lem (fertile),1,3,kert,.75,0,,,,0,,,
+216,lem-teuf,2,3,kert,.75,0,,,,0,,,
+216,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+217,lem (fertile),4,10.5,kert,2.625,0,,,,0,,,
+217,lem-teuf,0,,,,0,,,,0,,,
+217,teuf(infertile),0,,,,0,,,,0,,,
+218,lem (fertile),2,2,kert,.5,0,,,,0,,,
+218,lem-teuf,0,,,,0,,,,1,1,kert,.25
+218,teuf(infertile),0,,,,0,,,,0,,,
+219,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+219,lem-teuf,4,9,kert,2.25,0,,,,3,5,kert,1.25
+219,teuf(infertile),0,,,,0,,,,0,,,
+220,lem (fertile),5,8.25,kert,2.0625,0,,,,0,,,
+220,lem-teuf,0,,,,0,,,,0,,,
+220,teuf(infertile),0,,,,0,,,,0,,,
+221,lem (fertile),2,1,hectare,1,0,,,,0,,,
+221,lem-teuf,5,1.75,hectare,1.75,0,,,,0,,,
+221,teuf(infertile),1,.5,hectare,.5,0,,,,1,.5,hectare,.5
+222,lem (fertile),3,6.5,kert,1.625,0,,,,0,,,
+222,lem-teuf,2,3,kert,.75,0,,,,0,,,
+222,teuf(infertile),0,,,,0,,,,0,,,
+223,lem (fertile),1,5,kert,1.25,0,,,,0,,,
+223,lem-teuf,0,,,,0,,,,0,,,
+223,teuf(infertile),0,,,,0,,,,0,,,
+224,lem (fertile),3,5.5,kert,1.375,0,,,,0,,,
+224,lem-teuf,5,5.75,kert,1.4375,0,,,,0,,,
+224,teuf(infertile),0,,,,0,,,,0,,,
+225,lem (fertile),0,,,,0,,,,14,30,kert,7.5
+225,lem-teuf,0,,,,0,,,,0,,,
+225,teuf(infertile),0,,,,0,,,,0,,,
+226,lem (fertile),2,2.25,kert,.5625,0,,,,0,,,
+226,lem-teuf,2,4.25,kert,1.0625,0,,,,0,,,
+226,teuf(infertile),2,2.5,kert,.625,0,,,,0,,,
+227,lem (fertile),0,,,,0,,,,0,,,
+227,lem-teuf,2,7,kert,1.75,0,,,,0,,,
+227,teuf(infertile),2,12,kert,3,0,,,,0,,,
+228,lem (fertile),4,7,kert,1.75,0,,,,0,,,
+228,lem-teuf,0,,,,1,5,kert,1.25,0,,,
+228,teuf(infertile),0,,,,0,,,,0,,,
+229,lem (fertile),1,2,kert,.5,0,,,,1,3,kert,.75
+229,lem-teuf,0,,,,0,,,,0,,,
+229,teuf(infertile),0,,,,0,,,,0,,,
+230,lem (fertile),6,15,kert,3.75,0,,,,0,,,
+230,lem-teuf,0,,,,0,,,,0,,,
+230,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+231,lem (fertile),1,1.5,kert,.375,0,,,,1,1,kert,.25
+231,lem-teuf,1,1.5,kert,.375,0,,,,0,,,
+231,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+232,lem (fertile),2,2,kert,.5,0,,,,0,,,
+232,lem-teuf,3,4,kert,1,0,,,,0,,,
+232,teuf(infertile),2,2,kert,.5,0,,,,0,,,
+233,lem (fertile),7,16,kert,4,0,,,,0,,,
+233,lem-teuf,0,,,,0,,,,0,,,
+233,teuf(infertile),0,,,,0,,,,0,,,
+234,lem (fertile),0,,,,0,,,,0,,,
+234,lem-teuf,6,20,kert,2,0,,,,0,,,
+234,teuf(infertile),0,,,,0,,,,0,,,
+235,lem (fertile),1,6,kert,1.5,0,,,,0,,,
+235,lem-teuf,1,8.5,kert,2.125,0,,,,0,,,
+235,teuf(infertile),1,1.5,kert,.375,0,,,,0,,,
+236,lem (fertile),2,2,kert,.5,2,4,kert,1,0,,,
+236,lem-teuf,3,4.5,kert,1.125,0,,,,0,,,
+236,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+237,lem (fertile),2,7,hectare,7,0,,,,0,,,
+237,lem-teuf,2,2,hectare,2,0,,,,0,,,
+237,teuf(infertile),1,.5,hectare,.5,0,,,,0,,,
+238,lem (fertile),1,16,kert,4,0,,,,0,,,
+238,lem-teuf,2,1.5,kert,.375,0,,,,0,,,
+238,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+239,lem (fertile),1,2,kert,.5,0,,,,5,25,kert,6.25
+239,lem-teuf,0,,,,0,,,,0,,,
+239,teuf(infertile),0,,,,0,,,,0,,,
+240,lem (fertile),2,6,timad,0,0,,,,0,,,
+240,lem-teuf,3,9,kert,2.25,0,,,,0,,,
+240,teuf(infertile),0,,,,0,,,,0,,,
+241,lem (fertile),3,8,kert,2,0,,,,0,,,
+241,lem-teuf,2,4,kert,1,0,,,,0,,,
+241,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+242,lem (fertile),2,8,kert,2,0,,,,0,,,
+242,lem-teuf,2,8,kert,2,0,,,,0,,,
+242,teuf(infertile),0,,,,0,,,,0,,,
+243,lem (fertile),1,4,kert,1,0,,,,1,3,kert,.75
+243,lem-teuf,1,3,kert,.75,0,,,,2,5,kert,1.25
+243,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+244,lem (fertile),0,,,,0,,,,0,,,
+244,lem-teuf,2,4,kert,1,0,,,,1,1,kert,.25
+244,teuf(infertile),0,,,,0,,,,0,,,
+245,lem (fertile),1,2,kert,.5,0,,,,3,5,kert,1.25
+245,lem-teuf,0,,,,0,,,,1,3,kert,.75
+245,teuf(infertile),0,,,,0,,,,1,2,kert,.5
+246,lem (fertile),0,,,,0,,,,0,,,
+246,lem-teuf,0,,,,0,,,,2,6,kert,1.5
+246,teuf(infertile),0,,,,0,,,,0,,,
+247,lem (fertile),1,2,kert,.5,0,,,,0,,,
+247,lem-teuf,1,2,kert,.5,0,,,,0,,,
+247,teuf(infertile),1,7,kert,.5,0,,,,0,,,
+248,lem (fertile),0,,,,0,,,,0,,,
+248,lem-teuf,2,6,kert,1.5,0,,,,1,2,kert,.5
+248,teuf(infertile),0,,,,0,,,,0,,,
+249,lem (fertile),2,6,kert,1.5,1,7,kert,1.75,0,,,
+249,lem-teuf,1,3,kert,.75,0,,,,0,,,
+249,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+250,lem (fertile),1,12,kert,3,0,,,,0,,,
+250,lem-teuf,0,,,,0,,,,0,,,
+250,teuf(infertile),0,,,,0,,,,0,,,
+251,lem (fertile),2,25,kert,6.25,0,,,,0,,,
+251,lem-teuf,0,,,,0,,,,0,,,
+251,teuf(infertile),1,5,kert,1.25,0,,,,0,,,
+252,lem (fertile),1,2,kert,.5,0,,,,0,,,
+252,lem-teuf,1,2,kert,.5,0,,,,3,6,kert,1.5
+252,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+253,lem (fertile),4,8,kert,2,0,,,,0,,,
+253,lem-teuf,1,4,kert,1,0,,,,0,,,
+253,teuf(infertile),0,,,,0,,,,0,,,
+254,lem (fertile),0,,,,0,,,,0,,,
+254,lem-teuf,1,6,kert,1.5,0,,,,0,,,
+254,teuf(infertile),0,,,,0,,,,0,,,
+255,lem (fertile),4,10,kert,2.5,0,,,,0,,,
+255,lem-teuf,1,2,kert,.5,0,,,,0,,,
+255,teuf(infertile),4,9,kert,2.25,0,,,,0,,,
+256,lem (fertile),1,4,kert,1,0,,,,0,,,
+256,lem-teuf,1,2,kert,.5,0,,,,0,,,
+256,teuf(infertile),1,4,kert,1,0,,,,0,,,
+257,lem (fertile),0,,,,0,,,,1,4,kert,1
+257,lem-teuf,0,,,,0,,,,1,4,kert,1
+257,teuf(infertile),0,,,,0,,,,0,,,
+258,lem (fertile),2,6,kert,1.5,0,,,,0,,,
+258,lem-teuf,2,4,kert,1,0,,,,0,,,
+258,teuf(infertile),0,,,,0,,,,0,,,
+259,lem (fertile),1,6,hectare,4,6,1,kedema,2,8,6,kedema,0
+259,lem-teuf,2,8,kert,2,0,,,,2,4,kert,1
+259,teuf(infertile),0,,,,0,,,,0,,,
+260,lem (fertile),2,8,kert,2,0,,,,0,,,
+260,lem-teuf,2,8,kert,2,0,,,,0,,,
+260,teuf(infertile),0,,,,0,,,,6,12,kert,3
+262,lem (fertile),2,4,kert,1,0,,,,0,64,,
+262,lem-teuf,4,7,kert,1.75,0,,,,0,,,
+262,teuf(infertile),0,,,,0,,,,0,,,
+263,lem (fertile),1,2,kert,.5,0,,,,2,12,kert,3
+263,lem-teuf,2,4,kert,1,0,,,,2,5,kert,1.25
+263,teuf(infertile),0,,,,0,,,,0,,,
+264,lem (fertile),2,3,kert,.75,0,,,,0,,,
+264,lem-teuf,1,3,kert,.75,0,,,,0,,,
+264,teuf(infertile),0,,,,0,,,,0,,,
+265,lem (fertile),2,4,kert,1,0,,,,0,,,
+265,lem-teuf,1,4,kert,1,0,,,,3,10,kert,2.5
+265,teuf(infertile),0,,,,0,,,,0,,,
+266,lem (fertile),0,,,,0,,,,0,,,
+266,lem-teuf,1,2,kert,.5,0,,,,5,23,kert,5.75
+266,teuf(infertile),0,,,,0,,,,0,,,
+267,lem (fertile),1,2,kert,.5,0,,,,0,,,
+267,lem-teuf,1,2,kert,.5,0,,,,0,,,
+267,teuf(infertile),2,4,kert,1,0,,,,1,2,kert,.5
+268,lem (fertile),2,14,kert,3.5,0,,,,0,,,
+268,lem-teuf,5,31,kert,7.75,0,,,,1,16,kert,4
+268,teuf(infertile),1,8,kert,2,0,,,,0,,,
+269,lem (fertile),0,,,,0,,,,0,,,
+269,lem-teuf,2,10,kert,2.5,1,2,kert,.5,1,2,kert,.5
+269,teuf(infertile),3,12,kert,3,0,,,,0,,,
+270,lem (fertile),1,6,kert,1.5,0,,,,0,,,
+270,lem-teuf,3,8,kert,2,0,,,,0,,,
+270,teuf(infertile),0,,,,0,,,,0,,,
+271,lem (fertile),1,4,kert,1,0,,,,0,,,
+271,lem-teuf,1,5,kert,1.25,0,,,,0,,,
+271,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+360,lem (fertile),0,,,,0,,,,0,,,
+360,lem-teuf,3,10,kert,2.5,0,,,,0,,,
+360,teuf(infertile),2,8,kert,2,0,,,,0,,,
+272,lem (fertile),1,3,kert,.75,0,,,,0,,,
+272,lem-teuf,0,,,,0,,,,1,2,kert,.5
+272,teuf(infertile),0,,,,0,,,,1,4,kert,1
+273,lem (fertile),2,2,kert,.5,0,,,,1,1,kert,.25
+273,lem-teuf,1,1,kert,.25,0,,,,2,2,kert,.5
+273,teuf(infertile),0,,,,0,,,,0,,,
+274,lem (fertile),2,6,kert,1.5,1,3,kert,.75,0,,,
+274,lem-teuf,2,4,kert,1,0,,,,0,,,
+274,teuf(infertile),0,,,,0,,,,0,,,
+275,lem (fertile),0,,,,0,,,,0,,,
+275,lem-teuf,3,8,kert,2,0,,,,0,,,
+275,teuf(infertile),2,6,kert,1.5,0,,,,0,,,
+276,lem (fertile),0,,,,0,,,,0,,,
+276,lem-teuf,1,19,kert,4.75,0,,,,0,,,
+276,teuf(infertile),0,,,,0,,,,0,,,
+277,lem (fertile),0,,,,0,,,,0,,,
+277,lem-teuf,2,6,kert,1.5,0,,,,1,2,kert,.5
+277,teuf(infertile),0,,,,0,,,,0,,,
+278,lem (fertile),0,,,,0,,,,0,,,
+278,lem-teuf,1,3,kert,.75,0,,,,1,2,kert,.5
+278,teuf(infertile),6,15,kert,3.75,0,,,,0,,,
+279,lem (fertile),0,,,,0,,,,0,,,
+279,lem-teuf,1,8,kert,2,0,,,,0,,,
+279,teuf(infertile),1,12,kert,3,0,,,,0,,,
+280,lem (fertile),1,2,kert,.5,0,,,,0,,,
+280,lem-teuf,3,7,kert,1.75,0,,,,3,6,kert,1.5
+280,teuf(infertile),0,,,,0,,,,0,,,
+281,lem (fertile),3,6.5,kert,1.625,0,,,,0,,,
+281,lem-teuf,1,1,kert,.25,0,,,,0,,,
+281,teuf(infertile),1,.5,kert,.125,0,,,,0,,,
+282,lem (fertile),1,1,kert,.25,0,,,,0,,,
+282,lem-teuf,2,10,kert,2.5,0,,,,0,,,
+282,teuf(infertile),0,,,,0,,,,0,,,
+283,lem (fertile),3,3,kert,.75,0,,,,0,,,
+283,lem-teuf,1,8,kert,2,0,,,,0,,,
+283,teuf(infertile),0,,,,0,,,,0,,,
+284,lem (fertile),0,,,,0,,,,0,,,
+284,lem-teuf,3,9,kert,2.25,0,,,,0,,,
+284,teuf(infertile),0,,,,0,,,,0,,,
+285,lem (fertile),0,,,,0,,,,0,,,
+285,lem-teuf,3,17,kert,4.25,0,,,,1,4,kert,1
+285,teuf(infertile),0,,,,0,,,,0,,,
+286,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+286,lem-teuf,1,2,kert,.5,0,,,,1,4,kert,1
+286,teuf(infertile),0,,,,0,,,,0,,,
+287,lem (fertile),1,2,kert,.5,0,,,,0,,,
+287,lem-teuf,1,2,kert,.5,0,,,,1,2,kert,.5
+287,teuf(infertile),0,,,,0,,,,0,,,
+288,lem (fertile),0,,,,0,,,,0,,,
+288,lem-teuf,0,,,,0,,,,3,4,kert,1
+288,teuf(infertile),0,,,,0,,,,0,,,
+289,lem (fertile),1,16,kert,4,0,,,,0,,,
+289,lem-teuf,0,,,,0,,,,0,,,
+289,teuf(infertile),2,7,kert,1.75,0,,,,0,,,
+290,lem (fertile),1,4,kert,1,0,,,,0,,,
+290,lem-teuf,2,6,kert,1.5,0,,,,0,,,
+290,teuf(infertile),0,,,,0,,,,0,,,
+291,lem (fertile),1,4,kert,1,0,,,,0,,,
+291,lem-teuf,2,6,kert,1.5,0,,,,0,,,
+291,teuf(infertile),0,,,,0,,,,0,,,
+292,lem (fertile),3,10,kert,2.5,0,,,,0,,,
+292,lem-teuf,3,13,kert,3.25,0,,,,2,5,kert,1.25
+292,teuf(infertile),0,,,,0,,,,0,,,
+293,lem (fertile),0,,,,0,,,,0,,,
+293,lem-teuf,7,14,kert,3.5,0,,,,0,,,
+293,teuf(infertile),0,,,,0,,,,0,,,
+294,lem (fertile),0,,,,0,,,,0,,,
+294,lem-teuf,2,3,kert,.75,0,,,,3,4,kert,1
+294,teuf(infertile),0,,,,0,,,,0,,,
+295,lem (fertile),0,,,,0,,,,0,,,
+295,lem-teuf,6,12.5,kert,3.125,0,,,,0,,,
+295,teuf(infertile),0,,,,0,,,,0,,,
+296,lem (fertile),1,3,kert,.75,0,,,,0,,,
+296,lem-teuf,3,3,kert,.75,0,,,,4,4,kert,1
+296,teuf(infertile),0,,,,0,,,,0,,,
+297,lem (fertile),2,4,kert,1,0,,,,0,,,
+297,lem-teuf,4,11,kert,2.75,0,,,,2,6,kert,1.5
+297,teuf(infertile),0,,,,0,,,,0,,,
+298,lem (fertile),1,3,kert,.75,0,,,,1,4,kert,1
+298,lem-teuf,3,6,kert,1.5,0,,,,0,,,
+298,teuf(infertile),2,4,kert,1,0,,,,0,,,
+299,lem (fertile),3,14,kert,3.5,0,,,,0,,,
+299,lem-teuf,3,9,kert,2.25,0,,,,0,,,
+299,teuf(infertile),0,,,,0,,,,0,,,
+300,lem (fertile),0,,,,0,,,,0,,,
+300,lem-teuf,10,26,kert,6.5,0,,,,0,,,
+300,teuf(infertile),0,,,,0,,,,0,,,
+301,lem (fertile),0,,,,0,,,,0,,,
+301,lem-teuf,3,20,kert,5,0,,,,2,6,kert,1.5
+301,teuf(infertile),0,,,,0,,,,0,,,
+302,lem (fertile),1,2,kert,.5,0,,,,0,,,
+302,lem-teuf,6,13,kert,3.25,0,,,,1,2,kert,.5
+302,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+303,lem (fertile),2,5,kert,1.25,0,,,,1,2,kert,.5
+303,lem-teuf,2,3,kert,.75,0,,,,1,3,kert,.75
+303,teuf(infertile),0,,,,0,,,,0,,,
+304,lem (fertile),2,4,kert,1,0,,,,0,,,
+304,lem-teuf,0,,,,0,,,,0,,,
+304,teuf(infertile),0,,,,0,,,,0,,,
+305,lem (fertile),1,5,kert,1.25,0,,,,0,,,
+305,lem-teuf,0,,,,0,,,,0,,,
+305,teuf(infertile),0,,,,0,,,,0,,,
+306,lem (fertile),3,13,kert,3.25,1,5,kert,1.25,0,,,
+306,lem-teuf,2,9,kert,2.25,0,,,,0,,,
+306,teuf(infertile),0,,,,0,,,,0,,,
+307,lem (fertile),0,,,,0,,,,0,,,
+307,lem-teuf,4,8.5,kert,2.125,0,,,,0,,,
+307,teuf(infertile),0,,,,0,,,,0,,,
+308,lem (fertile),0,,,,0,,,,0,,,
+308,lem-teuf,3,9,kert,2.25,0,,,,0,,,
+308,teuf(infertile),0,,,,0,,,,0,,,
+309,lem (fertile),0,,,,0,,,,0,,,
+309,lem-teuf,3,7,kert,1.75,0,,,,0,,,
+309,teuf(infertile),0,,,,0,,,,1,2,kert,.5
+310,lem (fertile),3,5.5,kert,1.375,0,,,,0,,,
+310,lem-teuf,3,4,kert,1,0,,,,0,,,
+310,teuf(infertile),0,,,,0,,,,0,,,
+311,lem (fertile),0,,,,0,,,,0,,,
+311,lem-teuf,1,8,kert,2,0,,,,0,,,
+311,teuf(infertile),4,13,kert,3.25,0,,,,0,,,
+312,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+312,lem-teuf,0,,,,0,,,,1,5,kert,1.25
+312,teuf(infertile),0,,,,0,,,,0,,,
+313,lem (fertile),1,2,kert,.5,0,,,,0,,,
+313,lem-teuf,3,4.5,kert,1.125,0,,,,3,4,kert,1
+313,teuf(infertile),0,,,,0,,,,0,,,
+314,lem (fertile),0,,,,0,,,,0,,,
+314,lem-teuf,1,1,kert,.25,0,,,,1,4,kert,5
+314,teuf(infertile),0,,,,0,,,,8,19,kert,4.75
+315,lem (fertile),4,12,kert,3,0,,,,0,,,
+315,lem-teuf,4,6,kert,1.5,0,,,,3,10,kert,2.5
+315,teuf(infertile),0,,,,0,,,,0,,,
+316,lem (fertile),0,,,,0,,,,0,,,
+316,lem-teuf,6,16,kert,4,0,,,,1,4,kert,1
+316,teuf(infertile),0,,,,0,,,,0,,,
+317,lem (fertile),2,10.75,kert,2.6875,0,,,,0,,,
+317,lem-teuf,2,5,kert,1.25,3,6,kert,1.5,0,,,
+317,teuf(infertile),0,,,,0,,,,0,,,
+318,lem (fertile),1,2,kert,.5,0,,,,0,,,
+318,lem-teuf,2,4,kert,1,0,,,,4,8,kert,2
+318,teuf(infertile),0,,,,0,,,,0,,,
+319,lem (fertile),1,1,kert,.25,0,,,,0,,,
+319,lem-teuf,3,7,kert,1.75,0,,,,0,,,
+319,teuf(infertile),0,,,,0,,,,0,,,
+320,lem (fertile),0,,,,0,,,,0,,,
+320,lem-teuf,1,1,kert,.25,0,,,,0,,,
+320,teuf(infertile),1,4,kert,1,0,,,,1,2,kert,.5
+321,lem (fertile),0,,,,0,,,,0,,,
+321,lem-teuf,3,7,kert,1.75,0,,,,0,,,
+321,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+322,lem (fertile),3,5,kert,1.25,0,,,,1,2,kert,.5
+322,lem-teuf,3,6,kert,1.5,0,,,,0,,,
+322,teuf(infertile),0,,,,0,,,,5,9,kert,2.25
+323,lem (fertile),0,,,,0,,,,1,6,kert,1.5
+323,lem-teuf,1,2,kert,.5,0,,,,0,,,
+323,teuf(infertile),0,,,,0,,,,0,,,
+324,lem (fertile),1,3,kert,.75,0,,,,0,,,
+324,lem-teuf,3,3,kert,.75,0,,,,0,,,
+324,teuf(infertile),0,,,,0,,,,0,,,
+325,lem (fertile),2,4.25,timad,1.0625,0,,,,0,,,
+325,lem-teuf,2,4,timad,1,0,,,,0,,,
+325,teuf(infertile),0,,,,0,,,,0,,,
+326,lem (fertile),0,,,,0,,,,0,,,
+326,lem-teuf,4,18,kert,4.5,0,,,,0,,,
+326,teuf(infertile),0,,,,0,,,,0,,,
+327,lem (fertile),2,2,kert,.5,0,,,,0,,,
+327,lem-teuf,1,8,kert,2,0,,,,0,,,
+327,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+328,lem (fertile),2,7,kert,1.75,0,,,,0,,,
+328,lem-teuf,2,6,kert,1.5,0,,,,1,2,kert,.5
+328,teuf(infertile),0,,,,0,,,,0,,,
+329,lem (fertile),0,,,,0,,,,0,,,
+329,lem-teuf,2,6,kert,1.5,0,,,,1,2,kert,.5
+329,teuf(infertile),0,,,,0,,,,0,,,
+330,lem (fertile),5,8,kert,2,0,,,,0,,,
+330,lem-teuf,0,,,,0,,,,0,,,
+330,teuf(infertile),0,,,,0,,,,0,,,
+331,lem (fertile),1,2,kert,.5,0,,,,1,2,kert,.5
+331,lem-teuf,0,,,,0,,,,0,,,
+331,teuf(infertile),0,,,,0,,,,0,,,
+332,lem (fertile),0,,,,0,,,,0,,,
+332,lem-teuf,1,2,kert,.5,0,,,,1,6,kert,1.5
+332,teuf(infertile),0,,,,0,,,,0,,,
+333,lem (fertile),1,1,kert,.25,0,,,,1,1,kert,.25
+333,lem-teuf,3,6,kert,1.5,0,,,,1,2,kert,.5
+333,teuf(infertile),0,,,,0,,,,0,,,
+334,lem (fertile),0,,,,0,,,,1,2,kert,.5
+334,lem-teuf,0,,,,0,,,,1,3,kert,.75
+334,teuf(infertile),1,.5,kert,.125,0,,,,0,,,
+335,lem (fertile),0,,,,0,,,,0,,,
+335,lem-teuf,5,7,kert,1.75,0,,,,0,,,
+335,teuf(infertile),0,,,,0,,,,0,,,
+336,lem (fertile),1,2,kert,.5,0,,,,0,,,
+336,lem-teuf,1,1,kert,.25,0,,,,2,5,kert,1.25
+336,teuf(infertile),0,,,,0,,,,0,,,
+337,lem (fertile),1,4,kert,1,0,,,,0,,,
+337,lem-teuf,0,,,,0,,,,0,,,
+337,teuf(infertile),0,,,,0,,,,0,,,
+338,lem (fertile),0,,,,0,,,,3,24,kert,6
+338,lem-teuf,1,4,kert,1,0,,,,3,9,kert,2.25
+338,teuf(infertile),0,,,,0,,,,2,8.5,kert,2.125
+339,lem (fertile),2,2,timad,.5,0,,,,0,,,
+339,lem-teuf,1,3,timad,.75,0,,,,2,7.5,timad,1.875
+339,teuf(infertile),0,,,,0,,,,0,,,
+340,lem (fertile),0,,,,0,,,,1,2,kert,.5
+340,lem-teuf,0,,,,0,,,,4,6,kert,1.5
+340,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+341,lem (fertile),1,1,kert,.25,0,,,,0,,,
+341,lem-teuf,6,16,kert,4,0,,,,1,5,kert,1.25
+341,teuf(infertile),0,,,,0,,,,0,,,
+342,lem (fertile),1,2,kert,.5,0,,,,1,2,kert,.5
+342,lem-teuf,2,6.5,kert,1.625,0,,,,0,,,
+342,teuf(infertile),0,,,,0,,,,0,,,
+343,lem (fertile),0,,,,0,,,,0,,,
+343,lem-teuf,3,6,kert,1.5,0,,,,2,5,kert,1.25
+343,teuf(infertile),3,7,kert,1.75,0,,,,0,,,
+344,lem (fertile),2,3,kert,.75,0,,,,2,8,kert,2
+344,lem-teuf,0,,,,0,,,,2,5,kert,1.25
+344,teuf(infertile),0,,,,0,,,,0,,,
+345,lem (fertile),1,8,kert,2,0,,,,2,9,kert,2.25
+345,lem-teuf,0,,,,0,,,,0,,,
+345,teuf(infertile),0,,,,0,,,,0,,,
+346,lem (fertile),0,,,,0,,,,0,,,
+346,lem-teuf,0,,,,0,,,,2,14,kert,3.5
+346,teuf(infertile),0,,,,0,,,,0,,,
+347,lem (fertile),0,,,,0,,,,0,,,
+347,lem-teuf,2,8,kert,2,0,,,,0,,,
+347,teuf(infertile),0,,,,0,,,,0,,,
+348,lem (fertile),3,8.5,kert,2.125,0,,,,0,,,
+348,lem-teuf,1,1,kert,.25,0,,,,0,,,
+348,teuf(infertile),0,,,,0,,,,0,,,
+349,lem (fertile),0,,,,0,,,,0,,,
+349,lem-teuf,2,4.5,kert,1.125,0,,,,1,1,kert,.25
+349,teuf(infertile),0,,,,0,,,,0,,,
+350,lem (fertile),1,5,kert,1.25,0,,,,0,,,
+350,lem-teuf,3,6,kert,1.5,0,,,,0,,,
+350,teuf(infertile),0,,,,0,,,,0,,,
+351,lem (fertile),1,1.5,kert,.375,0,,,,0,,,
+351,lem-teuf,2,2.5,kert,.625,0,,,,0,,,
+351,teuf(infertile),0,,,,0,,,,0,,,
+352,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+352,lem-teuf,0,,,,0,,,,0,,,
+352,teuf(infertile),1,6,kert,1.5,0,,,,0,,,
+353,lem (fertile),0,,,,0,,,,0,,,
+353,lem-teuf,2,5,kert,1.25,0,,,,0,,,
+353,teuf(infertile),0,,,,0,,,,0,,,
+37,lem (fertile),2,.75,timad,.1875,0,,,,2,.75,timad,.1875
+37,lem-teuf,0,,,,0,,,,0,,,
+37,teuf(infertile),1,.75,timad,.1875,0,,,,0,,,
+38,lem (fertile),0,,,,0,,,,0,,,
+38,lem-teuf,3,2,timad,.5,0,,,,0,,,
+38,teuf(infertile),0,,,,0,,,,0,,,
+39,lem (fertile),0,,,,0,,,,2,3,other,.375
+39,lem-teuf,0,,,,0,,,,0,,,
+39,teuf(infertile),0,,,,0,,,,4,15,other,1.875
+40,lem (fertile),0,,,,0,,,,0,,,
+40,lem-teuf,0,,,,0,,,,0,,,
+40,teuf(infertile),4,8,gezem,1,0,,,,0,,,
+41,lem (fertile),1,2,gezem,.25,0,,,,0,,,
+41,lem-teuf,1,4,gezem,.5,0,,,,0,,,
+41,teuf(infertile),1,4,gezem,.5,0,,,,2,4,gezem,.5
+42,lem (fertile),0,,,,0,,,,0,,,
+42,lem-teuf,3,5.5,gezem,.6875,0,,,,0,,,
+42,teuf(infertile),0,,,,0,,,,0,,,
+43,lem (fertile),1,2.25,timad,.5625,0,,,,0,,,
+43,lem-teuf,0,,,,0,,,,0,,,
+43,teuf(infertile),2,3,timad,.75,0,,,,1,1,timad,.25
+44,lem (fertile),2,4,timad,1,0,,,,0,,,
+44,lem-teuf,0,,,,0,,,,0,,,
+44,teuf(infertile),0,,,,0,,,,0,,,
+45,lem (fertile),0,,,,0,,,,0,,,
+45,lem-teuf,1,1,timad,.25,0,,,,2,1.75,timad,.4375
+45,teuf(infertile),3,2.5,timad,.625,0,,,,0,,,
+46,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+46,lem-teuf,2,1.5,timad,.375,0,,,,0,,,
+46,teuf(infertile),1,1.5,timad,.375,0,,,,0,,,
+47,lem (fertile),1,1,gezem,.125,0,,,,0,,,
+47,lem-teuf,1,13,gezem,1.625,0,,,,0,,,
+47,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+48,lem (fertile),0,,,,0,,,,0,,,
+48,lem-teuf,0,,,,0,,,,0,,,
+48,teuf(infertile),3,4.5,timad,1.125,0,,,,0,,,
+49,lem (fertile),2,8,gezem,1,0,,,,0,,,
+49,lem-teuf,0,,,,0,,,,0,,,
+49,teuf(infertile),0,,,,0,,,,0,,,
+50,lem (fertile),3,5,timad,1.25,0,,,,1,1,timad,.25
+50,lem-teuf,0,,,,0,,,,0,,,
+50,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+51,lem (fertile),2,4,timad,1,0,,,,0,,,
+51,lem-teuf,1,1,timad,.25,0,,,,1,2,timad,.25
+51,teuf(infertile),0,,,,0,,,,0,,,
+52,lem (fertile),2,2,timad,.5,0,,,,1,.5,timad,.125
+52,lem-teuf,0,,,,0,,,,0,,,
+52,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+53,lem (fertile),3,3.75,gemad,.9375,0,,,,0,,,
+53,lem-teuf,0,,,,0,,,,0,,,
+53,teuf(infertile),2,4,gemad,1,0,,,,0,,,
+54,lem (fertile),2,5,gezem,.625,0,,,,0,,,
+54,lem-teuf,0,,,,0,,,,0,,,
+54,teuf(infertile),3,7,gezem,.875,0,,,,0,,,
+55,lem (fertile),2,6,gezem,.75,0,,,,0,,,
+55,lem-teuf,1,4,gezem,.5,0,,,,0,,,
+55,teuf(infertile),1,4,gezem,.5,0,,,,0,,,
+56,lem (fertile),2,2.5,timad,.625,0,,,,0,,,
+56,lem-teuf,0,,,,0,,,,0,,,
+56,teuf(infertile),2,1,timad,.25,0,,,,0,,,
+57,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+57,lem-teuf,0,,,,0,,,,0,,,
+57,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+58,lem (fertile),3,5.5,gezem,1.6875,0,,,,1,1,gezem,.125
+58,lem-teuf,0,,,,0,,,,0,,,
+58,teuf(infertile),0,,,,0,,,,0,,,
+59,lem (fertile),2,5,gezem,.625,0,,,,0,,,
+59,lem-teuf,0,,,,0,,,,0,,,
+59,teuf(infertile),1,6,gezem,.75,0,,,,0,,,
+60,lem (fertile),0,,,,0,,,,1,3,gezem,.375
+60,lem-teuf,1,3,gezem,.375,0,,,,0,,,
+60,teuf(infertile),1,3,gezem,.375,0,,,,1,4,gezem,.5
+61,lem (fertile),0,,,,0,,,,0,,,
+61,lem-teuf,2,1.5,timad,.375,0,,,,1,.75,timad,.1875
+61,teuf(infertile),2,1.75,timad,.4375,0,,,,0,,,
+62,lem (fertile),1,1,gezem,.125,0,,,,1,3,gezem,.375
+62,lem-teuf,1,1,gezem,.125,0,,,,0,,,
+62,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+63,lem (fertile),2,9,gezem,1.125,0,,,,0,,,
+63,lem-teuf,0,,,,0,,,,0,,,
+63,teuf(infertile),0,,,,0,,,,0,,,
+64,lem (fertile),2,5,gezem,.625,0,,,,2,5,gezem,.625
+64,lem-teuf,2,4,gezem,.5,0,,,,2,5,gezem,.625
+64,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+65,lem (fertile),2,1.5,gemad,.375,0,,,,1,1,gemad,.25
+65,lem-teuf,0,,,,0,,,,0,,,
+65,teuf(infertile),4,2.5,gemad,.625,0,,,,1,.5,gemad,.125
+66,lem (fertile),1,2,timad,.5,0,,,,0,,,
+66,lem-teuf,0,,,,0,,,,0,,,
+66,teuf(infertile),2,1.5,timad,.375,0,,,,0,,,
+67,lem (fertile),3,2.75,timad,.6875,1,1,timad,.25,0,,,
+67,lem-teuf,0,,,,0,,,,0,,,
+67,teuf(infertile),0,,,,0,,,,0,,,
+68,lem (fertile),1,4,timad,1,0,,,,3,3,timad,.75
+68,lem-teuf,0,,,,0,,,,0,,,
+68,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+69,lem (fertile),2,2,timad,.5,0,,,,1,1,timad,.25
+69,lem-teuf,0,,,,0,,,,0,,,
+69,teuf(infertile),3,5,timad,1.25,0,,,,0,,,
+70,lem (fertile),0,,,,0,,,,1,2,gezem,.25
+70,lem-teuf,0,,,,0,,,,0,,,
+70,teuf(infertile),1,3,gezem,.375,0,,,,0,,,
+71,lem (fertile),2,2,timad,.5,0,,,,0,,,
+71,lem-teuf,0,,,,0,,,,0,,,
+71,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+72,lem (fertile),0,,,,0,,,,0,,,
+72,lem-teuf,2,4,gezem,.5,0,,,,0,,,
+72,teuf(infertile),1,3,gezem,.375,0,,,,0,,,
+73,lem (fertile),0,,,,2,5,gezem,.625,0,,,
+73,lem-teuf,1,1,gezem,.125,1,6,gezem,.75,0,,,
+73,teuf(infertile),1,1,gezem,.125,0,,,,0,,,
+74,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+74,lem-teuf,2,4,timad,1,0,,,,0,,,
+74,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+75,lem (fertile),5,7.5,gezem,.9375,0,,,,0,,,
+75,lem-teuf,0,,,,0,,,,0,,,
+75,teuf(infertile),0,,,,0,,,,0,,,
+76,lem (fertile),6,5.5,gemad,1.375,0,,,,0,,,
+76,lem-teuf,0,,,,0,,,,0,,,
+76,teuf(infertile),1,1.5,gemad,.375,0,,,,0,,,
+77,lem (fertile),0,,,,0,,,,1,1.5,gezem,.1875
+77,lem-teuf,0,,,,0,,,,0,,,
+77,teuf(infertile),0,,,,0,,,,1,3,gezem,.375
+78,lem (fertile),4,8.5,gezem,1.0625,0,,,,0,,,
+78,lem-teuf,0,,,,0,,,,0,,,
+78,teuf(infertile),0,,,,0,,,,0,,,
+79,lem (fertile),2,4,timad,1,0,,,,0,,,
+79,lem-teuf,3,3.5,timad,.875,0,,,,0,,,
+79,teuf(infertile),0,,,,0,,,,0,,,
+80,lem (fertile),0,,,,0,,,,0,,,
+80,lem-teuf,1,4,gezem,.5,0,,,,0,,,
+80,teuf(infertile),1,4,gezem,.5,0,,,,0,,,
+81,lem (fertile),1,2,timad,.5,0,,,,0,,,
+81,lem-teuf,2,1,timad,.25,0,,,,0,,,
+81,teuf(infertile),0,,,,0,,,,0,,,
+82,lem (fertile),0,,,,0,,,,0,,,
+82,lem-teuf,0,,,,0,,,,0,,,
+82,teuf(infertile),1,2,gezem,.25,1,2,gezem,.25,0,,,
+83,lem (fertile),0,,,,0,,,,0,,,
+83,lem-teuf,2,1.25,timad,.3125,0,,,,0,,,
+83,teuf(infertile),4,4.75,timad,1.1875,0,,,,0,,,
+84,lem (fertile),2,2,timad,.5,0,,,,0,,,
+84,lem-teuf,0,,,,0,,,,0,,,
+84,teuf(infertile),2,4,timad,1,0,,,,0,,,
+85,lem (fertile),1,2,gezem,.25,0,,,,0,,,
+85,lem-teuf,1,4,gezem,.5,0,,,,0,,,
+85,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+86,lem (fertile),0,,,,0,,,,1,2,gezem,.25
+86,lem-teuf,2,3,gezem,.375,0,,,,0,,,
+86,teuf(infertile),3,7,gezem,.875,0,,,,0,,,
+87,lem (fertile),0,,,,0,,,,1,1.5,timad,.375
+87,lem-teuf,2,3,timad,.75,0,,,,0,,,
+87,teuf(infertile),0,,,,0,,,,0,,,
+88,lem (fertile),0,,,,0,,,,0,,,
+88,lem-teuf,3,2.5,timad,.625,0,,,,1,2,timad,.5
+88,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+89,lem (fertile),2,3,timad,.75,0,,,,0,,,
+89,lem-teuf,1,.5,timad,.125,1,2,timad,.5,0,,,
+89,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+90,lem (fertile),1,.25,timad,.0625,0,,,,0,,,
+90,lem-teuf,2,4,timad,1,0,,,,1,2.5,timad,.625
+90,teuf(infertile),0,,,,0,,,,0,,,
+91,lem (fertile),2,2.5,gezem,.3125,0,,,,1,2,gezem,.25
+91,lem-teuf,1,.5,gezem,.0625,0,,,,1,2,gezem,.25
+91,teuf(infertile),2,4,gezem,.5,0,,,,2,6,gezem,.75
+92,lem (fertile),0,,,,0,,,,2,2.5,timad,.625
+92,lem-teuf,0,,,,0,,,,0,,,
+92,teuf(infertile),4,6.25,timad,1.5599999,0,,,,0,,,
+93,lem (fertile),2,3,gezem,.375,0,,,,0,,,
+93,lem-teuf,1,1,gezem,.125,0,,,,1,1,gezem,.125
+93,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+94,lem (fertile),4,5.5,gemad,1.375,0,,,,0,,,
+94,lem-teuf,0,,,,0,,,,0,,,
+94,teuf(infertile),2,1.75,gemad,.4375,0,,,,0,,,
+95,lem (fertile),1,.75,gemad,.1875,0,,,,1,1,gemad,.25
+95,lem-teuf,1,1,gemad,.25,0,,,,1,1,gemad,.25
+95,teuf(infertile),2,3.75,gemad,.935,0,,,,1,1,gemad,.25
+96,lem (fertile),0,,,,0,,,,0,,,
+96,lem-teuf,2,6,timad,1.5,0,,,,0,,,
+96,teuf(infertile),1,2,timad,.5,0,,,,2,5,timad,1.25
+97,lem (fertile),2,5,gezem,.625,0,,,,2,7,gezem,.875
+97,lem-teuf,1,1,gezem,.125,0,,,,0,,,
+97,teuf(infertile),2,4,gezem,.5,0,,,,0,,,
+98,lem (fertile),0,,,,0,,,,2,6,gezem,.75
+98,lem-teuf,1,2,gezem,.25,0,,,,0,,,
+98,teuf(infertile),2,8,gezem,1,0,,,,0,,,
+99,lem (fertile),1,2.5,gezem,.3125,0,,,,1,3,gezem,.375
+99,lem-teuf,0,,,,0,,,,0,,,
+99,teuf(infertile),1,4,gezem,.5,0,,,,3,6,gezem,.75
+100,lem (fertile),0,,,,0,,,,1,1.5,timad,.375
+100,lem-teuf,0,,,,0,,,,2,1.25,timad,.3125
+100,teuf(infertile),0,,,,0,,,,2,1.75,timad,.4375
+101,lem (fertile),1,3,gezem,.375,0,,,,1,1,gezem,.125
+101,lem-teuf,0,,,,0,,,,1,2,gezem,.25
+101,teuf(infertile),1,1,gezem,.125,0,,,,0,,,
+102,lem (fertile),1,2,timad,.5,0,,,,0,,,
+102,lem-teuf,1,1,timad,.25,0,,,,1,2,timad,.5
+102,teuf(infertile),2,3,timad,.75,0,,,,0,,,
+103,lem (fertile),1,4,gezem,.5,0,,,,2,10,gezem,1.25
+103,lem-teuf,1,1,gezem,.125,0,,,,0,,,
+103,teuf(infertile),0,,,,0,,,,0,,,
+104,lem (fertile),1,1,timad,.25,0,,,,1,1,timad,.25
+104,lem-teuf,1,1,timad,.25,0,,,,0,,,
+104,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+105,lem (fertile),2,5,timad,1.25,0,,,,0,,,
+105,lem-teuf,0,,,,0,,,,0,,,
+105,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+106,lem (fertile),0,,,,0,,,,0,,,
+106,lem-teuf,2,3,timad,.75,0,,,,0,,,
+106,teuf(infertile),3,2.25,timad,.5625,0,,,,1,1,timad,.25
+107,lem (fertile),2,4,gezem,.5,0,,,,1,2,gezem,.25
+107,lem-teuf,0,,,,0,,,,0,,,
+107,teuf(infertile),2,6,gezem,.75,0,,,,0,,,
+108,lem (fertile),0,,,,0,,,,3,1.75,timad,.4375
+108,lem-teuf,0,,,,0,,,,0,,,
+108,teuf(infertile),0,,,,0,,,,1,2,timad,.5
+109,lem (fertile),1,1,timad,.25,1,1,timad,.25,2,3,timad,.75
+109,lem-teuf,0,,,,0,,,,1,.75,timad,.1875
+109,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+110,lem (fertile),0,,,,0,,,,0,,,
+110,lem-teuf,1,5,gezem,.625,0,,,,1,3,gezem,.375
+110,teuf(infertile),1,2,gezem,.25,0,,,,1,2,gezem,.25
+111,lem (fertile),1,3,gezem,.375,0,,,,0,,,
+111,lem-teuf,1,3,gezem,.375,0,,,,0,,,
+111,teuf(infertile),2,2,gezem,.25,0,,,,0,,,
+112,lem (fertile),2,3.5,gezem,.44,0,,,,3,5,gezem,.625
+112,lem-teuf,1,4,gezem,.5,0,,,,1,1.5,gezem,.19
+112,teuf(infertile),0,,,,0,,,,0,,,
+113,lem (fertile),0,,,,0,,,,2,6,gezem,.75
+113,lem-teuf,2,6,gezem,.75,0,,,,1,5,gezem,.625
+113,teuf(infertile),1,1,gezem,.125,0,,,,0,,,
+114,lem (fertile),1,6,gezem,.75,0,,,,2,5,gezem,.625
+114,lem-teuf,0,,,,0,,,,0,,,
+114,teuf(infertile),0,,,,0,,,,0,,,
+115,lem (fertile),0,,,,0,,,,1,3,gezem,.375
+115,lem-teuf,3,6,gezem,.75,0,,,,1,3,gezem,.375
+115,teuf(infertile),0,,,,0,,,,0,,,
+116,lem (fertile),1,2,timad,.5,0,,,,2,2.5,timad,.625
+116,lem-teuf,0,,,,0,,,,0,,,
+116,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+117,lem (fertile),1,3,timad,.75,0,,,,3,4.5,timad,1.125
+117,lem-teuf,0,,,,0,,,,1,1.5,timad,.375
+117,teuf(infertile),0,,,,0,,,,0,,,
+118,lem (fertile),3,3,gemad,.75,0,,,,4,4.5,gemad,1.125
+118,lem-teuf,0,,,,0,,,,0,,,
+118,teuf(infertile),2,2,gemad,.5,0,,,,0,,,
+119,lem (fertile),4,8.5,hectare,1.0625,0,,,,1,2,gezem,.25
+119,lem-teuf,1,1,gezem,.125,0,,,,0,,,
+119,teuf(infertile),0,,,,0,,,,0,,,
+120,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+120,lem-teuf,2,3,timad,.75,0,,,,0,,,
+120,teuf(infertile),2,1.75,timad,.4375,0,,,,0,,,
+1,lem (fertile),3,3,timad,.75,0,,,,2,2.75,timad,.676
+1,lem-teuf,2,2,timad,.5,0,,,,0,,,
+1,teuf(infertile),2,2,timad,.5,0,,,,1,.5,timad,.125
+2,lem (fertile),2,4,gezem,.5,0,,,,0,,,
+2,lem-teuf,2,2.5,gezem,.3125,0,,,,1,2,gezem,.25
+2,teuf(infertile),0,,,,0,,,,3,7,gezem,.875
+3,lem (fertile),1,1,gezem,.125,0,,,,1,1,gezem,.125
+3,lem-teuf,1,2,gezem,.25,0,,,,3,6,gezem,.75
+3,teuf(infertile),0,,,,0,,,,0,,,
+4,lem (fertile),0,,,,0,,,,0,,,
+4,lem-teuf,2,4,gezem,.5,0,,,,0,,,
+4,teuf(infertile),1,1,gezem,.125,0,,,,1,2,gezem,.25
+5,lem (fertile),0,,,,0,,,,0,,,
+5,lem-teuf,4,7,gezem,.875,0,,,,3,6,gezem,.75
+5,teuf(infertile),0,,,,0,,,,0,,,
+361,lem (fertile),1,4,kert,.5,0,,,,0,,,
+361,lem-teuf,2,14,kert,1.625,0,,,,0,,,
+361,teuf(infertile),2,12,kert,1.5,0,,,,0,,,
+362,lem (fertile),1,.5,kert,.0625,0,,,,1,5,kert,.625
+362,lem-teuf,1,2,kert,.25,0,,,,1,4,kert,.5
+362,teuf(infertile),0,,,,0,,,,0,,,
+363,lem (fertile),0,,,,0,,,,0,,,
+363,lem-teuf,1,4,timad,.5,0,,,,0,,,
+363,teuf(infertile),3,8,timad,1,0,,,,1,1,timad,.125
+364,lem (fertile),0,,,,0,,,,0,,,
+364,lem-teuf,7,13,kert,3.25,0,,,,1,2,kert,.5
+364,teuf(infertile),0,,,,0,,,,0,,,
+365,lem (fertile),2,2,kert,.5,0,,,,0,,,
+365,lem-teuf,3,5,kert,1.25,0,,,,0,,,
+365,teuf(infertile),2,2,kert,.5,0,,,,0,,,
+366,lem (fertile),3,2.5,kert,.625,0,,,,0,,,
+366,lem-teuf,5,6.5,kert,1.625,0,,,,0,,,
+366,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+367,lem (fertile),1,.5,kert,.125,0,,,,2,5.5,kert,1.375
+367,lem-teuf,1,1,kert,.25,0,,,,4,3.5,kert,.875
+367,teuf(infertile),0,,,,0,,,,0,,,
+368,lem (fertile),1,2,kert,.5,0,,,,2,3.5,kert,.875
+368,lem-teuf,4,4,kert,1,0,,,,4,7,kert,1.75
+368,teuf(infertile),0,,,,0,,,,0,,,
+369,lem (fertile),2,7,kert,.875,0,,,,0,,,
+369,lem-teuf,2,8,kert,1,0,,,,0,,,
+369,teuf(infertile),1,10,kert,1.25,0,,,,0,,,
+370,lem (fertile),1,2,kert,.25,0,,,,0,,,
+370,lem-teuf,1,4,kert,.5,0,,,,1,3,kert,.375
+370,teuf(infertile),2,9,kert,1.125,0,,,,0,,,
+371,lem (fertile),2,21,kert,2.625,0,,,,0,,,
+371,lem-teuf,2,16,kert,2,0,,,,0,,,
+371,teuf(infertile),1,2,kert,.25,0,,,,0,,,
+372,lem (fertile),4,11,kert,1.375,0,,,,0,,,
+372,lem-teuf,2,7,kert,.875,0,,,,1,10,kert,1.25
+372,teuf(infertile),0,,,,0,,,,0,,,
+373,lem (fertile),1,4,kert,.5,0,,,,0,,,
+373,lem-teuf,0,,,,0,,,,2,13,kert,1.625
+373,teuf(infertile),1,10,kert,1.25,0,,,,0,,,
+374,lem (fertile),1,1,kert,.25,0,,,,1,1.5,kert,.25
+374,lem-teuf,1,1.5,kert,.375,0,,,,3,6,kert,1.5
+374,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+375,lem (fertile),1,2,kert,.5,0,,,,1,2,kert,.5
+375,lem-teuf,5,6,kert,1.5,0,,,,3,6,kert,1.5
+375,teuf(infertile),0,,,,0,,,,0,,,
+376,lem (fertile),2,2,kert,.5,0,,,,2,8,kert,2
+376,lem-teuf,0,,,,0,,,,3,6,kert,1.5
+376,teuf(infertile),0,,,,0,,,,0,,,
+377,lem (fertile),2,4,kert,.5,0,,,,0,,,
+377,lem-teuf,4,21.5,kert,2.687,0,,,,1,4,kert,.5
+377,teuf(infertile),1,8,kert,1,0,,,,0,,,
+378,lem (fertile),1,2,kert,.5,0,,,,2,4,kert,1
+378,lem-teuf,2,6,timad,.5,0,,,,2,3,kert,.75
+378,teuf(infertile),2,4,kert,1,0,,,,0,,,
+379,lem (fertile),1,1,timad,.125,0,,,,1,3,timad,.375
+379,lem-teuf,2,4,timad,.5,0,,,,0,,,
+379,teuf(infertile),4,10,timad,1.25,0,,,,0,,,
+380,lem (fertile),4,13,kert,2.1600001,0,,,,0,,,
+380,lem-teuf,0,,,,0,,,,0,,,
+380,teuf(infertile),0,,,,0,,,,0,,,
+381,lem (fertile),4,5.5,kert,.91000003,0,,,,0,,,
+381,lem-teuf,0,,,,0,,,,0,,,
+381,teuf(infertile),0,,,,0,,,,0,,,
+382,lem (fertile),2,4,kert,.66000003,2,4,kert,.66000003,0,,,
+382,lem-teuf,0,,,,0,,,,0,,,
+382,teuf(infertile),0,,,,0,,,,0,,,
+383,lem (fertile),1,.5,kert,.079999998,0,,,,0,,,
+383,lem-teuf,3,4,kert,.67000002,0,,,,2,2,kert,.33000001
+383,teuf(infertile),0,,,,0,,,,0,,,
+384,lem (fertile),0,,,,0,,,,0,,,
+384,lem-teuf,4,5.5,kert,.91670001,0,,,,0,,,
+384,teuf(infertile),0,,,,0,,,,0,,,
+385,lem (fertile),6,11,kert,1.83,0,,,,0,,,
+385,lem-teuf,2,4,kert,.66000003,0,,,,0,,,
+385,teuf(infertile),0,,,,0,,,,0,,,
+386,lem (fertile),0,,,,0,,,,0,,,
+386,lem-teuf,5,13.5,kert,2.25,0,,,,1,3,kert,.16
+386,teuf(infertile),0,,,,0,,,,0,,,
+387,lem (fertile),1,3,kert,.5,0,,,,0,,,
+387,lem-teuf,5,18,kert,3,0,,,,1,3,kert,.5
+387,teuf(infertile),4,10,kert,1.66,0,,,,0,,,
+388,lem (fertile),3,6,kert,1,0,,,,2,7,kert,1.16
+388,lem-teuf,2,2.5,kert,.41,0,,,,0,,,
+388,teuf(infertile),1,6,kert,1,0,,,,0,,,
+389,lem (fertile),1,2,kert,.33000001,0,,,,0,,,
+389,lem-teuf,5,12,kert,2,0,,,,0,,,
+389,teuf(infertile),0,,,,0,,,,0,,,
+390,lem (fertile),2,6.5,kert,1.625,0,,,,3,5,kert,1.25
+390,lem-teuf,2,2.5,kert,.625,0,,,,1,1,kert,.25
+390,teuf(infertile),0,,,,0,,,,1,1,kert,.25
+391,lem (fertile),2,5,kert,1.25,0,,,,1,2,kert,.5
+391,lem-teuf,4,4.25,kert,1.0625,0,,,,2,3.5,kert,.875
+391,teuf(infertile),0,,,,0,,,,0,,,
+392,lem (fertile),5,12,kert,2,0,,,,1,1,kert,.25
+392,lem-teuf,1,2,kert,.5,0,,,,2,4,kert,1
+392,teuf(infertile),0,,,,0,,,,0,,,
+393,lem (fertile),2,4,kert,1,0,,,,0,,,
+393,lem-teuf,2,4.5,kert,1.125,0,,,,1,1.5,kert,.375
+393,teuf(infertile),1,.5,kert,.125,0,,,,1,1.5,kert,.375
+394,lem (fertile),0,,,,0,,,,0,,,
+394,lem-teuf,0,,,,0,,,,0,,,
+394,teuf(infertile),6,7,kert,1.75,0,,,,0,,,
+395,lem (fertile),2,7,kert,1.75,0,,,,2,4.5,kert,1.125
+395,lem-teuf,6,8.25,kert,2.0625,0,,,,0,,,
+395,teuf(infertile),0,,,,0,,,,0,,,
+396,lem (fertile),0,,,,0,,,,0,,,
+396,lem-teuf,4,6,kert,1.5,0,,,,0,,,
+396,teuf(infertile),5,8,kert,1.33,0,,,,0,,,
+397,lem (fertile),4,8,kert,2,0,,,,1,3,kert,.75
+397,lem-teuf,5,9.5,kert,2.375,0,,,,0,,,
+397,teuf(infertile),0,,,,0,,,,0,,,
+398,lem (fertile),4,5,kert,1.25,0,,,,0,,,
+398,lem-teuf,1,.5,kert,.125,0,,,,0,,,
+398,teuf(infertile),1,3,kert,.75,0,,,,2,3.5,kert,.875
+399,lem (fertile),1,1,kert,.25,0,,,,0,,,
+399,lem-teuf,9,10,kert,2.5,0,,,,0,,,
+399,teuf(infertile),0,,,,0,,,,0,,,
+400,lem (fertile),0,,,,0,,,,0,,,
+400,lem-teuf,9,24.5,kert,4.0799999,0,,,,0,,,
+400,teuf(infertile),0,,,,0,,,,0,,,
+6,lem (fertile),1,4,other,.5,0,,,,3,14,other,1.75
+6,lem-teuf,0,,,,0,,,,0,,,
+6,teuf(infertile),0,,,,0,,,,0,,,
+7,lem (fertile),1,2,gezem,.25,0,,,,4,11,gezem,1.375
+7,lem-teuf,0,,,,0,,,,0,,,
+7,teuf(infertile),1,6,gezem,.75,0,,,,4,11,gezem,1.375
+8,lem (fertile),2,2,gezem,.25,0,,,,2,4,gezem,.5
+8,lem-teuf,0,,,,0,,,,0,,,
+8,teuf(infertile),2,2,gezem,.25,0,,,,0,,,
+9,lem (fertile),4,4,gezem,.5,0,,,,0,,,
+9,lem-teuf,0,,,,0,,,,0,,,
+9,teuf(infertile),1,4,gezem,.5,0,,,,0,,,
+10,lem (fertile),5,11.5,gezem,1.4400001,0,,,,0,,,
+10,lem-teuf,2,4,gezem,.5,0,,,,0,,,
+10,teuf(infertile),1,3,gezem,.375,0,,,,0,,,
+801,lem (fertile),1,1,timad,.25,0,,,,2,2,timad,.5
+801,lem-teuf,0,,,,0,,,,0,,,
+801,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+802,lem (fertile),0,,,,0,,,,0,,,
+802,lem-teuf,1,1,timad,.25,0,,,,0,,,
+802,teuf(infertile),3,4,timad,1,0,,,,0,,,
+803,lem (fertile),2,2.5,timad,.625,0,,,,0,,,
+803,lem-teuf,0,,,,0,,,,0,,,
+803,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+804,lem (fertile),2,1.5,timad,.375,0,,,,1,.5,timad,.125
+804,lem-teuf,1,2,timad,.5,0,,,,0,,,
+804,teuf(infertile),0,,,,0,,,,0,,,
+805,lem (fertile),1,1,timad,.25,0,,,,1,1,timad,.25
+805,lem-teuf,1,.5,timad,.125,0,,,,0,,,
+805,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+806,lem (fertile),3,5.5,timad,1.375,0,,,,2,2,timad,.5
+806,lem-teuf,0,,,,0,,,,1,2,timad,.5
+806,teuf(infertile),0,,,,0,,,,0,,,
+807,lem (fertile),0,,,,0,,,,0,,,
+807,lem-teuf,3,5,timad,1.25,1,2,timad,.5,0,,,
+807,teuf(infertile),0,,,,0,,,,0,,,
+808,lem (fertile),1,1.5,timad,.375,0,,,,0,,,
+808,lem-teuf,1,1.5,timad,.375,0,,,,1,1,timad,.25
+808,teuf(infertile),2,6,timad,1.5,0,,,,1,1.5,timad,.375
+809,lem (fertile),1,2,timad,.5,0,,,,0,,,
+809,lem-teuf,4,6.0799999,timad,1.52,0,,,,0,,,
+809,teuf(infertile),1,1.1,timad,.27500001,0,,,,0,,,
+810,lem (fertile),1,1.1,timad,.27500001,0,,,,0,,,
+810,lem-teuf,1,3,timad,.75,0,,,,0,,,
+810,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+811,lem (fertile),0,,,,0,,,,0,,,
+811,lem-teuf,3,4,timad,1,0,,,,0,,,
+811,teuf(infertile),0,,,,0,,,,0,,,
+812,lem (fertile),0,,,,0,,,,0,,,
+812,lem-teuf,0,,,,0,,,,0,,,
+812,teuf(infertile),2,5,timad,1.25,0,,,,0,,,
+813,lem (fertile),0,,,,0,,,,0,,,
+813,lem-teuf,0,,,,0,,,,0,,,
+813,teuf(infertile),4,4.5,timad,1.125,0,,,,0,,,
+814,lem (fertile),0,,,,0,,,,0,,,
+814,lem-teuf,0,,,,0,,,,0,,,
+814,teuf(infertile),1,1.5,timad,.375,0,,,,3,4.5,timad,1.125
+815,lem (fertile),2,2,timad,.5,0,,,,1,2,timad,.5
+815,lem-teuf,0,,,,0,,,,0,,,
+815,teuf(infertile),0,,,,0,,,,0,,,
+816,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+816,lem-teuf,1,1,timad,.25,0,,,,1,2,timad,.5
+816,teuf(infertile),2,3,timad,.75,0,,,,0,,,
+817,lem (fertile),2,2.5,timad,.625,0,,,,0,,,
+817,lem-teuf,2,2,timad,.5,0,,,,0,,,
+817,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+818,lem (fertile),1,2,timad,.5,0,,,,0,,,
+818,lem-teuf,2,4.5,timad,1.0625,0,,,,0,,,
+818,teuf(infertile),0,,,,0,,,,0,,,
+819,lem (fertile),1,1,timad,.25,0,,,,0,,,
+819,lem-teuf,1,1.5,timad,.375,0,,,,2,3,timad,.75
+819,teuf(infertile),1,1,timad,.25,0,,,,1,2,timad,.5
+820,lem (fertile),0,,,,0,,,,0,,,
+820,lem-teuf,1,2,timad,.5,0,,,,0,,,
+820,teuf(infertile),2,4,timad,1,0,,,,0,,,
+821,lem (fertile),1,1.5,timad,.375,0,,,,0,,,
+821,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+821,teuf(infertile),2,1.5,timad,.375,0,,,,0,,,
+822,lem (fertile),0,,,,0,,,,0,,,
+822,lem-teuf,1,1,timad,.25,0,,,,1,1,timad,.25
+822,teuf(infertile),2,1,timad,.25,0,,,,0,,,
+823,lem (fertile),1,1,timad,.25,0,,,,0,,,
+823,lem-teuf,1,1,timad,.25,0,,,,0,,,
+823,teuf(infertile),0,,,,0,,,,0,,,
+824,lem (fertile),0,,,,0,,,,0,,,
+824,lem-teuf,2,2,timad,.5,0,,,,0,,,
+824,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+825,lem (fertile),0,,,,0,,,,0,,,
+825,lem-teuf,1,3,timad,.75,0,,,,0,,,
+825,teuf(infertile),3,6.5,timad,1.625,0,,,,1,1.5,timad,.375
+826,lem (fertile),0,,,,0,,,,0,,,
+826,lem-teuf,0,,,,0,,,,0,,,
+826,teuf(infertile),2,2.1300001,timad,.53200001,0,,,,1,1,timad,.25
+827,lem (fertile),3,1.1,timad,.27500001,0,,,,1,2,timad,.5
+827,lem-teuf,0,,,,0,,,,1,2,timad,.5
+827,teuf(infertile),1,1,kedema,.5,0,,,,5,5.5,timad,1.375
+828,lem (fertile),0,,,,0,,,,0,,,
+828,lem-teuf,1,.56199998,timad,.141,0,,,,0,,,
+828,teuf(infertile),6,7.6880002,timad,1.9220001,0,,,,0,,,
+829,lem (fertile),0,,,,0,,,,0,,,
+829,lem-teuf,2,2.25,timad,.5625,0,,,,0,,,
+829,teuf(infertile),1,2.5,timad,.625,0,,,,0,,,
+830,lem (fertile),0,,,,0,,,,0,,,
+830,lem-teuf,2,3.25,timad,.8125,0,,,,0,,,
+830,teuf(infertile),3,4.5,timad,1.125,0,,,,0,,,
+831,lem (fertile),0,,,,0,,,,0,,,
+831,lem-teuf,0,,,,0,,,,0,,,
+831,teuf(infertile),4,4,timad,1,0,,,,0,,,
+832,lem (fertile),1,2,timad,.5,0,,,,0,,,
+832,lem-teuf,2,2,timad,.5,0,,,,0,,,
+832,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+833,lem (fertile),0,,,,0,,,,0,,,
+833,lem-teuf,2,1.5,timad,.375,0,,,,0,,,
+833,teuf(infertile),0,,,,0,,,,1,3,timad,.75
+834,lem (fertile),0,,,,0,,,,0,,,
+834,lem-teuf,0,,,,0,,,,0,,,
+834,teuf(infertile),2,2,timad,.5,0,,,,1,1,timad,.25
+835,lem (fertile),0,,,,0,,,,0,,,
+835,lem-teuf,1,1,timad,.25,0,,,,0,,,
+835,teuf(infertile),0,,,,0,,,,0,,,
+836,lem (fertile),0,,,,0,,,,0,,,
+836,lem-teuf,2,3,timad,.75,0,,,,2,3,timad,.75
+836,teuf(infertile),0,,,,0,,,,0,,,
+837,lem (fertile),2,2,timad,.5,0,,,,0,,,
+837,lem-teuf,0,,,,0,,,,0,,,
+837,teuf(infertile),1,1.125,timad,.28125,0,,,,0,,,
+838,lem (fertile),2,.75,timad,.1875,0,,,,1,.5,timad,.125
+838,lem-teuf,1,.5,timad,.125,0,,,,0,,,
+838,teuf(infertile),2,1.33,timad,.33250001,0,,,,0,,,
+839,lem (fertile),1,1,timad,.25,0,,,,0,,,
+839,lem-teuf,2,4,timad,1,0,,,,0,,,
+839,teuf(infertile),1,.5,timad,.125,0,,,,1,2,timad,.5
+840,lem (fertile),1,1,timad,.25,0,,,,0,,,
+840,lem-teuf,2,4,timad,1,0,,,,0,,,
+840,teuf(infertile),0,,,,0,,,,0,,,
+841,lem (fertile),0,,,,0,,,,0,,,
+841,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+841,teuf(infertile),2,2,timad,.5,0,,,,1,1,timad,.25
+842,lem (fertile),1,3,timad,.75,0,,,,1,1.5,timad,.375
+842,lem-teuf,1,.5,timad,.125,0,,,,1,1.5,timad,.375
+842,teuf(infertile),0,,,,0,,,,0,,,
+843,lem (fertile),3,2,timad,.5,0,,,,0,,,
+843,lem-teuf,1,2,timad,.5,0,,,,0,,,
+843,teuf(infertile),0,,,,0,,,,0,,,
+844,lem (fertile),2,1,timad,.25,0,,,,0,,,
+844,lem-teuf,1,.5,timad,.125,0,,,,0,,,
+844,teuf(infertile),3,6,timad,1.5,0,,,,0,,,
+845,lem (fertile),0,,,,0,,,,0,,,
+845,lem-teuf,1,1,timad,.25,0,,,,0,,,
+845,teuf(infertile),1,1,timad,.25,0,,,,1,2,timad,.5
+846,lem (fertile),3,10.75,timad,2.6875,0,,,,0,,,
+846,lem-teuf,1,1,timad,.25,0,,,,0,,,
+846,teuf(infertile),1,1.75,timad,.4375,0,,,,0,,,
+847,lem (fertile),0,,,,0,,,,0,,,
+847,lem-teuf,2,2,timad,.5,0,,,,1,1,timad,.25
+847,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+848,lem (fertile),0,,,,0,,,,0,,,
+848,lem-teuf,3,37.5,timad,9.25,0,,,,1,3,timad,.75
+848,teuf(infertile),0,,,,0,,,,0,,,
+849,lem (fertile),1,1,timad,.25,0,,,,0,,,
+849,lem-teuf,4,7,timad,1.75,0,,,,0,,,
+849,teuf(infertile),0,,,,0,,,,0,,,
+850,lem (fertile),0,,,,0,,,,0,,,
+850,lem-teuf,3,6.25,timad,1.5625,0,,,,0,,,
+850,teuf(infertile),2,3,timad,.75,0,,,,0,,,
+851,lem (fertile),0,,,,0,,,,0,,,
+851,lem-teuf,0,,,,0,,,,0,,,
+851,teuf(infertile),2,3,timad,.75,0,,,,1,1,timad,.25
+852,lem (fertile),0,,,,0,,,,0,,,
+852,lem-teuf,0,,,,0,,,,0,,,
+852,teuf(infertile),4,5,timad,1.25,0,,,,1,1,timad,.25
+853,lem (fertile),0,,,,0,,,,0,,,
+853,lem-teuf,1,1,timad,.25,0,,,,0,,,
+853,teuf(infertile),3,6,timad,1.5,0,,,,2,5,timad,1.25
+854,lem (fertile),0,,,,0,,,,0,,,
+854,lem-teuf,0,,,,0,,,,0,,,
+854,teuf(infertile),5,4.5,timad,1.125,0,,,,1,1.5,timad,.375
+855,lem (fertile),0,,,,0,,,,0,,,
+855,lem-teuf,0,,,,0,,,,0,,,
+855,teuf(infertile),3,5,timad,1.25,0,,,,0,,,
+856,lem (fertile),4,7.5,timad,1.875,0,,,,1,2.5,timad,.625
+856,lem-teuf,0,,,,0,,,,0,,,
+856,teuf(infertile),0,,,,0,,,,0,,,
+857,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+857,lem-teuf,0,,,,0,,,,0,,,
+857,teuf(infertile),3,2,timad,.5,0,,,,0,,,
+858,lem (fertile),1,1,timad,.25,0,,,,0,,,
+858,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+858,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+859,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+859,lem-teuf,3,2.5,timad,.625,0,,,,0,,,
+859,teuf(infertile),0,,,,0,,,,0,,,
+860,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+860,lem-teuf,2,3,timad,.75,0,,,,0,,,
+860,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+861,lem (fertile),1,1,timad,.25,0,,,,0,,,
+861,lem-teuf,0,,,,0,,,,0,,,
+861,teuf(infertile),2,5,timad,1.25,0,,,,0,,,
+862,lem (fertile),2,2,timad,.5,0,,,,0,,,
+862,lem-teuf,0,,,,0,,,,0,,,
+862,teuf(infertile),2,4,timad,1,0,,,,0,,,
+863,lem (fertile),2,2,timad,.5,0,,,,0,,,
+863,lem-teuf,0,,,,0,,,,0,,,
+863,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+864,lem (fertile),0,,,,0,,,,1,.5,timad,.125
+864,lem-teuf,2,4,timad,1,0,,,,1,.5,timad,.125
+864,teuf(infertile),2,1.5,timad,.375,0,,,,0,,,
+865,lem (fertile),3,3,timad,.75,0,,,,0,,,
+865,lem-teuf,0,,,,0,,,,0,,,
+865,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+866,lem (fertile),3,3,timad,.75,0,,,,0,,,
+866,lem-teuf,1,1,timad,.25,0,,,,0,,,
+866,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+867,lem (fertile),0,,,,0,,,,0,,,
+867,lem-teuf,5,2.5,timad,.625,0,,,,0,,,
+867,teuf(infertile),0,,,,0,,,,1,.25,timad,.0625
+868,lem (fertile),1,1.25,timad,.3125,0,,,,1,1,timad,.25
+868,lem-teuf,1,1,timad,.25,0,,,,0,,,
+868,teuf(infertile),2,2.5,timad,.625,0,,,,0,,,
+869,lem (fertile),0,,,,0,,,,1,.5,timad,.125
+869,lem-teuf,2,1.65,timad,.41249999,0,,,,0,,,
+869,teuf(infertile),3,2.5,timad,.625,0,,,,0,,,
+870,lem (fertile),0,,,,0,,,,0,,,
+870,lem-teuf,1,.2,timad,.050000001,0,,,,0,,,
+870,teuf(infertile),4,2.5,timad,.625,0,,,,0,,,
+871,lem (fertile),0,,,,0,,,,0,,,
+871,lem-teuf,1,.33000001,timad,.082999997,0,,,,0,,,
+871,teuf(infertile),5,3.6600001,timad,.91500002,0,,,,0,,,
+872,lem (fertile),0,,,,0,,,,0,,,
+872,lem-teuf,0,,,,0,,,,0,,,
+872,teuf(infertile),4,6.5,timad,1.625,0,,,,2,2,timad,.5
+873,lem (fertile),1,1,timad,.25,0,,,,0,,,
+873,lem-teuf,0,,,,0,,,,0,,,
+873,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+874,lem (fertile),0,,,,0,,,,0,,,
+874,lem-teuf,0,,,,0,,,,0,,,
+874,teuf(infertile),5,6,timad,1.5,0,,,,0,,,
+875,lem (fertile),0,,,,0,,,,0,,,
+875,lem-teuf,0,,,,0,,,,0,,,
+875,teuf(infertile),2,2,timad,.5,0,,,,2,2.5,timad,.625
+876,lem (fertile),0,,,,0,,,,0,,,
+876,lem-teuf,0,,,,0,,,,0,,,
+876,teuf(infertile),2,2,timad,.5,0,,,,2,2,timad,.5
+877,lem (fertile),0,,,,0,,,,0,,,
+877,lem-teuf,0,,,,0,,,,1,.25,timad,.0625
+877,teuf(infertile),0,,,,0,,,,3,2.5,timad,.625
+878,lem (fertile),1,.25,timad,.0625,0,,,,0,,,
+878,lem-teuf,1,1,timad,.25,0,,,,0,,,
+878,teuf(infertile),3,4.5,timad,1.125,0,,,,0,,,
+879,lem (fertile),0,,,,0,,,,0,,,
+879,lem-teuf,0,,,,0,,,,1,.5,timad,.125
+879,teuf(infertile),3,3,timad,.75,0,,,,1,1,timad,.25
+880,lem (fertile),3,2,timad,.5,0,,,,2,1,timad,.25
+880,lem-teuf,1,1,timad,.25,0,,,,3,3.5,timad,.875
+880,teuf(infertile),0,,,,0,,,,0,,,
+881,lem (fertile),1,3,timad,.75,0,,,,0,,,
+881,lem-teuf,0,,,,0,,,,0,,,
+881,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+882,lem (fertile),1,1,timad,.25,0,,,,0,,,
+882,lem-teuf,0,,,,0,,,,0,,,
+882,teuf(infertile),3,4,timad,1,0,,,,1,.5,timad,.125
+883,lem (fertile),1,1,timad,.25,0,,,,0,,,
+883,lem-teuf,3,3,timad,.75,0,,,,0,,,
+883,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+884,lem (fertile),0,,,,0,,,,0,,,
+884,lem-teuf,1,1,timad,.25,0,,,,0,,,
+884,teuf(infertile),5,4.5,timad,1.125,0,,,,0,,,
+885,lem (fertile),4,8,timad,2,0,,,,0,,,
+885,lem-teuf,0,,,,0,,,,0,,,
+885,teuf(infertile),3,3.25,timad,.81599998,0,,,,0,,,
+886,lem (fertile),0,,,,0,,,,1,.5,timad,.125
+886,lem-teuf,3,2.25,timad,.5625,0,,,,0,,,
+886,teuf(infertile),3,4.75,timad,1.1875,0,,,,1,1,timad,.25
+887,lem (fertile),0,,,,0,,,,1,.33000001,timad,.082500003
+887,lem-teuf,2,1.25,timad,.3125,0,,,,0,,,
+887,teuf(infertile),5,6,timad,1.5,0,,,,0,,,
+888,lem (fertile),1,.25,timad,.0625,0,,,,1,.5,timad,.125
+888,lem-teuf,2,3.5,timad,.875,0,,,,2,2.5,timad,.625
+888,teuf(infertile),3,7.625,timad,1.90625,0,,,,1,.5,timad,.125
+889,lem (fertile),1,1,timad,.25,0,,,,0,,,
+889,lem-teuf,0,,,,0,,,,1,1,timad,.25
+889,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+890,lem (fertile),1,5,timad,1.25,0,,,,0,,,
+890,lem-teuf,2,2.5,timad,.625,0,,,,0,,,
+890,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+891,lem (fertile),3,7,timad,1.75,0,,,,0,,,
+891,lem-teuf,0,,,,0,,,,0,,,
+891,teuf(infertile),2,4.5,timad,1.125,0,,,,0,,,
+892,lem (fertile),2,4,timad,1,0,,,,0,,,
+892,lem-teuf,0,,,,0,,,,0,,,
+892,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+900,lem (fertile),0,,,,0,,,,0,,,
+900,lem-teuf,0,,,,0,,,,0,,,
+900,teuf(infertile),2,4,timad,1,0,,,,3,5,timad,1.25
+893,lem (fertile),1,.125,timad,.03125,0,,,,0,,,
+893,lem-teuf,0,,,,0,,,,0,,,
+893,teuf(infertile),2,4.5,timad,1.125,0,,,,3,4.25,timad,1.0625
+894,lem (fertile),0,,,,0,,,,0,,,
+894,lem-teuf,2,5.25,timad,1.3125,0,,,,0,,,
+894,teuf(infertile),3,4.75,timad,1.1875,0,,,,0,,,
+895,lem (fertile),1,3.25,timad,.8125,0,,,,0,,,
+895,lem-teuf,1,.5,timad,.125,0,,,,0,,,
+895,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+896,lem (fertile),0,,,,0,,,,0,,,
+896,lem-teuf,0,,,,0,,,,1,1,timad,.25
+896,teuf(infertile),1,3,timad,.75,0,,,,2,2,timad,.5
+897,lem (fertile),0,,,,0,,,,0,,,
+897,lem-teuf,0,,,,0,,,,0,,,
+897,teuf(infertile),3,3,timad,.75,0,,,,3,3,timad,.75
+898,lem (fertile),1,.1,timad,.025,0,,,,0,,,
+898,lem-teuf,2,1.5,timad,.375,0,,,,1,1,timad,.25
+898,teuf(infertile),4,2.5,timad,.625,0,,,,0,,,
+899,lem (fertile),0,,,,0,,,,0,,,
+899,lem-teuf,0,,,,0,,,,2,2,timad,.5
+899,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+901,lem (fertile),0,,,,0,,,,0,,,
+901,lem-teuf,5,9,timad,2.25,0,,,,0,,,
+901,teuf(infertile),0,,,,0,,,,0,,,
+902,lem (fertile),0,,,,0,,,,0,,,
+902,lem-teuf,0,,,,0,,,,0,,,
+902,teuf(infertile),5,6.5,timad,1.625,0,,,,0,,,
+903,lem (fertile),3,6,timad,1.5,0,,,,1,.5,timad,.125
+903,lem-teuf,2,4,timad,1,0,,,,1,3,timad,.75
+903,teuf(infertile),0,,,,0,,,,0,,,
+904,lem (fertile),4,8,timad,2,0,,,,0,,,
+904,lem-teuf,1,2,timad,.5,0,,,,3,4.5,timad,1.125
+904,teuf(infertile),0,,,,0,,,,0,,,
+905,lem (fertile),1,4,timad,1,0,,,,0,,,
+905,lem-teuf,1,.25,timad,.0625,0,,,,0,,,
+905,teuf(infertile),1,.25,timad,.0625,0,,,,1,3.25,timad,.8125
+906,lem (fertile),0,,,,0,,,,0,,,
+906,lem-teuf,0,,,,0,,,,0,,,
+906,teuf(infertile),4,4,timad,1,0,,,,0,,,
+907,lem (fertile),0,,,,0,,,,1,1,timad,.25
+907,lem-teuf,1,1,timad,.25,0,,,,1,.5,timad,.125
+907,teuf(infertile),2,2,timad,.5,0,,,,1,1,timad,.25
+908,lem (fertile),0,,,,0,,,,1,1,timad,.25
+908,lem-teuf,0,,,,0,,,,0,,,
+908,teuf(infertile),2,1,timad,.25,0,,,,1,.5,timad,.125
+909,lem (fertile),0,,,,0,,,,0,,,
+909,lem-teuf,0,,,,0,,,,0,,,
+909,teuf(infertile),3,1.25,timad,.3125,0,,,,1,1,timad,.25
+910,lem (fertile),1,.5,timad,.125,2,1.5,timad,.375,1,.5,timad,.125
+910,lem-teuf,1,.5,timad,.125,1,.5,timad,.125,0,,,
+910,teuf(infertile),4,2.892,timad,.72299999,0,,,,1,1.5,timad,.375
+911,lem (fertile),1,1.58,timad,.39500001,0,,,,0,,,
+911,lem-teuf,0,,,,0,,,,0,,,
+911,teuf(infertile),5,6.4000001,timad,1.6,0,,,,1,.75,timad,.1875
+912,lem (fertile),0,,,,0,,,,0,,,
+912,lem-teuf,0,,,,0,,,,0,,,
+912,teuf(infertile),3,2.5,timad,.625,0,,,,2,2,timad,.5
+913,lem (fertile),0,,,,0,,,,0,,,
+913,lem-teuf,0,,,,0,,,,0,,,
+913,teuf(infertile),5,5,timad,1.25,0,,,,0,,,
+914,lem (fertile),1,.5,timad,.125,0,,,,1,1,timad,.25
+914,lem-teuf,0,,,,0,,,,0,,,
+914,teuf(infertile),2,1.5,timad,.375,0,,,,0,,,
+915,lem (fertile),0,,,,0,,,,1,1,timad,.25
+915,lem-teuf,0,,,,0,,,,1,.25,timad,.0625
+915,teuf(infertile),0,,,,0,,,,1,.5,timad,.125
+916,lem (fertile),2,1.25,timad,.3125,0,,,,0,,,
+916,lem-teuf,0,,,,0,,,,3,4,timad,1
+916,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+917,lem (fertile),1,2,timad,.5,0,,,,0,,,
+917,lem-teuf,0,,,,0,,,,0,,,
+917,teuf(infertile),4,6.5,timad,1.625,0,,,,0,,,
+918,lem (fertile),1,.125,timad,.03125,0,,,,0,,,
+918,lem-teuf,0,,,,0,,,,0,,,
+918,teuf(infertile),2,.75,timad,.1875,0,,,,0,,,
+919,lem (fertile),0,,,,0,,,,0,,,
+919,lem-teuf,1,4,timad,1,0,,,,0,,,
+919,teuf(infertile),0,,,,0,,,,0,,,
+920,lem (fertile),0,,,,0,,,,0,,,
+920,lem-teuf,4,3.25,timad,.8125,0,,,,3,4.5,timad,1.125
+920,teuf(infertile),1,1,timad,.25,0,,,,2,1,timad,.25
+921,lem (fertile),0,,,,0,,,,0,,,
+921,lem-teuf,3,7,timad,1.75,0,,,,0,,,
+921,teuf(infertile),0,,,,0,,,,0,,,
+922,lem (fertile),0,,,,0,,,,9,15.5,timad,3.875
+922,lem-teuf,1,1,timad,.25,0,,,,0,,,
+922,teuf(infertile),0,,,,0,,,,0,,,
+923,lem (fertile),6,13.5,timad,3.375,0,,,,0,,,
+923,lem-teuf,1,3.5,timad,.875,0,,,,0,,,
+923,teuf(infertile),0,,,,0,,,,0,,,
+924,lem (fertile),0,,,,0,,,,0,,,
+924,lem-teuf,1,2,timad,.25,0,,,,0,,,
+924,teuf(infertile),2,16,timad,2,0,,,,0,,,
+925,lem (fertile),4,9.5,timad,1.1875,0,,,,1,8,timad,1
+925,lem-teuf,0,,,,0,,,,0,,,
+925,teuf(infertile),0,,,,0,,,,0,,,
+926,lem (fertile),0,,,,0,,,,0,,,
+926,lem-teuf,2,5,timad,1.25,0,,,,0,,,
+926,teuf(infertile),3,3,timad,.75,0,,,,0,,,
+927,lem (fertile),0,,,,0,,,,0,,,
+927,lem-teuf,0,,,,0,,,,1,10,timad,1.25
+927,teuf(infertile),2,10,timad,1.25,0,,,,0,,,
+928,lem (fertile),0,,,,0,,,,0,,,
+928,lem-teuf,1,6,timad,.75,0,,,,0,,,
+928,teuf(infertile),2,9,timad,1.125,0,,,,0,,,
+929,lem (fertile),0,,,,0,,,,0,,,
+929,lem-teuf,1,16,timad,2,0,,,,0,,,
+929,teuf(infertile),3,11,timad,1.375,0,,,,0,,,
+930,lem (fertile),0,,,,0,,,,0,,,
+930,lem-teuf,1,16,timad,2,0,,,,1,8,timad,1
+930,teuf(infertile),0,,,,0,,,,0,,,
+931,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+931,lem-teuf,0,,,,0,,,,0,,,
+931,teuf(infertile),0,,,,0,,,,0,,,
+932,lem (fertile),0,,,,0,,,,0,,,
+932,lem-teuf,1,4,timad,1,0,,,,0,,,
+932,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+933,lem (fertile),0,,,,0,,,,0,,,
+933,lem-teuf,7,6,timad,1.5,0,,,,0,,,
+933,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+934,lem (fertile),1,14,timad,1.75,0,,,,0,,,
+934,lem-teuf,1,4,timad,.5,0,,,,0,,,
+934,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+935,lem (fertile),1,1,timad,.25,0,,,,0,,,
+935,lem-teuf,0,,,,0,,,,3,5,timad,1.25
+935,teuf(infertile),0,,,,0,,,,0,,,
+936,lem (fertile),1,1,timad,.25,0,,,,0,,,
+936,lem-teuf,0,,,,0,,,,0,,,
+936,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+937,lem (fertile),1,4,timad,1,0,,,,0,,,
+937,lem-teuf,0,,,,0,,,,0,,,
+937,teuf(infertile),1,4,timad,1,0,,,,1,4,timad,1
+938,lem (fertile),0,,,,0,,,,0,,,
+938,lem-teuf,0,,,,0,,,,0,,,
+938,teuf(infertile),4,13,timad,3.25,0,,,,0,,,
+939,lem (fertile),0,,,,0,,,,0,,,
+939,lem-teuf,0,,,,0,,,,0,,,
+939,teuf(infertile),4,20,timad,5,0,,,,0,,,
+940,lem (fertile),0,,,,0,,,,0,,,
+940,lem-teuf,0,,,,0,,,,0,,,
+940,teuf(infertile),4,19,timad,4.75,0,,,,0,,,
+941,lem (fertile),0,,,,0,,,,0,,,
+941,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+941,teuf(infertile),1,.5,timad,.125,0,,,,1,.5,timad,.125
+942,lem (fertile),1,1,timad,.25,0,,,,0,,,
+942,lem-teuf,5,6,timad,1.5,0,,,,0,,,
+942,teuf(infertile),6,15.5,timad,5.875,0,,,,0,,,
+943,lem (fertile),1,16,timad,2,1,4,timad,.5,0,,,
+943,lem-teuf,1,4,timad,.5,0,,,,0,,,
+943,teuf(infertile),0,,,,0,,,,0,,,
+944,lem (fertile),2,16,timad,2,0,,,,0,,,
+944,lem-teuf,2,16,timad,2,0,,,,0,,,
+944,teuf(infertile),1,8,timad,1,0,,,,0,,,
+945,lem (fertile),0,,,,0,,,,0,,,
+945,lem-teuf,2,32,timad,4,0,,,,0,,,
+945,teuf(infertile),0,,,,0,,,,0,,,
+946,lem (fertile),0,,,,0,,,,0,,,
+946,lem-teuf,2,6,timad,1.5,0,,,,0,,,
+946,teuf(infertile),0,,,,0,,,,0,,,
+947,lem (fertile),0,,,,0,,,,0,,,
+947,lem-teuf,1,8,timad,1,0,,,,0,,,
+947,teuf(infertile),0,,,,0,,,,0,,,
+948,lem (fertile),1,4,timad,5,0,,,,0,,,
+948,lem-teuf,0,,,,0,,,,0,,,
+948,teuf(infertile),3,52,timad,6.5,0,,,,0,,,
+949,lem (fertile),0,,,,0,,,,0,,,
+949,lem-teuf,1,4,timad,.5,0,,,,0,,,
+949,teuf(infertile),2,4,timad,.5,0,,,,0,,,
+950,lem (fertile),0,,,,0,,,,0,,,
+950,lem-teuf,1,28,timad,3.5,0,,,,0,,,
+950,teuf(infertile),1,8,timad,1,0,,,,0,,,
+951,lem (fertile),3,11,timad,1.375,0,,,,0,,,
+951,lem-teuf,3,21,timad,2.625,0,,,,0,,,
+951,teuf(infertile),1,14,timad,1.75,0,,,,0,,,
+952,lem (fertile),2,40,timad,5,0,,,,0,,,
+952,lem-teuf,0,,,,0,,,,0,,,
+952,teuf(infertile),0,,,,0,,,,0,,,
+953,lem (fertile),2,9,timad,1.5,0,,,,0,,,
+953,lem-teuf,1,1,timad,.16599999,0,,,,0,,,
+953,teuf(infertile),0,,,,0,,,,0,,,
+954,lem (fertile),5,15,timad,2.5,0,,,,1,8,timad,1.33
+954,lem-teuf,2,20.5,timad,3.4159999,0,,,,0,,,
+954,teuf(infertile),0,,,,0,,,,0,,,
+955,lem (fertile),1,5,timad,1.25,1,6,timad,1.5,0,,,
+955,lem-teuf,1,2,timad,.5,0,,,,0,,,
+955,teuf(infertile),0,,,,0,,,,0,,,
+956,lem (fertile),0,,,,0,,,,0,,,
+956,lem-teuf,6,19,timad,2.375,0,,,,0,,,
+956,teuf(infertile),1,4,timad,.5,0,,,,0,,,
+957,lem (fertile),0,,,,0,,,,0,,,
+957,lem-teuf,3,18,timad,2.25,0,,,,0,,,
+957,teuf(infertile),2,2,timad,.25,0,,,,0,,,
+958,lem (fertile),0,,,,0,,,,0,,,
+958,lem-teuf,3,24,timad,2.9000001,0,,,,0,,,
+958,teuf(infertile),2,3,timad,.5,0,,,,0,,,
+959,lem (fertile),0,,,,0,,,,0,,,
+959,lem-teuf,1,6,timad,.75,0,,,,1,2,timad,.25
+959,teuf(infertile),4,8,timad,1,0,,,,0,,,
+960,lem (fertile),2,3,timad,.75,0,,,,1,4,timad,1
+960,lem-teuf,1,1,timad,.25,0,,,,1,4,timad,1
+960,teuf(infertile),2,2.5,timad,.625,0,,,,0,,,
+961,lem (fertile),0,,,,0,,,,0,,,
+961,lem-teuf,4,9,timad,1.125,0,,,,1,3,timad,.375
+961,teuf(infertile),1,1,timad,.125,0,,,,0,,,
+962,lem (fertile),0,,,,0,,,,0,,,
+962,lem-teuf,3,8.5,timad,1.0625,0,,,,0,,,
+962,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+963,lem (fertile),0,,,,0,,,,0,,,
+963,lem-teuf,1,4,timad,.5,0,,,,1,12,timad,1.5
+963,teuf(infertile),0,,,,0,,,,0,,,
+964,lem (fertile),0,,,,0,,,,0,,,
+964,lem-teuf,5,28,timad,3.5,0,,,,0,,,
+964,teuf(infertile),1,8,timad,1,0,,,,0,,,
+965,lem (fertile),0,,,,0,,,,0,,,
+965,lem-teuf,3,10,timad,1.25,0,,,,0,,,
+965,teuf(infertile),1,5,timad,.625,0,,,,0,,,
+966,lem (fertile),0,,,,0,,,,0,,,
+966,lem-teuf,2,11,timad,1.375,0,,,,0,,,
+966,teuf(infertile),0,,,,0,,,,0,,,
+967,lem (fertile),0,,,,0,,,,0,,,
+967,lem-teuf,1,6,timad,.75,0,,,,0,,,
+967,teuf(infertile),1,20,timad,2.5,0,,,,0,,,
+968,lem (fertile),1,8,timad,1,0,,,,0,,,
+968,lem-teuf,3,12,timad,1.5,0,,,,0,,,
+968,teuf(infertile),0,,,,0,,,,0,,,
+969,lem (fertile),2,15,timad,1.875,1,2,timad,.25,0,,,
+969,lem-teuf,1,4,timad,.5,0,,,,0,,,
+969,teuf(infertile),0,,,,0,,,,0,,,
+970,lem (fertile),1,14,timad,1.75,0,,,,0,,,
+970,lem-teuf,1,2,timad,.25,0,,,,0,,,
+970,teuf(infertile),0,,,,1,2,timad,.25,0,,,
+971,lem (fertile),0,,,,0,,,,0,,,
+971,lem-teuf,7,15,timad,1.875,0,,,,2,4,timad,.5
+971,teuf(infertile),0,,,,0,,,,0,,,
+972,lem (fertile),2,7,timad,.875,0,,,,0,,,
+972,lem-teuf,0,,,,0,,,,1,4,timad,.5
+972,teuf(infertile),1,3,timad,.375,0,,,,0,,,
+973,lem (fertile),3,12,timad,1.5,0,,,,0,,,
+973,lem-teuf,1,4,timad,.5,0,,,,0,,,
+973,teuf(infertile),2,4,timad,.5,0,,,,0,,,
+974,lem (fertile),0,,,,0,,,,0,,,
+974,lem-teuf,4,40,timad,5,0,,,,0,,,
+974,teuf(infertile),1,3,timad,.375,0,,,,0,,,
+975,lem (fertile),0,,,,0,,,,0,,,
+975,lem-teuf,3,9,timad,1.125,0,,,,0,,,
+975,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+976,lem (fertile),0,,,,0,,,,0,,,
+976,lem-teuf,1,10,timad,1.25,0,,,,2,8,timad,1
+976,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+977,lem (fertile),0,,,,0,,,,0,,,
+977,lem-teuf,3,18,timad,2.25,0,,,,0,,,
+977,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+978,lem (fertile),0,,,,0,,,,0,,,
+978,lem-teuf,4,30,timad,3.75,0,,,,1,4,timad,.5
+978,teuf(infertile),0,,,,0,,,,0,,,
+979,lem (fertile),0,,,,0,,,,0,,,
+979,lem-teuf,2,3,timad,.75,0,,,,0,,,
+979,teuf(infertile),0,,,,0,,,,0,,,
+980,lem (fertile),0,,,,0,,,,0,,,
+980,lem-teuf,4,10,timad,2.5,0,,,,0,,,
+980,teuf(infertile),0,,,,0,,,,0,,,
+981,lem (fertile),0,,,,0,,,,0,,,
+981,lem-teuf,1,5,timad,1.25,0,,,,0,,,
+981,teuf(infertile),2,6,timad,1.5,0,,,,0,,,
+982,lem (fertile),0,,,,0,,,,0,,,
+982,lem-teuf,2,9,timad,1.125,0,,,,0,,,
+982,teuf(infertile),2,12,timad,1.5,0,,,,0,,,
+983,lem (fertile),0,,,,0,,,,0,,,
+983,lem-teuf,0,,,,0,,,,2,10,timad,1.25
+983,teuf(infertile),1,4,timad,.5,0,,,,0,,,
+984,lem (fertile),0,,,,0,,,,0,,,
+984,lem-teuf,2,6,timad,.75,0,,,,1,4,timad,.5
+984,teuf(infertile),0,,,,0,,,,0,,,
+985,lem (fertile),0,,,,0,,,,0,,,
+985,lem-teuf,2,14,timad,1.75,0,,,,1,4,timad,.5
+985,teuf(infertile),1,4,timad,.5,0,,,,0,,,
+986,lem (fertile),1,8,timad,1,0,,,,0,,,
+986,lem-teuf,1,8,timad,1,0,,,,0,,,
+986,teuf(infertile),0,,,,0,,,,0,,,
+987,lem (fertile),1,8,timad,1,0,,,,0,,,
+987,lem-teuf,0,,,,0,,,,2,8,timad,1
+987,teuf(infertile),0,,,,0,,,,0,,,
+988,lem (fertile),2,4,timad,.5,0,,,,0,,,
+988,lem-teuf,2,4,timad,.5,0,,,,1,4,timad,.5
+988,teuf(infertile),0,,,,0,,,,0,,,
+989,lem (fertile),2,8,timad,1,0,,,,0,,,
+989,lem-teuf,2,4,timad,.5,0,,,,0,,,
+989,teuf(infertile),0,,,,0,,,,0,,,
+990,lem (fertile),0,,,,0,,,,0,,,
+990,lem-teuf,3,4,timad,.5,0,,,,1,3,timad,.375
+990,teuf(infertile),1,1,timad,.125,0,,,,0,,,
+991,lem (fertile),0,,,,0,,,,0,,,
+991,lem-teuf,4,44,timad,5.5,0,,,,0,,,
+991,teuf(infertile),0,,,,2,16,timad,2,0,,,
+992,lem (fertile),0,,,,0,,,,0,,,
+992,lem-teuf,2,23,timad,2.875,0,,,,0,,,
+992,teuf(infertile),0,,,,0,,,,0,,,
+993,lem (fertile),0,,,,0,,,,0,,,
+993,lem-teuf,1,7.5,timad,.9375,0,,,,1,2,timad,.25
+993,teuf(infertile),0,,,,0,,,,0,,,
+994,lem (fertile),4,12.5,timad,1.5625,0,,,,1,3,timad,.375
+994,lem-teuf,2,11,timad,1.375,0,,,,0,,,
+994,teuf(infertile),0,,,,0,,,,0,,,
+995,lem (fertile),0,,,,0,,,,1,3,timad,.375
+995,lem-teuf,1,3,timad,.375,0,,,,3,8,timad,1
+995,teuf(infertile),2,5,timad,.625,0,,,,0,,,
+996,lem (fertile),0,,,,0,,,,0,,,
+996,lem-teuf,3,14,timad,1.75,0,,,,0,,,
+996,teuf(infertile),0,,,,0,,,,0,,,
+997,lem (fertile),0,,,,0,,,,0,,,
+997,lem-teuf,3,4,timad,.5,0,,,,0,,,
+997,teuf(infertile),0,,,,0,,,,0,,,
+998,lem (fertile),0,,,,0,,,,0,,,
+998,lem-teuf,6,26.5,timad,3.3125,0,,,,0,,,
+998,teuf(infertile),0,,,,0,,,,0,,,
+999,lem (fertile),2,4,timad,.5,0,,,,0,,,
+999,lem-teuf,1,2,timad,.25,0,,,,0,,,
+999,teuf(infertile),2,3,timad,.375,0,,,,0,,,
+1000,lem (fertile),1,4,timad,.5,0,,,,1,8,timad,1
+1000,lem-teuf,1,4,timad,.5,0,,,,1,4,timad,.5
+1000,teuf(infertile),0,,,,0,,,,0,,,
+1001,lem (fertile),2,4,timad,.5,0,,,,0,,,
+1001,lem-teuf,3,6,timad,.75,0,,,,0,,,
+1001,teuf(infertile),1,1,timad,.125,0,,,,0,,,
+1002,lem (fertile),0,,,,0,,,,0,,,
+1002,lem-teuf,0,,,,0,,,,0,,,
+1002,teuf(infertile),2,4,timad,.5,1,12,timad,1.5,0,,,
+1003,lem (fertile),0,,,,0,,,,0,,,
+1003,lem-teuf,3,3,timad,.75,0,,,,0,,,
+1003,teuf(infertile),2,3,timad,.75,0,,,,0,,,
+1004,lem (fertile),1,2,timad,.5,0,,,,0,,,
+1004,lem-teuf,1,2,timad,.5,0,,,,0,,,
+1004,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+1005,lem (fertile),0,,,,0,,,,0,,,
+1005,lem-teuf,1,4,timad,1,0,,,,1,1,timad,.25
+1005,teuf(infertile),4,8,timad,2,0,,,,0,,,
+1006,lem (fertile),0,,,,0,,,,0,,,
+1006,lem-teuf,2,3,timad,.75,0,,,,0,,,
+1006,teuf(infertile),4,9,timad,2.25,0,,,,0,,,
+1007,lem (fertile),0,,,,0,,,,0,,,
+1007,lem-teuf,1,1,timad,.25,0,,,,0,,,
+1007,teuf(infertile),4,7,timad,1.75,0,,,,0,,,
+1008,lem (fertile),0,,,,0,,,,1,3,timad,.75
+1008,lem-teuf,0,,,,0,,,,0,,,
+1008,teuf(infertile),3,6,timad,1.5,0,,,,0,,,
+1009,lem (fertile),0,,,,0,,,,0,,,
+1009,lem-teuf,2,8.5,timad,2.125,0,,,,0,,,
+1009,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+1010,lem (fertile),1,2,timad,.5,0,,,,2,6,timad,1.5
+1010,lem-teuf,2,2.5,timad,.625,0,,,,0,,,
+1010,teuf(infertile),0,,,,0,,,,0,,,
+1011,lem (fertile),2,6.5,timad,1.625,0,,,,1,5,timad,1.25
+1011,lem-teuf,0,,,,0,,,,0,,,
+1011,teuf(infertile),0,,,,0,,,,0,,,
+1012,lem (fertile),1,6,timad,1.5,0,,,,0,,,
+1012,lem-teuf,3,5,timad,1.25,0,,,,0,,,
+1012,teuf(infertile),0,,,,0,,,,0,,,
+1013,lem (fertile),1,1,timad,.25,0,,,,0,,,
+1013,lem-teuf,0,,,,0,,,,0,,,
+1013,teuf(infertile),1,3,timad,.75,0,,,,1,2,timad,.5
+1014,lem (fertile),1,1,timad,.25,0,,,,0,,,
+1014,lem-teuf,1,4,timad,1,0,,,,1,2,timad,.5
+1014,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+1015,lem (fertile),0,,,,0,,,,0,,,
+1015,lem-teuf,3,6,timad,1.5,0,,,,0,,,
+1015,teuf(infertile),1,2,timad,.5,0,,,,1,2,timad,.5
+1016,lem (fertile),0,,,,0,,,,0,,,
+1016,lem-teuf,1,4,timad,1,0,,,,0,,,
+1016,teuf(infertile),0,,,,0,,,,0,,,
+1017,lem (fertile),0,,,,0,,,,0,,,
+1017,lem-teuf,1,4,timad,1,0,,,,0,,,
+1017,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+1018,lem (fertile),1,1,timad,.25,0,,,,0,,,
+1018,lem-teuf,2,4,timad,1,0,,,,1,2,timad,.5
+1018,teuf(infertile),0,,,,0,,,,0,,,
+1019,lem (fertile),0,,,,0,,,,0,,,
+1019,lem-teuf,3,11,timad,2.75,0,,,,0,,,
+1019,teuf(infertile),0,,,,0,,,,0,,,
+1020,lem (fertile),1,4,timad,.5,0,,,,0,,,
+1020,lem-teuf,2,8,timad,1,0,,,,0,,,
+1020,teuf(infertile),2,16,timad,2,0,,,,0,,,
+1021,lem (fertile),0,,,,0,,,,1,16,timad,2
+1021,lem-teuf,1,4,timad,.5,0,,,,0,,,
+1021,teuf(infertile),0,,,,0,,,,0,,,
+1022,lem (fertile),0,,,,0,,,,0,,,
+1022,lem-teuf,5,28,timad,3.5,0,,,,0,,,
+1022,teuf(infertile),0,,,,0,,,,0,,,
+1023,lem (fertile),0,,,,0,,,,0,,,
+1023,lem-teuf,1,13,timad,1.625,0,,,,0,,,
+1023,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+1024,lem (fertile),0,,,,0,,,,0,,,
+1024,lem-teuf,1,4,timad,.5,0,,,,0,,,
+1024,teuf(infertile),0,,,,0,,,,0,,,
+1025,lem (fertile),0,,,,0,,,,0,,,
+1025,lem-teuf,1,1,timad,.125,0,,,,0,,,
+1025,teuf(infertile),0,,,,0,,,,0,,,
+1026,lem (fertile),0,,,,0,,,,0,,,
+1026,lem-teuf,3,5,timad,1.25,0,,,,0,,,
+1026,teuf(infertile),0,,,,0,,,,0,,,
+1027,lem (fertile),0,,,,0,,,,0,,,
+1027,lem-teuf,1,3,timad,.75,0,,,,0,,,
+1027,teuf(infertile),1,1.5,timad,.375,0,,,,0,,,
+1028,lem (fertile),1,4,timad,1,0,,,,0,,,
+1028,lem-teuf,1,1,timad,.25,0,,,,0,,,
+1028,teuf(infertile),3,7,timad,.75,0,,,,0,,,
+1029,lem (fertile),0,,,,0,,,,1,2,timad,.5
+1029,lem-teuf,0,,,,0,,,,0,,,
+1029,teuf(infertile),0,,,,0,,,,0,,,
+1030,lem (fertile),0,,,,0,,,,0,,,
+1030,lem-teuf,1,4,timad,.5,0,,,,0,,,
+1030,teuf(infertile),1,4,timad,.5,0,,,,0,,,
+1031,lem (fertile),1,4,timad,.5,0,,,,2,16,timad,2
+1031,lem-teuf,0,,,,0,,,,0,,,
+1031,teuf(infertile),1,16,timad,2,0,,,,0,,,
+1032,lem (fertile),1,2,timad,.25,0,,,,1,2,timad,.25
+1032,lem-teuf,1,2,timad,.25,0,,,,1,2,timad,.25
+1032,teuf(infertile),0,,,,0,,,,0,,,
+1033,lem (fertile),0,,,,0,,,,0,,,
+1033,lem-teuf,1,16,timad,2,0,,,,0,,,
+1033,teuf(infertile),2,32,timad,4,0,,,,0,,,
+1034,lem (fertile),4,8,timad,1,0,,,,0,,,
+1034,lem-teuf,2,6,timad,.75,0,,,,0,,,
+1034,teuf(infertile),1,2,timad,.25,0,,,,1,1,timad,.125
+1035,lem (fertile),0,,,,0,,,,0,,,
+1035,lem-teuf,2,22,timad,2.75,0,,,,0,,,
+1035,teuf(infertile),2,7,timad,.875,0,,,,0,,,
+1036,lem (fertile),0,,,,0,,,,1,3,timad,.375
+1036,lem-teuf,1,14,timad,1.75,0,,,,0,,,
+1036,teuf(infertile),0,,,,0,,,,0,,,
+1037,lem (fertile),1,4,timad,.5,0,,,,0,,,
+1037,lem-teuf,2,8,timad,1,0,,,,1,4,timad,.5
+1037,teuf(infertile),0,,,,0,,,,0,,,
+1038,lem (fertile),1,4,timad,1,0,,,,0,,,
+1038,lem-teuf,0,,,,0,,,,0,,,
+1038,teuf(infertile),2,8,timad,2,0,,,,0,,,
+1039,lem (fertile),1,4,timad,1,0,,,,0,,,
+1039,lem-teuf,1,1,timad,.25,0,,,,0,,,
+1039,teuf(infertile),2,4,timad,1,0,,,,0,,,
+1040,lem (fertile),0,,,,0,,,,0,,,
+1040,lem-teuf,2,9,timad,2.25,0,,,,0,,,
+1040,teuf(infertile),1,.75,timad,.1875,0,,,,0,,,
+1095,lem (fertile),3,23,kert,5.75,0,,,,0,,,
+1095,lem-teuf,2,6,kert,1.5,0,,,,0,,,
+1095,teuf(infertile),0,,,,0,,,,0,,,
+1096,lem (fertile),1,2,kert,.5,0,,,,1,1.5,kert,.375
+1096,lem-teuf,1,1,kert,.25,0,,,,0,,,
+1096,teuf(infertile),1,1,kert,.25,0,,,,1,1.5,kert,.375
+1097,lem (fertile),2,4,kert,1,0,,,,0,,,
+1097,lem-teuf,2,10,kert,2.5,0,,,,0,,,
+1097,teuf(infertile),2,9,kert,2.25,0,,,,0,,,
+1098,lem (fertile),0,,,,0,,,,1,2,kert,.5
+1098,lem-teuf,1,2,kert,.5,0,,,,1,2,kert,.5
+1098,teuf(infertile),0,,,,0,,,,0,,,
+1099,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1099,lem-teuf,4,9,kert,2.25,0,,,,0,,,
+1099,teuf(infertile),0,,,,0,,,,0,,,
+1100,lem (fertile),1,4,kert,1,0,,,,0,,,
+1100,lem-teuf,2,35,kert,8.75,0,,,,0,,,
+1100,teuf(infertile),0,,,,0,,,,0,,,
+1101,lem (fertile),0,,,,0,,,,0,,,
+1101,lem-teuf,3,11,kert,2.75,0,,,,0,,,
+1101,teuf(infertile),5,16.5,kert,4.125,0,,,,0,,,
+1102,lem (fertile),6,17.5,kert,4.375,0,,,,0,,,
+1102,lem-teuf,4,11,kert,2.75,0,,,,0,,,
+1102,teuf(infertile),1,6,kert,1.5,0,,,,0,,,
+1103,lem (fertile),0,,,,0,,,,0,,,
+1103,lem-teuf,6,21,kert,4.1999998,0,,,,0,,,
+1103,teuf(infertile),0,,,,0,,,,0,,,
+1104,lem (fertile),1,6,kert,1.2,0,,,,0,,,
+1104,lem-teuf,0,,,,0,,,,0,,,
+1104,teuf(infertile),1,4,kert,.80000001,0,,,,0,,,
+1105,lem (fertile),3,13.5,kert,2.7,0,,,,1,6,kert,1.2
+1105,lem-teuf,2,5,kert,1,0,,,,0,,,
+1105,teuf(infertile),0,,,,0,,,,0,,,
+1106,lem (fertile),1,3,kert,.60000002,0,,,,1,4,kert,.80000001
+1106,lem-teuf,2,4,kert,.80000001,0,,,,0,,,
+1106,teuf(infertile),0,,,,0,,,,0,,,
+1107,lem (fertile),1,12,kert,2.4000001,0,,,,0,,,
+1107,lem-teuf,0,,,,0,,,,0,,,
+1107,teuf(infertile),1,4,kert,.80000001,0,,,,0,,,
+1108,lem (fertile),3,12,kert,2.4000001,0,,,,0,,,
+1108,lem-teuf,0,,,,0,,,,0,,,
+1108,teuf(infertile),0,,,,0,,,,0,,,
+1109,lem (fertile),0,,,,0,,,,0,,,
+1109,lem-teuf,1,3,kert,.60000002,0,,,,0,,,
+1109,teuf(infertile),0,,,,0,,,,0,,,
+1110,lem (fertile),5,13,kert,2.5999999,0,,,,0,,,
+1110,lem-teuf,0,,,,0,,,,0,,,
+1110,teuf(infertile),0,,,,0,,,,0,,,
+1111,lem (fertile),0,,,,0,,,,0,,,
+1111,lem-teuf,2,6,kert,1.2,0,,,,0,,,
+1111,teuf(infertile),0,,,,0,,,,0,,,
+1112,lem (fertile),1,.5,kert,.1,0,,,,0,,,
+1112,lem-teuf,2,1.75,kert,.34999999,0,,,,1,2,kert,.40000001
+1112,teuf(infertile),2,1.25,kert,.25,0,,,,1,1,kert,.2
+1113,lem (fertile),2,8,kert,1.6,0,,,,0,,,
+1113,lem-teuf,0,,,,0,,,,0,,,
+1113,teuf(infertile),0,,,,0,,,,0,,,
+1114,lem (fertile),2,7,kert,1.4,1,3,kert,.60000002,0,,,
+1114,lem-teuf,2,1.75,kert,.34999999,0,,,,0,,,
+1114,teuf(infertile),0,,,,0,,,,0,,,
+1115,lem (fertile),5,18,kert,3.5999999,0,,,,0,,,
+1115,lem-teuf,0,,,,0,,,,0,,,
+1115,teuf(infertile),0,,,,0,,,,0,,,
+1116,lem (fertile),5,22,kert,4.4000001,0,,,,0,,,
+1116,lem-teuf,1,8,kert,1.6,0,,,,0,,,
+1116,teuf(infertile),0,,,,0,,,,0,,,
+1117,lem (fertile),3,11,kert,2.2,0,,,,0,,,
+1117,lem-teuf,0,,,,0,,,,0,,,
+1117,teuf(infertile),1,3,kert,.60000002,0,,,,0,,,
+1118,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+1118,lem-teuf,2,3.5,kert,.875,0,,,,0,,,
+1118,teuf(infertile),3,5.5,kert,1.375,0,,,,0,,,
+1119,lem (fertile),0,,,,0,,,,0,,,
+1119,lem-teuf,5,9,kert,2.25,0,,,,0,,,
+1119,teuf(infertile),0,,,,0,,,,0,,,
+1120,lem (fertile),1,4,kert,1,0,,,,0,,,
+1120,lem-teuf,0,,,,0,,,,1,3,kert,.75
+1120,teuf(infertile),2,16,kert,4,0,,,,0,,,
+1121,lem (fertile),0,,,,0,,,,1,2,kert,.5
+1121,lem-teuf,1,2,kert,.5,0,,,,0,,,
+1121,teuf(infertile),2,10,kert,2.5,0,,,,1,3,kert,.75
+1122,lem (fertile),0,,,,0,,,,0,,,
+1122,lem-teuf,2,2,kert,.5,0,,,,1,1,kert,.25
+1122,teuf(infertile),0,,,,0,,,,0,,,
+1123,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1123,lem-teuf,1,3,kert,.75,0,,,,0,,,
+1123,teuf(infertile),0,,,,0,,,,0,,,
+1124,lem (fertile),0,,,,0,,,,0,,,
+1124,lem-teuf,0,,,,0,,,,1,1.5,kert,.375
+1124,teuf(infertile),0,,,,0,,,,1,2,kert,.5
+1125,lem (fertile),2,4,kert,1,0,,,,1,2,kert,.5
+1125,lem-teuf,0,,,,0,,,,1,5,kert,1.25
+1125,teuf(infertile),1,2,kert,.5,0,,,,1,4,kert,1
+1126,lem (fertile),2,8,kert,1.6,0,,,,0,,,
+1126,lem-teuf,4,7,kert,1.4,0,,,,0,,,
+1126,teuf(infertile),0,,,,0,,,,0,,,
+1127,lem (fertile),5,10,kert,2,0,,,,0,,,
+1127,lem-teuf,2,9,kert,1.8,0,,,,0,,,
+1127,teuf(infertile),0,,,,0,,,,0,,,
+1128,lem (fertile),3,5,kert,1,0,,,,0,,,
+1128,lem-teuf,0,,,,1,5,kert,1,0,,,
+1128,teuf(infertile),0,,,,0,,,,0,,,
+1129,lem (fertile),2,4,kert,1,0,,,,0,,,
+1129,lem-teuf,2,4,kert,1,0,,,,0,,,
+1129,teuf(infertile),0,,,,0,,,,0,,,
+1130,lem (fertile),3,5,kert,1.25,0,,,,0,,,
+1130,lem-teuf,0,,,,0,,,,0,1,hectare,6
+1130,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+1131,lem (fertile),0,,,,0,,,,0,,,
+1131,lem-teuf,3,6,kert,1.5,0,,,,2,6.5,kert,1.625
+1131,teuf(infertile),0,,,,0,,,,0,,,
+1132,lem (fertile),4,18,kert,4.5,0,,,,0,,,
+1132,lem-teuf,2,7,kert,1.75,0,,,,1,4,kert,1
+1132,teuf(infertile),0,,,,0,,,,0,,,
+1133,lem (fertile),1,2,kert,.5,0,,,,1,1,kert,.25
+1133,lem-teuf,2,6,kert,1.5,0,,,,1,3,kert,.75
+1133,teuf(infertile),0,,,,0,,,,1,1.5,kert,.375
+1134,lem (fertile),3,7,kert,1.75,0,,,,0,,,
+1134,lem-teuf,4,11,kert,2.75,0,,,,1,3,kert,.75
+1134,teuf(infertile),1,4,kert,1,0,,,,0,,,
+1135,lem (fertile),0,,,,0,,,,0,,,
+1135,lem-teuf,1,10,kert,2.5,0,,,,0,,,
+1135,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+1136,lem (fertile),2,6,kert,1.5,0,,,,0,,,
+1136,lem-teuf,2,6,kert,1.5,0,,,,2,9,kert,2.25
+1136,teuf(infertile),2,4,kert,1,0,,,,0,,,
+1137,lem (fertile),0,,,,0,,,,0,,,
+1137,lem-teuf,3,9,kert,2.25,0,,,,0,,,
+1137,teuf(infertile),3,5,kert,1.25,0,,,,0,,,
+1138,lem (fertile),4,9.25,kert,2.3125,0,,,,0,,,
+1138,lem-teuf,2,8,kert,2,0,,,,0,,,
+1138,teuf(infertile),0,,,,0,,,,0,,,
+1139,lem (fertile),3,10,kert,2.5,0,,,,0,,,
+1139,lem-teuf,1,4,kert,1,0,,,,0,,,
+1139,teuf(infertile),0,,,,0,,,,0,,,
+1140,lem (fertile),0,,,,0,,,,0,,,
+1140,lem-teuf,1,5,kert,1.25,0,,,,1,5,kert,1.25
+1140,teuf(infertile),0,,,,0,,,,0,,,
+1141,lem (fertile),6,14,kert,2.8,0,,,,0,,,
+1141,lem-teuf,2,4,kert,.80000001,0,,,,0,,,
+1141,teuf(infertile),0,,,,0,,,,0,,,
+1142,lem (fertile),2,8.5,kert,1.7,0,,,,0,,,
+1142,lem-teuf,1,2,kert,.40000001,0,,,,0,,,
+1142,teuf(infertile),0,,,,0,,,,0,,,
+1143,lem (fertile),3,10,kert,2,1,4,kert,.80000001,0,,,
+1143,lem-teuf,0,,,,0,,,,0,,,
+1143,teuf(infertile),0,,,,0,,,,0,,,
+1144,lem (fertile),2,3.5,kert,.69999999,0,,,,0,,,
+1144,lem-teuf,2,3.5,kert,.69999999,0,,,,0,,,
+1144,teuf(infertile),0,,,,0,,,,0,,,
+1145,lem (fertile),1,3,kert,.60000002,0,,,,0,,,
+1145,lem-teuf,3,13,kert,2.5999999,0,,,,0,,,
+1145,teuf(infertile),0,,,,0,,,,0,,,
+1146,lem (fertile),2,5.5,kert,1.1,0,,,,0,,,
+1146,lem-teuf,1,3,kert,.60000002,0,,,,0,,,
+1146,teuf(infertile),0,,,,0,,,,0,,,
+1147,lem (fertile),0,,,,0,,,,0,,,
+1147,lem-teuf,3,23,kert,4.5999999,0,,,,0,,,
+1147,teuf(infertile),0,,,,0,,,,0,,,
+1148,lem (fertile),0,,,,0,,,,0,,,
+1148,lem-teuf,0,,,,0,,,,3,9,kert,1.8
+1148,teuf(infertile),0,,,,0,,,,0,,,
+1149,lem (fertile),0,,,,0,,,,0,,,
+1149,lem-teuf,3,12,kert,2.4000001,0,,,,0,,,
+1149,teuf(infertile),0,,,,0,,,,0,,,
+1150,lem (fertile),6,11,kert,2.2,0,,,,0,,,
+1150,lem-teuf,1,1,kert,.2,0,,,,0,,,
+1150,teuf(infertile),3,5.5,kert,1.1,0,,,,0,,,
+1151,lem (fertile),5,7,kert,1.4,0,,,,2,4,kert,.80000001
+1151,lem-teuf,1,1,kert,.2,0,,,,0,,,
+1151,teuf(infertile),1,4,kert,.80000001,0,,,,0,,,
+1152,lem (fertile),6,24.5,kert,4.9000001,0,,,,0,,,
+1152,lem-teuf,3,9.5,kert,1.9,0,,,,0,,,
+1152,teuf(infertile),0,,,,0,,,,0,,,
+1153,lem (fertile),0,,,,0,,,,2,5,kert,1
+1153,lem-teuf,1,1.5,kert,.30000001,0,,,,1,3,kert,.60000002
+1153,teuf(infertile),0,,,,0,,,,0,,,
+1154,lem (fertile),3,6,timad,1.2,0,,,,2,7,timad,1.4
+1154,lem-teuf,2,6,timad,1.2,0,,,,0,,,
+1154,teuf(infertile),0,,,,0,,,,0,,,
+1155,lem (fertile),2,5,kert,1,0,,,,0,,,
+1155,lem-teuf,0,,,,0,,,,2,7,kert,1.4
+1155,teuf(infertile),0,,,,0,,,,2,4,kert,.80000001
+1156,lem (fertile),1,3,kert,.60000002,0,,,,0,,,
+1156,lem-teuf,6,17,kert,3.4000001,0,,,,0,,,
+1156,teuf(infertile),0,,,,0,,,,0,,,
+1157,lem (fertile),1,10,kert,2,0,,,,2,6,kert,1.2
+1157,lem-teuf,1,2,kert,.40000001,0,,,,2,5,kert,1
+1157,teuf(infertile),0,,,,0,,,,0,,,
+1158,lem (fertile),1,1,kert,.2,3,6,kert,1.2,0,,,
+1158,lem-teuf,1,2,kert,.40000001,1,4,kert,.80000001,0,,,
+1158,teuf(infertile),0,,,,0,,,,0,,,
+1159,lem (fertile),1,7.5,kert,1.5,0,,,,0,,,
+1159,lem-teuf,1,2,kert,.40000001,0,,,,1,3,kert,.60000002
+1159,teuf(infertile),0,,,,0,,,,0,,,
+1160,lem (fertile),2,7.5,kert,1.5,0,,,,0,,,
+1160,lem-teuf,1,3.5,kert,.69999999,0,,,,0,,,
+1160,teuf(infertile),0,,,,0,,,,0,,,
+1041,lem (fertile),0,,,,0,,,,0,,,
+1041,lem-teuf,1,21,kert,5.25,0,,,,0,,,
+1041,teuf(infertile),0,,,,0,,,,0,,,
+1042,lem (fertile),3,11,kert,2.2,0,,,,0,,,
+1042,lem-teuf,0,,,,0,,,,0,,,
+1042,teuf(infertile),0,,,,0,,,,0,,,
+1043,lem (fertile),2,3.5,kert,.875,0,,,,0,,,
+1043,lem-teuf,2,2,kert,.5,0,,,,1,4,kert,1
+1043,teuf(infertile),0,,,,0,,,,1,3,kert,.75
+1044,lem (fertile),1,10,kert,2,0,,,,0,,,
+1044,lem-teuf,4,9.5,kert,1.9,0,,,,0,,,
+1044,teuf(infertile),0,,,,0,,,,0,,,
+1045,lem (fertile),1,7,kert,1.4,0,,,,0,,,
+1045,lem-teuf,2,4.5,kert,.85000002,0,,,,0,,,
+1045,teuf(infertile),1,4,kert,.80000001,0,,,,0,,,
+1046,lem (fertile),3,15,kert,3,0,,,,0,,,
+1046,lem-teuf,2,6,kert,1.2,0,,,,0,,,
+1046,teuf(infertile),0,,,,0,,,,0,,,
+1047,lem (fertile),1,2,kert,.40000001,0,,,,0,,,
+1047,lem-teuf,5,12.5,kert,2.5,0,,,,1,2.5,kert,.5
+1047,teuf(infertile),0,,,,0,,,,0,,,
+1048,lem (fertile),0,,,,0,,,,0,,,
+1048,lem-teuf,1,6,kert,1.2,0,,,,0,,,
+1048,teuf(infertile),2,4,kert,.80000001,0,,,,0,,,
+1049,lem (fertile),0,,,,0,,,,0,,,
+1049,lem-teuf,4,13,kert,2.5999999,0,,,,0,,,
+1049,teuf(infertile),1,4,kert,.80000001,0,,,,0,,,
+1050,lem (fertile),2,6,kert,1.2,0,,,,1,1,kert,.2
+1050,lem-teuf,0,,,,0,,,,2,3,kert,.60000002
+1050,teuf(infertile),0,,,,0,,,,0,,,
+1051,lem (fertile),0,,,,0,,,,0,,,
+1051,lem-teuf,2,10,kert,2,0,,,,0,,,
+1051,teuf(infertile),0,,,,0,,,,0,,,
+1052,lem (fertile),3,11,kert,2.2,0,,,,1,1,kert,.2
+1052,lem-teuf,0,,,,0,,,,0,,,
+1052,teuf(infertile),0,,,,0,,,,0,,,
+1053,lem (fertile),2,2,kert,.40000001,0,,,,5,10,kert,2
+1053,lem-teuf,0,,,,0,,,,0,,,
+1053,teuf(infertile),0,,,,0,,,,0,,,
+1054,lem (fertile),6,18,kert,3.5999999,0,,,,0,,,
+1054,lem-teuf,0,,,,0,,,,0,,,
+1054,teuf(infertile),0,,,,0,,,,0,,,
+1055,lem (fertile),0,,,,0,,,,0,,,
+1055,lem-teuf,1,6,kert,1.5,0,,,,0,,,
+1055,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+1056,lem (fertile),1,4,kert,1,0,,,,0,,,
+1056,lem-teuf,4,9,kert,2.25,0,,,,0,,,
+1056,teuf(infertile),1,4,kert,1,0,,,,0,,,
+1057,lem (fertile),2,7,kert,1.75,0,,,,0,,,
+1057,lem-teuf,1,6,kert,1.5,0,,,,0,,,
+1057,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+1058,lem (fertile),3,10,kert,2.5,0,,,,0,,,
+1058,lem-teuf,1,2,kert,.5,0,,,,0,,,
+1058,teuf(infertile),2,8,kert,2,0,,,,0,,,
+1059,lem (fertile),0,,,,0,,,,0,,,
+1059,lem-teuf,1,4,kert,.80000001,0,,,,0,,,
+1059,teuf(infertile),3,5,kert,1,0,,,,1,1,kert,.2
+1060,lem (fertile),1,1.5,kert,.30000001,0,,,,0,,,
+1060,lem-teuf,4,7.25,kert,1.45,0,,,,0,,,
+1060,teuf(infertile),0,,,,0,,,,0,,,
+1061,lem (fertile),4,14,kert,2.8,0,,,,0,,,
+1061,lem-teuf,3,12.5,kert,2.5,0,,,,0,,,
+1061,teuf(infertile),0,,,,0,,,,0,,,
+1062,lem (fertile),0,,,,0,,,,1,5,kert,1
+1062,lem-teuf,4,13,kert,2.5999999,0,,,,0,,,
+1062,teuf(infertile),1,2.5,kert,.5,0,,,,1,4,kert,.80000001
+1063,lem (fertile),2,3.5,kert,.69999999,0,,,,0,,,
+1063,lem-teuf,3,4.25,kert,.85000002,0,,,,0,,,
+1063,teuf(infertile),0,,,,0,,,,0,,,
+1064,lem (fertile),0,,,,0,,,,0,,,
+1064,lem-teuf,4,9.75,kert,1.95,0,,,,0,,,
+1064,teuf(infertile),0,,,,0,,,,0,,,
+1065,lem (fertile),4,7,kert,1.4,0,,,,0,,,
+1065,lem-teuf,2,1.5,kert,.30000001,0,,,,0,,,
+1065,teuf(infertile),0,,,,0,,,,0,,,
+1066,lem (fertile),1,4,kert,1,0,,,,0,,,
+1066,lem-teuf,5,17,kert,4.25,0,,,,0,,,
+1066,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+1067,lem (fertile),1,5,kert,1.25,0,,,,0,,,
+1067,lem-teuf,1,4,kert,1,0,,,,0,,,
+1067,teuf(infertile),1,5,kert,1.25,0,,,,0,,,
+1068,lem (fertile),0,,,,0,,,,0,,,
+1068,lem-teuf,2,10,kert,2.5,0,,,,0,,,
+1068,teuf(infertile),0,,,,0,,,,0,,,
+1069,lem (fertile),0,,,,0,,,,0,,,
+1069,lem-teuf,0,,,,0,,,,0,,,
+1069,teuf(infertile),3,12,kert,3,0,,,,0,,,
+1070,lem (fertile),0,,,,0,,,,0,,,
+1070,lem-teuf,4,21,kert,5.25,0,,,,0,,,
+1070,teuf(infertile),0,,,,0,,,,0,,,
+1071,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1071,lem-teuf,2,6,kert,1.5,0,,,,0,,,
+1071,teuf(infertile),0,,,,0,,,,0,,,
+1072,lem (fertile),2,7,kert,1.75,0,,,,0,,,
+1072,lem-teuf,4,8,kert,2,0,,,,0,,,
+1072,teuf(infertile),0,,,,0,,,,0,,,
+1073,lem (fertile),0,,,,0,,,,0,,,
+1073,lem-teuf,4,6,kert,1.5,0,,,,0,,,
+1073,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+1074,lem (fertile),0,,,,0,,,,0,,,
+1074,lem-teuf,1,3,kert,.75,0,,,,2,3,kert,.75
+1074,teuf(infertile),0,,,,0,,,,0,,,
+1075,lem (fertile),2,4,kert,.80000001,0,,,,0,,,
+1075,lem-teuf,3,12,kert,2.4000001,0,,,,0,,,
+1075,teuf(infertile),0,,,,0,,,,0,,,
+1076,lem (fertile),2,16,kert,3.2,0,,,,0,,,
+1076,lem-teuf,1,3,kert,.60000002,0,,,,0,,,
+1076,teuf(infertile),0,,,,0,,,,0,,,
+1077,lem (fertile),0,,,,0,,,,0,,,
+1077,lem-teuf,6,21,kert,5.25,0,,,,0,,,
+1077,teuf(infertile),2,6,kert,1.5,0,,,,0,,,
+1078,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1078,lem-teuf,1,1,kert,.25,0,,,,0,,,
+1078,teuf(infertile),0,,,,0,,,,0,,,
+1079,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1079,lem-teuf,1,5,kert,1.25,0,,,,0,,,
+1079,teuf(infertile),0,,,,0,,,,0,,,
+1080,lem (fertile),3,11.5,kert,2.875,0,,,,0,,,
+1080,lem-teuf,3,8.5,kert,2.125,0,,,,0,,,
+1080,teuf(infertile),0,,,,0,,,,0,,,
+1081,lem (fertile),0,,,,0,,,,0,,,
+1081,lem-teuf,3,5,kert,1.25,0,,,,3,8,kert,2
+1081,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+1082,lem (fertile),0,,,,0,,,,0,,,
+1082,lem-teuf,3,11,kert,2.75,0,,,,2,3,kert,.75
+1082,teuf(infertile),0,,,,0,,,,0,,,
+1083,lem (fertile),0,,,,0,,,,0,,,
+1083,lem-teuf,1,2,kert,.5,0,,,,2,8,kert,2
+1083,teuf(infertile),0,,,,0,,,,0,,,
+1084,lem (fertile),0,,,,0,,,,0,,,
+1084,lem-teuf,5,16,kert,4,1,3,kert,.75,0,,,
+1084,teuf(infertile),0,,,,0,,,,0,,,
+1085,lem (fertile),0,,,,0,,,,0,,,
+1085,lem-teuf,2,7,kert,1.75,0,,,,0,,,
+1085,teuf(infertile),1,8,kert,2,1,2,kert,.5,0,,,
+1086,lem (fertile),2,4.5,kert,1.125,0,,,,0,,,
+1086,lem-teuf,3,16,kert,4,0,,,,0,,,
+1086,teuf(infertile),0,,,,0,,,,0,,,
+1087,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+1087,lem-teuf,2,5,kert,1.25,0,,,,0,,,
+1087,teuf(infertile),0,,,,0,,,,0,,,
+1088,lem (fertile),3,4,kert,1,0,,,,0,,,
+1088,lem-teuf,0,,,,0,,,,0,,,
+1088,teuf(infertile),0,,,,0,,,,0,,,
+1089,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1089,lem-teuf,2,2,kert,.5,0,,,,2,7,kert,1.75
+1089,teuf(infertile),0,,,,0,,,,0,,,
+1090,lem (fertile),2,9,kert,1.8,0,,,,0,,,
+1090,lem-teuf,0,,,,0,,,,0,,,
+1090,teuf(infertile),1,1,kert,.2,0,,,,0,,,
+1091,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1091,lem-teuf,6,11.5,kert,2.875,0,,,,0,,,
+1091,teuf(infertile),0,,,,0,,,,0,,,
+1092,lem (fertile),1,8,kert,2,0,,,,0,,,
+1092,lem-teuf,2,14,kert,3.5,0,,,,0,,,
+1092,teuf(infertile),0,,,,0,,,,0,,,
+1093,lem (fertile),1,2,kert,.5,0,,,,0,,,
+1093,lem-teuf,0,,,,0,,,,0,,,
+1093,teuf(infertile),1,4,kert,1,0,,,,0,,,
+1094,lem (fertile),3,9.5,kert,2.375,0,,,,0,,,
+1094,lem-teuf,4,14,kert,3.5,0,,,,0,,,
+1094,teuf(infertile),0,,,,0,,,,0,,,
+1161,lem (fertile),1,1,timad,.125,0,,,,0,,,
+1161,lem-teuf,2,26,timad,3.25,0,,,,1,6,timad,.75
+1161,teuf(infertile),2,7,timad,.875,0,,,,0,,,
+1162,lem (fertile),0,,,,0,,,,0,,,
+1162,lem-teuf,6,30,timad,3.75,0,,,,0,,,
+1162,teuf(infertile),0,,,,0,,,,0,,,
+1163,lem (fertile),0,,,,0,,,,0,,,
+1163,lem-teuf,6,20,timad,2.5,0,,,,0,,,
+1163,teuf(infertile),1,.25,timad,.03125,0,,,,0,,,
+1164,lem (fertile),2,5,kert,.625,0,,,,0,,,
+1164,lem-teuf,1,8,kert,1,0,,,,0,,,
+1164,teuf(infertile),1,4,kert,.5,0,,,,0,,,
+1165,lem (fertile),6,14,kert,1.75,0,,,,0,,,
+1165,lem-teuf,2,8,kert,1,0,,,,0,,,
+1165,teuf(infertile),0,,,,0,,,,0,,,
+1166,lem (fertile),1,.5,kert,.0625,0,,,,0,,,
+1166,lem-teuf,0,,,,0,,,,0,,,
+1166,teuf(infertile),2,10,kert,1.25,0,,,,0,,,
+1167,lem (fertile),3,6,kert,.75,0,,,,0,,,
+1167,lem-teuf,1,6,kert,.75,0,,,,0,,,
+1167,teuf(infertile),1,3,kert,.375,0,,,,0,,,
+1168,lem (fertile),2,7,kert,.875,0,,,,2,4,kert,.5
+1168,lem-teuf,1,8,kert,1,0,,,,0,,,
+1168,teuf(infertile),0,,,,0,,,,0,,,
+1169,lem (fertile),4,11,kert,1.375,0,,,,0,,,
+1169,lem-teuf,2,5,kert,.625,0,,,,0,,,
+1169,teuf(infertile),2,5,kert,.625,0,,,,0,,,
+1170,lem (fertile),1,2,timad,.25,0,,,,3,11,timad,1.375
+1170,lem-teuf,1,1,timad,.125,0,,,,0,,,
+1170,teuf(infertile),0,,,,0,,,,0,,,
+1171,lem (fertile),2,5,timad,.625,0,,,,3,5,timad,.625
+1171,lem-teuf,0,,,,0,,,,0,,,
+1171,teuf(infertile),1,5,timad,.625,0,,,,0,,,
+1172,lem (fertile),1,3,timad,.375,0,,,,0,,,
+1172,lem-teuf,3,46,timad,5.75,0,,,,1,19,timad,2.375
+1172,teuf(infertile),0,,,,0,,,,0,,,
+1173,lem (fertile),2,3.5,timad,.4375,0,,,,0,,,
+1173,lem-teuf,3,5.5,timad,.6875,0,,,,0,,,
+1173,teuf(infertile),0,,,,0,,,,0,,,
+1174,lem (fertile),2,3.5,timad,.4375,0,,,,0,,,
+1174,lem-teuf,2,7,timad,.875,0,,,,0,,,
+1174,teuf(infertile),0,,,,0,,,,0,,,
+1175,lem (fertile),3,9.5,timad,1.1875,0,,,,0,,,
+1175,lem-teuf,1,4,timad,.5,0,,,,0,,,
+1175,teuf(infertile),1,1.5,timad,.1875,0,,,,0,,,
+1176,lem (fertile),2,8.5,kert,2.125,0,,,,0,,,
+1176,lem-teuf,2,7,kert,1.75,0,,,,0,,,
+1176,teuf(infertile),0,,,,0,,,,0,,,
+1177,lem (fertile),2,2,kert,.5,0,,,,0,,,
+1177,lem-teuf,0,,,,0,,,,3,7,kert,1.75
+1177,teuf(infertile),0,,,,0,,,,0,,,
+1178,lem (fertile),3,5.5,kert,1.375,0,,,,0,,,
+1178,lem-teuf,2,3,kert,.75,0,,,,2,2,kert,.5
+1178,teuf(infertile),0,,,,0,,,,0,,,
+1179,lem (fertile),6,9.25,kert,2.3125,0,,,,0,,,
+1179,lem-teuf,2,3,kert,.75,0,,,,0,,,
+1179,teuf(infertile),0,,,,0,,,,0,,,
+1180,lem (fertile),1,1,kert,.25,1,1,kert,.25,0,,,
+1180,lem-teuf,3,3,kert,.75,1,2,kert,.5,0,,,
+1180,teuf(infertile),0,,,,0,,,,0,,,
+1181,lem (fertile),3,12.5,timad,1.5625,0,,,,0,,,
+1181,lem-teuf,1,4,timad,.5,0,,,,0,,,
+1181,teuf(infertile),1,6,timad,.75,0,,,,0,,,
+1182,lem (fertile),0,,,,0,,,,2,2.5,timad,.3125
+1182,lem-teuf,4,9,timad,1.125,0,,,,1,2,timad,.25
+1182,teuf(infertile),0,,,,0,,,,0,,,
+1183,lem (fertile),3,2,timad,.25,0,,,,0,,,
+1183,lem-teuf,3,13,timad,1.625,0,,,,0,,,
+1183,teuf(infertile),0,,,,0,,,,0,,,
+1184,lem (fertile),2,1.25,timad,.156,1,4,timad,.5,0,,,
+1184,lem-teuf,1,2,timad,.25,1,5,timad,.625,0,,,
+1184,teuf(infertile),0,,,,0,,,,0,,,
+1185,lem (fertile),0,,,,0,,,,0,,,
+1185,lem-teuf,2,11,timad,1.375,0,,,,0,,,
+1185,teuf(infertile),3,16,timad,2,0,,,,0,,,
+1186,lem (fertile),1,1,kert,.25,0,,,,1,4,kert,1
+1186,lem-teuf,1,6,kert,1.5,0,,,,0,,,
+1186,teuf(infertile),0,,,,0,,,,0,,,
+1187,lem (fertile),2,2,kert,.5,0,,,,3,8,kert,2
+1187,lem-teuf,6,20.5,kert,5.125,0,,,,0,,,
+1187,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+1188,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+1188,lem-teuf,2,9,kert,2.25,0,,,,0,,,
+1188,teuf(infertile),0,,,,0,,,,0,,,
+1189,lem (fertile),2,3,kert,.75,0,,,,0,,,
+1189,lem-teuf,2,8,kert,2,0,,,,0,,,
+1189,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+1190,lem (fertile),3,5,kert,1.25,0,,,,0,,,
+1190,lem-teuf,4,16,kert,4,0,,,,0,,,
+1190,teuf(infertile),1,4,kert,1,0,,,,0,,,
+1191,lem (fertile),4,13,kert,3.25,0,,,,0,,,
+1191,lem-teuf,2,8,kert,2,0,,,,0,,,
+1191,teuf(infertile),0,,,,0,,,,0,,,
+1192,lem (fertile),2,4,kert,1,0,,,,0,,,
+1192,lem-teuf,2,8,kert,2,0,,,,0,,,
+1192,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+1193,lem (fertile),3,14,kert,3.5,0,,,,0,,,
+1193,lem-teuf,0,,,,0,,,,0,,,
+1193,teuf(infertile),2,10,kert,2.5,0,,,,0,,,
+1194,lem (fertile),4,9,kert,2.25,0,,,,1,1.5,kert,.375
+1194,lem-teuf,1,5,kert,1.25,0,,,,1,2,kert,.5
+1194,teuf(infertile),0,,,,0,,,,0,,,
+1195,lem (fertile),5,11.125,kert,2.7809999,0,,,,0,,,
+1195,lem-teuf,6,14.625,kert,3.6559999,0,,,,0,,,
+1195,teuf(infertile),0,,,,0,,,,0,,,
+1196,lem (fertile),0,,,,0,,,,0,,,
+1196,lem-teuf,0,,,,0,,,,0,,,
+1196,teuf(infertile),3,8,kert,2,0,,,,1,6,kert,1.5
+1197,lem (fertile),1,1,kert,.25,0,,,,0,,,
+1197,lem-teuf,1,1,kert,.25,0,,,,4,7,kert,1.75
+1197,teuf(infertile),0,,,,0,,,,0,,,
+1198,lem (fertile),1,.5,kert,.125,0,,,,0,,,
+1198,lem-teuf,1,3,kert,.75,0,,,,1,5,kert,1.25
+1198,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+1199,lem (fertile),0,,,,0,,,,0,,,
+1199,lem-teuf,1,4,kert,1,0,,,,0,,,
+1199,teuf(infertile),0,,,,0,,,,0,,,
+1200,lem (fertile),1,1,kert,.25,0,,,,0,,,
+1200,lem-teuf,1,7,kert,1.75,0,,,,7,18.5,kert,4.625
+1200,teuf(infertile),0,,,,0,,,,0,,,
+532,lem (fertile),0,,,,0,,,,0,,,
+532,lem-teuf,3,3.25,kert,.8125,0,,,,0,,,
+532,teuf(infertile),0,,,,1,2,kert,.5,0,,,
+547,lem (fertile),0,,,,0,,,,0,,,
+547,lem-teuf,2,5,kert,1.25,0,,,,0,,,
+547,teuf(infertile),1,4,kert,1,0,,,,0,,,
+523,lem (fertile),5,11.5,kert,2.875,0,,,,0,,,
+523,lem-teuf,2,6.75,kert,1.6875,0,,,,0,,,
+523,teuf(infertile),3,8,kert,2,0,,,,0,,,
+524,lem (fertile),2,3.5,kert,.875,0,,,,0,,,
+524,lem-teuf,2,4,kert,1,0,,,,0,,,
+524,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+555,lem (fertile),2,7,kert,1.75,0,,,,0,,,
+555,lem-teuf,5,6,kert,1.5,0,,,,0,,,
+555,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+553,lem (fertile),1,1,kert,.25,0,,,,0,,,
+553,lem-teuf,2,14,kert,3.25,0,,,,0,,,
+553,teuf(infertile),0,,,,0,,,,0,,,
+554,lem (fertile),1,2,kert,.5,0,,,,0,,,
+554,lem-teuf,4,9.5,kert,2.375,0,,,,4,8.5,kert,2.125
+554,teuf(infertile),0,,,,0,,,,0,,,
+552,lem (fertile),1,10,kert,2.5,0,,,,2,6,kert,1.5
+552,lem-teuf,0,,,,0,,,,3,13,kert,3.25
+552,teuf(infertile),0,,,,0,,,,3,4,kert,1
+562,lem (fertile),0,,,,0,,,,1,2,kert,.5
+562,lem-teuf,1,2,kert,.5,0,,,,2,8,kert,2
+562,teuf(infertile),0,,,,0,,,,0,,,
+567,lem (fertile),8,13,kert,3.25,0,,,,2,2,kert,.5
+567,lem-teuf,0,,,,0,,,,0,,,
+567,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+563,lem (fertile),0,,,,0,,,,1,2,kert,.5
+563,lem-teuf,1,2,kert,.5,0,,,,2,5,kert,1.25
+563,teuf(infertile),0,,,,0,,,,1,1.5,kert,.375
+565,lem (fertile),3,5,kert,1.25,0,,,,2,4,kert,2
+565,lem-teuf,0,,,,0,,,,0,,,
+565,teuf(infertile),0,,,,0,,,,0,,,
+569,lem (fertile),3,5,kert,1.25,0,,,,1,2,kert,.5
+569,lem-teuf,0,,,,0,,,,0,,,
+569,teuf(infertile),0,,,,0,,,,0,,,
+574,lem (fertile),1,4,kert,1,0,,,,0,,,
+574,lem-teuf,2,8,kert,2,0,,,,0,,,
+574,teuf(infertile),0,,,,0,,,,0,,,
+571,lem (fertile),4,15.5,kert,3.875,0,,,,1,2,kert,.5
+571,lem-teuf,2,3,kert,.75,0,,,,0,,,
+571,teuf(infertile),0,,,,0,,,,0,,,
+572,lem (fertile),7,9,kert,2.25,0,,,,0,,,
+572,lem-teuf,0,,,,0,,,,0,,,
+572,teuf(infertile),3,2.25,kert,.5625,0,,,,0,,,
+566,lem (fertile),5,11,kert,2.75,0,,,,0,,,
+566,lem-teuf,1,6,kert,0,0,,,,0,,,
+566,teuf(infertile),0,,,,0,,,,0,,,
+561,lem (fertile),2,3,kert,.75,0,,,,3,3.5,kert,.875
+561,lem-teuf,0,,,,0,,,,5,6.5,kert,1.625
+561,teuf(infertile),0,,,,0,,,,1,1,kert,.25
+570,lem (fertile),0,,,,0,,,,0,,,
+570,lem-teuf,3,18.5,kert,4.625,0,,,,1,2,kert,.5
+570,teuf(infertile),4,12,kert,3,0,,,,0,,,
+564,lem (fertile),1,3,kert,.75,0,,,,1,1,kert,.25
+564,lem-teuf,2,6,kert,1.5,0,,,,1,2,kert,.5
+564,teuf(infertile),0,,,,0,,,,0,,,
+558,lem (fertile),0,,,,0,,,,0,,,
+558,lem-teuf,2,6,kert,1.5,0,,,,2,4,kert,1
+558,teuf(infertile),0,,,,0,,,,0,,,
+557,lem (fertile),0,,,,0,,,,3,3.5,kert,.875
+557,lem-teuf,0,,,,0,,,,2,4,kert,1
+557,teuf(infertile),0,,,,0,,,,0,,,
+556,lem (fertile),0,,,,0,,,,0,,,
+556,lem-teuf,1,4,kert,1,0,,,,0,,,
+556,teuf(infertile),1,6,kert,1.5,0,,,,0,,,
+551,lem (fertile),2,3.5,kert,.875,0,,,,3,11,kert,2.75
+551,lem-teuf,0,,,,0,,,,0,,,
+551,teuf(infertile),0,,,,0,,,,0,,,
+576,lem (fertile),2,5,kert,1.25,0,,,,4,9,kert,2.25
+576,lem-teuf,0,,,,0,,,,0,,,
+576,teuf(infertile),0,,,,0,,,,0,,,
+559,lem (fertile),3,15,kert,3.75,0,,,,0,,,
+559,lem-teuf,1,6.5,kert,1.625,0,,,,0,,,
+559,teuf(infertile),0,,,,0,,,,0,,,
+560,lem (fertile),3,4.5,kert,1.125,0,,,,0,,,
+560,lem-teuf,1,3,kert,.75,0,,,,0,,,
+560,teuf(infertile),0,,,,0,,,,0,,,
+568,lem (fertile),2,4.5,kert,1.125,0,,,,0,,,
+568,lem-teuf,1,5.5,kert,1.375,0,,,,0,,,
+568,teuf(infertile),0,,,,0,,,,0,,,
+575,lem (fertile),0,,,,0,,,,0,,,
+575,lem-teuf,6,15,kert,3.75,0,,,,3,4,kert,1
+575,teuf(infertile),0,,,,0,,,,0,,,
+573,lem (fertile),1,9,kert,2.25,0,,,,0,,,
+573,lem-teuf,0,,,,0,,,,0,,,
+573,teuf(infertile),0,,,,0,,,,0,,,
+536,lem (fertile),1,1,kert,.25,0,,,,2,2.5,kert,.625
+536,lem-teuf,0,,,,0,,,,3,4.5,kert,1.125
+536,teuf(infertile),1,2,kert,.5,0,,,,3,6.5,kert,1.625
+531,lem (fertile),0,,,,0,,,,0,,,
+531,lem-teuf,5,23,kert,5.75,0,,,,2,4,kert,1
+531,teuf(infertile),0,,,,0,,,,0,,,
+530,lem (fertile),2,2,kert,.5,0,,,,0,,,
+530,lem-teuf,1,1,kert,.25,0,,,,0,,,
+530,teuf(infertile),3,5,kert,1.25,0,,,,0,,,
+533,lem (fertile),1,3,kert,.75,0,,,,0,,,
+533,lem-teuf,4,12.5,kert,3.125,0,,,,0,,,
+533,teuf(infertile),0,,,,0,,,,0,,,
+535,lem (fertile),1,1,kert,.25,0,,,,0,,,
+535,lem-teuf,2,8,kert,2,0,,,,0,,,
+535,teuf(infertile),2,2,kert,.5,0,,,,1,1,kert,.25
+534,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+534,lem-teuf,2,4.5,kert,1.125,0,,,,3,7.5,kert,1.875
+534,teuf(infertile),3,5,kert,1.25,0,,,,0,,,
+537,lem (fertile),0,,,,0,,,,0,,,
+537,lem-teuf,4,12,kert,3,0,,,,0,,,
+537,teuf(infertile),3,8,kert,2,0,,,,1,4,kert,1
+538,lem (fertile),3,10,kert,2.5,0,,,,0,,,
+538,lem-teuf,2,2,kert,.5,0,,,,0,,,
+538,teuf(infertile),11,27.5,kert,6.875,0,,,,0,,,
+540,lem (fertile),0,,,,0,,,,0,,,
+540,lem-teuf,1,1.5,kert,.375,0,,,,0,,,
+540,teuf(infertile),9,15,kert,3.75,0,,,,0,,,
+539,lem (fertile),1,2,kert,.5,0,,,,0,,,
+539,lem-teuf,3,4.5,kert,1.125,0,,,,0,,,
+539,teuf(infertile),2,2,kert,.5,0,,,,0,,,
+542,lem (fertile),2,2.5,kert,.625,0,,,,2,10,kert,2.5
+542,lem-teuf,2,9.5,kert,2.375,0,,,,0,,,
+542,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+541,lem (fertile),0,,,,0,,,,0,,,
+541,lem-teuf,3,13,kert,3.25,0,,,,0,,,
+541,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+543,lem (fertile),1,.25,kert,.0625,0,,,,1,2,kert,.5
+543,lem-teuf,0,,,,0,,,,3,5,kert,1.25
+543,teuf(infertile),1,1,kert,.25,0,,,,2,3,kert,.75
+544,lem (fertile),0,,,,0,,,,3,5.5,kert,1.375
+544,lem-teuf,0,,,,0,,,,5,7,kert,2.25
+544,teuf(infertile),0,,,,0,,,,0,,,
+545,lem (fertile),2,4,kert,1,1,4,kert,1,0,,,
+545,lem-teuf,1,.5,kert,.125,1,1,kert,.25,0,,,
+545,teuf(infertile),1,4.5,kert,1.125,0,,,,0,,,
+528,lem (fertile),3,3,kert,.75,0,,,,0,,,
+528,lem-teuf,0,,,,0,,,,0,,,
+528,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+527,lem (fertile),0,,,,0,,,,0,,,
+527,lem-teuf,1,2,kert,.5,0,,,,7,10,kert,2.5
+527,teuf(infertile),0,,,,0,,,,0,,,
+526,lem (fertile),0,,,,0,,,,0,,,
+526,lem-teuf,3,5,kert,1.125,0,,,,0,,,
+526,teuf(infertile),3,5,kert,1.25,0,,,,1,2,kert,.5
+525,lem (fertile),0,,,,0,,,,0,,,
+525,lem-teuf,3,4,kert,1,0,,,,2,4,kert,1
+525,teuf(infertile),0,,,,0,,,,2,2.5,kert,.625
+522,lem (fertile),5,20.25,kert,5.0625,0,,,,0,,,
+522,lem-teuf,2,7,kert,1.75,0,,,,0,,,
+522,teuf(infertile),2,3.5,kert,.875,1,3,kert,.75,0,,,
+521,lem (fertile),0,,,,0,,,,0,,,
+521,lem-teuf,2,3,kert,.75,0,,,,4,4,kert,1
+521,teuf(infertile),0,,,,0,,,,1,1,kert,.25
+529,lem (fertile),2,5.5,kert,1.375,0,,,,0,,,
+529,lem-teuf,2,4,kert,1,0,,,,0,,,
+529,teuf(infertile),0,,,,0,,,,0,,,
+546,lem (fertile),0,,,,0,,,,0,,,
+546,lem-teuf,1,11,kert,2.75,0,,,,0,,,
+546,teuf(infertile),1,3,kert,.75,1,3,kert,.75,0,,,
+548,lem (fertile),1,2,kert,.5,0,,,,2,3,kert,.75
+548,lem-teuf,1,2,kert,.5,0,,,,1,1,kert,.25
+548,teuf(infertile),0,,,,0,,,,0,,,
+549,lem (fertile),3,2.75,kert,.6875,0,,,,2,2.5,kert,.625
+549,lem-teuf,0,,,,0,,,,0,,,
+549,teuf(infertile),2,2,kert,.5,0,,,,0,,,
+577,lem (fertile),1,3,kert,.75,0,,,,0,,,
+577,lem-teuf,3,9,kert,2.25,0,,,,1,2,kert,.5
+577,teuf(infertile),0,,,,0,,,,0,,,
+550,lem (fertile),1,3,kert,.75,0,,,,0,,,
+550,lem-teuf,1,2,kert,.5,0,,,,0,,,
+550,teuf(infertile),5,17,kert,4.25,1,1,kert,.25,1,2,kert,.5
+579,lem (fertile),0,,,,0,,,,1,2,kert,.5
+579,lem-teuf,4,14,kert,3.5,0,,,,0,,,
+579,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+580,lem (fertile),5,9.5,kert,2.375,0,,,,0,,,
+580,lem-teuf,2,6,kert,1.5,0,,,,0,,,
+580,teuf(infertile),0,,,,0,,,,0,,,
+578,lem (fertile),0,,,,0,,,,0,,,
+578,lem-teuf,5,15,kert,3.75,0,,,,0,,,
+578,teuf(infertile),0,,,,0,,,,0,,,
+613,lem (fertile),0,,,,0,,,,0,,,
+613,lem-teuf,0,,,,0,,,,1,1,kert,.25
+613,teuf(infertile),1,8,kert,2,0,,,,1,2,kert,.5
+614,lem (fertile),1,6,hectare,.25,0,,,,0,,,
+614,lem-teuf,0,,,,0,,,,0,,,
+614,teuf(infertile),1,6,hectare,.25,1,3,kert,.75,0,,,
+612,lem (fertile),1,2,kert,.5,0,,,,0,,,
+612,lem-teuf,2,2,kert,.5,0,,,,1,1,kert,.25
+612,teuf(infertile),0,,,,0,,,,0,,,
+611,lem (fertile),4,11.75,kert,2.9375,0,,,,0,,,
+611,lem-teuf,1,4,kert,1,0,,,,0,,,
+611,teuf(infertile),4,7,kert,1.75,0,,,,0,,,
+615,lem (fertile),2,4,kert,1,0,,,,0,,,
+615,lem-teuf,0,,,,1,6,kert,1.5,0,,,
+615,teuf(infertile),2,5.5,kert,1.375,0,,,,0,,,
+616,lem (fertile),2,8,kert,2,0,,,,0,,,
+616,lem-teuf,2,6,kert,1.5,0,,,,0,,,
+616,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+617,lem (fertile),2,2.5,kert,.625,0,,,,0,,,
+617,lem-teuf,4,8.5,kert,2.125,0,,,,1,2,kert,.5
+617,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+618,lem (fertile),3,11,kert,2.75,0,,,,0,,,
+618,lem-teuf,0,,,,0,,,,0,,,
+618,teuf(infertile),0,,,,0,,,,0,,,
+619,lem (fertile),5,9,kert,2.25,0,,,,0,,,
+619,lem-teuf,0,,,,0,,,,0,,,
+619,teuf(infertile),0,,,,0,,,,0,,,
+621,lem (fertile),0,,,,0,,,,0,,,
+621,lem-teuf,3,2.5,kert,.625,0,,,,3,6.5,kert,1.625
+621,teuf(infertile),0,,,,0,,,,0,,,
+632,lem (fertile),0,,,,0,,,,0,,,
+632,lem-teuf,2,5,kert,1.25,0,,,,0,,,
+632,teuf(infertile),0,,,,0,,,,0,,,
+401,lem (fertile),1,2,gezem,.25,0,,,,3,12,gezem,1.5
+401,lem-teuf,0,,,,0,,,,0,,,
+401,teuf(infertile),0,,,,0,,,,0,,,
+402,lem (fertile),2,4,gezem,.5,0,,,,0,,,
+402,lem-teuf,1,1,gezem,.125,0,,,,3,4,gezem,.5
+402,teuf(infertile),1,2,gezem,.25,0,,,,0,,,
+403,lem (fertile),3,5.5,gezem,.6875,0,,,,0,,,
+403,lem-teuf,1,1.5,gezem,.1875,0,,,,2,4,gezem,.5
+403,teuf(infertile),0,,,,0,,,,2,4,gezem,.5
+404,lem (fertile),2,8,gezem,1,0,,,,2,6,gezem,.75
+404,lem-teuf,2,3,gezem,.375,0,,,,0,,,
+404,teuf(infertile),0,,,,0,,,,0,,,
+405,lem (fertile),4,10,gezem,1.25,0,,,,2,5,gezem,.625
+405,lem-teuf,0,,,,0,,,,0,,,
+405,teuf(infertile),0,,,,0,,,,0,,,
+406,lem (fertile),3,5.5,gezem,.6875,0,,,,2,8,gezem,1
+406,lem-teuf,1,2,gezem,.25,0,,,,0,,,
+406,teuf(infertile),0,,,,0,,,,0,,,
+407,lem (fertile),3,7.5,gezem,.94499999,0,,,,2,2.75,gezem,.34380001
+407,lem-teuf,0,,,,0,,,,0,,,
+407,teuf(infertile),0,,,,0,,,,0,,,
+408,lem (fertile),3,6,gezem,.75,0,,,,1,4,gezem,.5
+408,lem-teuf,1,2,gezem,.25,0,,,,0,,,
+408,teuf(infertile),0,,,,0,,,,0,,,
+409,lem (fertile),0,,,,0,,,,1,5,gezem,.625
+409,lem-teuf,1,4,gezem,.5,0,,,,2,5,gezem,.625
+409,teuf(infertile),0,,,,0,,,,0,,,
+410,lem (fertile),1,2,gezem,.25,0,,,,0,,,
+410,lem-teuf,4,6,gezem,.75,0,,,,2,4,gezem,.5
+410,teuf(infertile),1,1,gezem,.125,0,,,,0,,,
+411,lem (fertile),5,7,timad,1.75,0,,,,2,4,timad,1
+411,lem-teuf,2,3.5,timad,.875,0,,,,1,1.5,timad,.375
+411,teuf(infertile),1,2,timad,.5,0,,,,1,1,timad,.25
+412,lem (fertile),1,1,timad,.5,0,,,,1,2,timad,.5
+412,lem-teuf,1,3,timad,.75,0,,,,0,,,
+412,teuf(infertile),0,,,,0,,,,0,,,
+413,lem (fertile),2,3,timad,.75,0,,,,2,3,timad,.75
+413,lem-teuf,0,,,,0,,,,0,,,
+413,teuf(infertile),0,,,,0,,,,0,,,
+414,lem (fertile),0,,,,0,,,,1,.5,timad,.125
+414,lem-teuf,2,3,timad,.75,0,,,,4,4.5,timad,1.125
+414,teuf(infertile),0,,,,0,,,,0,,,
+415,lem (fertile),0,,,,0,,,,0,,,
+415,lem-teuf,3,4,timad,1,0,,,,3,3.5,timad,.87
+415,teuf(infertile),0,,,,0,,,,0,,,
+416,lem (fertile),3,2.5,timad,.625,0,,,,0,,,
+416,lem-teuf,5,4.5,timad,1.125,0,,,,1,2,timad,.5
+416,teuf(infertile),0,,,,0,,,,0,,,
+417,lem (fertile),0,,,,0,,,,0,,,
+417,lem-teuf,1,2,timad,.5,0,,,,3,3.5,timad,.875
+417,teuf(infertile),0,,,,0,,,,0,,,
+418,lem (fertile),2,2.25,timad,.5625,0,,,,0,,,
+418,lem-teuf,3,3.9000001,timad,.97500002,0,,,,3,3,timad,.75
+418,teuf(infertile),0,,,,0,,,,0,,,
+419,lem (fertile),2,.75,timad,.1875,0,,,,2,2,timad,.5
+419,lem-teuf,0,,,,0,,,,3,3,timad,.75
+419,teuf(infertile),0,,,,0,,,,0,,,
+420,lem (fertile),3,5,timad,1.25,0,,,,0,,,
+420,lem-teuf,3,3,timad,.75,0,,,,0,,,
+420,teuf(infertile),0,,,,0,,,,0,,,
+421,lem (fertile),4,3.3,timad,.82499999,0,,,,0,,,
+421,lem-teuf,2,2.8,timad,.69999999,0,,,,3,2.0999999,timad,.52499998
+421,teuf(infertile),0,,,,0,,,,1,1.5,timad,.375
+422,lem (fertile),2,3,timad,.75,0,,,,2,4.5,timad,1.125
+422,lem-teuf,2,6,timad,1.5,0,,,,1,2,timad,.5
+422,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+423,lem (fertile),5,9.25,timad,2.3125,0,,,,2,5,timad,1.25
+423,lem-teuf,0,,,,0,,,,1,4,timad,1
+423,teuf(infertile),0,,,,0,,,,0,,,
+424,lem (fertile),7,7.5,timad,1.875,0,,,,1,1.5,timad,.375
+424,lem-teuf,1,2,timad,.5,0,,,,0,,,
+424,teuf(infertile),2,3,timad,.75,0,,,,0,,,
+425,lem (fertile),2,4.5,timad,1.125,0,,,,1,3,timad,.75
+425,lem-teuf,0,,,,0,,,,0,,,
+425,teuf(infertile),0,,,,0,,,,0,,,
+426,lem (fertile),1,1,gezem,.125,0,,,,1,4,gezem,.5
+426,lem-teuf,0,,,,0,,,,1,1,gezem,.125
+426,teuf(infertile),0,,,,0,,,,0,,,
+427,lem (fertile),2,3.25,gezem,.40625,0,,,,4,4,gezem,.5
+427,lem-teuf,3,2,gezem,.25,0,,,,0,,,
+427,teuf(infertile),0,,,,0,,,,0,,,
+428,lem (fertile),2,4,gezem,.5,0,,,,0,,,
+428,lem-teuf,0,,,,0,,,,0,,,
+428,teuf(infertile),0,,,,0,,,,0,,,
+429,lem (fertile),2,2,gezem,.25,0,,,,1,1,gezem,.125
+429,lem-teuf,3,2,gezem,.25,0,,,,0,,,
+429,teuf(infertile),0,,,,0,,,,0,,,
+430,lem (fertile),3,4.5,gezem,.5625,0,,,,2,4.5,gezem,.5625
+430,lem-teuf,0,,,,0,,,,0,,,
+430,teuf(infertile),0,,,,0,,,,0,,,
+431,lem (fertile),2,2,timad,.5,0,,,,2,3,timad,.75
+431,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+431,teuf(infertile),2,.89999998,timad,.22499999,0,,,,1,1,timad,.25
+432,lem (fertile),0,,,,0,,,,3,4,timad,1
+432,lem-teuf,0,,,,0,,,,3,3,timad,.75
+432,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+433,lem (fertile),0,,,,0,,,,0,,,
+433,lem-teuf,1,1,timad,.25,0,,,,0,,,
+433,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+434,lem (fertile),0,,,,0,,,,0,,,
+434,lem-teuf,3,4,timad,1,0,,,,3,2,timad,.5
+434,teuf(infertile),0,,,,0,,,,1,.5,timad,.125
+435,lem (fertile),1,.40000001,timad,.1,1,1,timad,.25,0,,,
+435,lem-teuf,2,2.5,timad,.625,0,,,,0,,,
+435,teuf(infertile),0,,,,0,,,,0,,,
+436,lem (fertile),1,.88,timad,.22,0,,,,1,1.33,timad,.33000001
+436,lem-teuf,3,3.3199999,timad,.82999998,0,,,,0,,,
+436,teuf(infertile),1,.63999999,timad,.16,0,,,,0,,,
+437,lem (fertile),0,,,,0,,,,0,,,
+437,lem-teuf,3,3,timad,.75,0,,,,0,,,
+437,teuf(infertile),0,,,,0,,,,0,,,
+438,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+438,lem-teuf,2,4,timad,1,0,,,,0,,,
+438,teuf(infertile),0,,,,0,,,,0,,,
+439,lem (fertile),3,8,timad,2,0,,,,1,4,timad,1
+439,lem-teuf,0,,,,0,,,,1,1,timad,.25
+439,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+440,lem (fertile),1,1,timad,.25,0,,,,0,,,
+440,lem-teuf,4,2.8499999,timad,.71249998,0,,,,4,3.25,timad,.1825
+440,teuf(infertile),1,.64999998,timad,.16249999,0,,,,1,1,timad,.25
+441,lem (fertile),2,1.4,timad,.34999999,0,,,,1,.5,timad,.125
+441,lem-teuf,0,,,,0,,,,1,.5,timad,.125
+441,teuf(infertile),0,,,,0,,,,1,.5,timad,.125
+442,lem (fertile),2,3,timad,.75,0,,,,0,,,
+442,lem-teuf,3,5,timad,1.25,0,,,,0,,,
+442,teuf(infertile),0,,,,0,,,,0,,,
+443,lem (fertile),2,3.25,timad,.8125,0,,,,0,,,
+443,lem-teuf,0,,,,0,,,,6,6.5,timad,1.625
+443,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+444,lem (fertile),2,1.4,timad,.34999999,0,,,,1,3,timad,.75
+444,lem-teuf,2,1.25,timad,.3125,0,,,,1,1.5,timad,.375
+444,teuf(infertile),0,,,,0,,,,1,2,timad,.5
+445,lem (fertile),4,5.25,timad,1.3125,3,3,timad,.75,0,,,
+445,lem-teuf,0,,,,0,,,,0,,,
+445,teuf(infertile),0,,,,0,,,,0,,,
+446,lem (fertile),1,1,timad,.25,0,,,,2,5,timad,1.25
+446,lem-teuf,1,.75,timad,.1875,0,,,,1,2.25,timad,.5625
+446,teuf(infertile),2,2,timad,.5,0,,,,1,1,timad,.25
+447,lem (fertile),3,1.875,timad,.46799999,0,,,,0,,,
+447,lem-teuf,1,1.25,timad,.3125,0,,,,0,,,
+447,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+448,lem (fertile),0,,,,0,,,,0,,,
+448,lem-teuf,4,5.75,timad,1.4375,0,,,,2,3,timad,.75
+448,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+449,lem (fertile),2,.75,timad,.1875,0,,,,0,,,
+449,lem-teuf,3,5.5,timad,1.375,0,,,,1,1,timad,.25
+449,teuf(infertile),0,,,,0,,,,1,2,timad,.5
+450,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+450,lem-teuf,2,1.5,timad,.375,0,,,,2,2,timad,.5
+450,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+451,lem (fertile),1,2.5,timad,.625,0,,,,1,2,timad,.5
+451,lem-teuf,3,3.6500001,timad,.91250002,0,,,,0,,,
+451,teuf(infertile),0,,,,0,,,,0,,,
+452,lem (fertile),2,.60000002,timad,.15000001,0,,,,0,,,
+452,lem-teuf,1,1.25,timad,.3125,0,,,,0,,,
+452,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+453,lem (fertile),5,3.4000001,timad,.85000002,0,,,,0,,,
+453,lem-teuf,2,4.5,timad,1.125,0,,,,0,,,
+453,teuf(infertile),0,,,,0,,,,0,,,
+454,lem (fertile),5,4.5,timad,1.125,0,,,,1,2,timad,.5
+454,lem-teuf,2,5,timad,.5,0,,,,3,2.5,timad,.625
+454,teuf(infertile),0,,,,0,,,,0,,,
+455,lem (fertile),2,3,timad,.75,0,,,,4,4,timad,1
+455,lem-teuf,4,6,timad,1.5,0,,,,0,,,
+455,teuf(infertile),1,.1,timad,.025,0,,,,0,,,
+456,lem (fertile),3,3.9000001,timad,.97500002,0,,,,0,,,
+456,lem-teuf,2,7,timad,1.75,0,,,,0,,,
+456,teuf(infertile),0,,,,1,1,timad,.25,0,,,
+457,lem (fertile),2,3,timad,.75,0,,,,2,3,timad,.75
+457,lem-teuf,0,,,,0,,,,0,,,
+457,teuf(infertile),2,4,timad,1,0,,,,0,,,
+458,lem (fertile),1,.40000001,timad,.1,0,,,,0,,,
+458,lem-teuf,2,5,timad,1.25,0,,,,1,2,timad,.5
+458,teuf(infertile),0,,,,0,,,,0,,,
+459,lem (fertile),3,2.9000001,timad,.72500002,0,,,,0,,,
+459,lem-teuf,4,4.75,timad,1.1875,0,,,,1,.40000001,timad,.1
+459,teuf(infertile),1,2,timad,.5,0,,,,1,2,timad,.5
+460,lem (fertile),2,4.9000001,timad,1.225,0,,,,0,,,
+460,lem-teuf,1,1.5,timad,.375,0,,,,1,2,timad,.5
+460,teuf(infertile),0,,,,0,,,,3,5,timad,1.25
+461,lem (fertile),4,3.375,timad,.84375,0,,,,0,,,
+461,lem-teuf,1,1,timad,.25,0,,,,0,,,
+461,teuf(infertile),0,,,,0,,,,0,,,
+462,lem (fertile),5,4,timad,1,0,,,,3,3,timad,.75
+462,lem-teuf,1,1,timad,.25,0,,,,0,,,
+462,teuf(infertile),0,,,,0,,,,0,,,
+463,lem (fertile),2,.5,timad,.125,1,2,timad,.5,3,3.5,timad,.875
+463,lem-teuf,0,,,,0,,,,0,,,
+463,teuf(infertile),2,1.5,timad,.375,0,,,,3,6,timad,1.5
+464,lem (fertile),3,4,timad,1,0,,,,3,3,timad,.75
+464,lem-teuf,0,,,,0,,,,1,1,timad,.25
+464,teuf(infertile),0,,,,0,,,,0,,,
+465,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+465,lem-teuf,0,,,,0,,,,0,,,
+465,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+466,lem (fertile),0,,,,0,,,,1,2,timad,.5
+466,lem-teuf,1,2,timad,.5,0,,,,0,,,
+466,teuf(infertile),0,,,,0,,,,0,,,
+467,lem (fertile),5,10,timad,2.5,0,,,,2,3.5,timad,.875
+467,lem-teuf,0,,,,0,,,,0,,,
+467,teuf(infertile),0,,,,0,,,,0,,,
+468,lem (fertile),0,,,,0,,,,1,1,timad,.25
+468,lem-teuf,2,3,timad,.75,0,,,,0,,,
+468,teuf(infertile),0,,,,0,,,,0,,,
+469,lem (fertile),4,5,timad,1.25,0,,,,1,2,timad,.5
+469,lem-teuf,0,,,,0,,,,0,,,
+469,teuf(infertile),0,,,,0,,,,0,,,
+470,lem (fertile),4,4,timad,1,0,,,,1,.5,timad,.125
+470,lem-teuf,0,,,,0,,,,0,,,
+470,teuf(infertile),0,,,,0,,,,0,,,
+471,lem (fertile),4,4.5,timad,1.125,0,,,,0,,,
+471,lem-teuf,2,3,timad,.5,0,,,,0,,,
+471,teuf(infertile),0,,,,0,,,,0,,,
+472,lem (fertile),5,6,timad,1.5,0,,,,4,10,timad,2.5
+472,lem-teuf,0,,,,0,,,,0,,,
+472,teuf(infertile),0,,,,0,,,,0,,,
+473,lem (fertile),2,3,timad,.75,0,,,,0,,,
+473,lem-teuf,0,,,,0,,,,1,1.5,timad,.375
+473,teuf(infertile),0,,,,0,,,,0,,,
+474,lem (fertile),2,4,timad,1,0,,,,2,3.5,timad,.875
+474,lem-teuf,0,,,,0,,,,0,,,
+474,teuf(infertile),0,,,,0,,,,0,,,
+475,lem (fertile),0,,,,0,,,,3,3,timad,.75
+475,lem-teuf,0,,,,0,,,,2,4,timad,1
+475,teuf(infertile),0,,,,0,,,,0,,,
+476,lem (fertile),1,1.5,timad,.375,0,,,,2,3,timad,.75
+476,lem-teuf,0,,,,0,,,,0,,,
+476,teuf(infertile),3,6,timad,1.5,0,,,,0,,,
+477,lem (fertile),0,,,,0,,,,2,4,timad,1
+477,lem-teuf,0,,,,0,,,,0,,,
+477,teuf(infertile),0,,,,0,,,,4,8,timad,2
+478,lem (fertile),1,1.4,timad,.34999999,0,,,,0,,,
+478,lem-teuf,2,5.0999999,timad,1.275,0,,,,3,3,timad,.75
+478,teuf(infertile),0,,,,0,,,,0,,,
+479,lem (fertile),5,4.5,timad,1.125,0,,,,1,2,timad,.5
+479,lem-teuf,2,4,timad,1,0,,,,0,,,
+479,teuf(infertile),0,,,,0,,,,0,,,
+480,lem (fertile),1,2,timad,.5,0,,,,0,,,
+480,lem-teuf,0,,,,0,,,,0,,,
+480,teuf(infertile),2,6,timad,1.5,0,,,,0,,,
+481,lem (fertile),3,4,timad,1,0,,,,3,2,timad,.5
+481,lem-teuf,0,,,,0,,,,0,,,
+481,teuf(infertile),0,,,,0,,,,0,,,
+482,lem (fertile),1,1,timad,.25,0,,,,3,3,timad,.75
+482,lem-teuf,0,,,,0,,,,1,1,timad,.25
+482,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+483,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+483,lem-teuf,0,,,,0,,,,0,,,
+483,teuf(infertile),2,2.25,timad,.5625,0,,,,1,1,timad,.25
+484,lem (fertile),1,1,timad,.25,0,,,,0,,,
+484,lem-teuf,0,,,,0,,,,1,2,timad,.5
+484,teuf(infertile),5,8.25,timad,2.0625,0,,,,0,,,
+485,lem (fertile),3,6.75,timad,1.6875,0,,,,0,,,
+485,lem-teuf,1,1.25,timad,.3125,0,,,,0,,,
+485,teuf(infertile),2,3,timad,.75,0,,,,0,,,
+486,lem (fertile),3,10,timad,2.5,0,,,,2,4,timad,1
+486,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+486,teuf(infertile),0,,,,0,,,,0,,,
+487,lem (fertile),3,4.5,timad,1.125,0,,,,0,,,
+487,lem-teuf,0,,,,0,,,,0,,,
+487,teuf(infertile),0,,,,0,,,,0,,,
+488,lem (fertile),2,2.5,timad,.625,0,,,,0,,,
+488,lem-teuf,2,10,timad,2.5,0,,,,0,,,
+488,teuf(infertile),0,,,,0,,,,0,,,
+489,lem (fertile),3,5.5,timad,1.375,0,,,,1,2,timad,.5
+489,lem-teuf,0,,,,0,,,,0,,,
+489,teuf(infertile),0,,,,0,,,,4,10,timad,2.5
+490,lem (fertile),0,,,,0,,,,2,4.5,timad,1.125
+490,lem-teuf,2,2.5,timad,.625,0,,,,2,3,timad,.75
+490,teuf(infertile),0,,,,0,,,,0,,,
+491,lem (fertile),3,2.25,timad,.5625,0,,,,0,,,
+491,lem-teuf,3,3.5,timad,.875,0,,,,0,,,
+491,teuf(infertile),0,,,,0,,,,0,,,
+492,lem (fertile),0,,,,0,,,,2,2.75,timad,.6875
+492,lem-teuf,1,2,timad,.5,0,,,,1,1,timad,.25
+492,teuf(infertile),0,,,,0,,,,1,2.5,timad,.625
+493,lem (fertile),2,1.5,timad,.375,0,,,,1,5,timad,1.25
+493,lem-teuf,1,.5,timad,.125,0,,,,1,1,timad,.25
+493,teuf(infertile),2,2.5,timad,.625,0,,,,0,,,
+494,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+494,lem-teuf,1,2,timad,.5,0,,,,0,,,
+494,teuf(infertile),1,1,timad,.25,0,,,,1,1,timad,.25
+495,lem (fertile),2,2,timad,.5,0,,,,2,2.5,timad,.625
+495,lem-teuf,1,1,timad,.25,0,,,,2,2,timad,.5
+495,teuf(infertile),2,1.5,timad,.375,0,,,,0,,,
+496,lem (fertile),3,3.5,timad,.875,0,,,,1,.5,timad,.125
+496,lem-teuf,0,,,,0,,,,2,3,timad,.75
+496,teuf(infertile),2,1,timad,.25,0,,,,1,1,timad,.25
+497,lem (fertile),2,1,timad,.25,0,,,,1,.5,timad,.125
+497,lem-teuf,1,1.5,timad,.375,0,,,,3,2.5,timad,.625
+497,teuf(infertile),0,,,,0,,,,0,,,
+498,lem (fertile),0,,,,0,,,,1,2,timad,.5
+498,lem-teuf,0,,,,0,,,,1,.5,timad,.125
+498,teuf(infertile),0,,,,0,,,,0,,,
+499,lem (fertile),7,10.5,timad,2.625,0,,,,4,5.5,timad,1.375
+499,lem-teuf,0,,,,0,,,,3,5.5,timad,1.375
+499,teuf(infertile),1,2,timad,.5,0,,,,0,,,
+500,lem (fertile),3,6,timad,1.5,0,,,,0,,,
+500,lem-teuf,1,1.5,timad,.375,0,,,,0,,,
+500,teuf(infertile),0,,,,0,,,,0,,,
+501,lem (fertile),2,4.5,timad,1.125,0,,,,0,,,
+501,lem-teuf,2,.125,timad,.03125,0,,,,0,,,
+501,teuf(infertile),1,.125,timad,.03125,0,,,,0,,,
+502,lem (fertile),2,2.75,timad,.6875,0,,,,3,2.25,timad,.5625
+502,lem-teuf,2,2.5,timad,.625,0,,,,1,1,timad,.25
+502,teuf(infertile),1,1.5,timad,.375,0,,,,0,,,
+503,lem (fertile),0,,,,0,,,,3,3,timad,.75
+503,lem-teuf,0,,,,0,,,,1,2,timad,.5
+503,teuf(infertile),0,,,,0,,,,0,,,
+504,lem (fertile),1,1,timad,.25,0,,,,1,.5,timad,.125
+504,lem-teuf,0,,,,0,,,,0,,,
+504,teuf(infertile),0,,,,0,,,,1,1,timad,.25
+505,lem (fertile),0,,,,0,,,,0,,,
+505,lem-teuf,1,3,timad,.75,0,,,,1,.5,timad,.125
+505,teuf(infertile),0,,,,0,,,,1,.5,timad,.125
+506,lem (fertile),1,.25,timad,.0625,0,,,,2,2,timad,.5
+506,lem-teuf,2,2.5,timad,.625,0,,,,1,1.5,timad,.375
+506,teuf(infertile),0,,,,0,,,,0,,,
+507,lem (fertile),1,1,timad,.25,0,,,,0,,,
+507,lem-teuf,2,3.5,timad,.875,0,,,,0,,,
+507,teuf(infertile),2,1,timad,.25,0,,,,1,1,timad,.25
+508,lem (fertile),0,,,,0,,,,2,2.25,timad,.5625
+508,lem-teuf,1,2,timad,.5,0,,,,1,3,timad,.75
+508,teuf(infertile),2,2,timad,.5,0,,,,0,,,
+509,lem (fertile),2,1.25,timad,.3125,0,,,,0,,,
+509,lem-teuf,2,3.5,timad,.875,0,,,,1,3,timad,.75
+509,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+510,lem (fertile),1,1,timad,.25,0,,,,0,,,
+510,lem-teuf,1,2,timad,.5,0,,,,3,4.5,timad,1.125
+510,teuf(infertile),0,,,,0,,,,0,,,
+511,lem (fertile),6,6.75,timad,1.6875,0,,,,0,,,
+511,lem-teuf,0,,,,0,,,,0,,,
+511,teuf(infertile),1,2,timad,.5,0,,,,2,4,timad,1
+512,lem (fertile),4,5.5,timad,1.3125,0,,,,4,6,timad,1.5
+512,lem-teuf,0,,,,0,,,,0,,,
+512,teuf(infertile),0,,,,0,,,,0,,,
+513,lem (fertile),8,11.75,timad,2.9375,0,,,,2,4.5,timad,1.125
+513,lem-teuf,0,,,,0,,,,1,3,timad,.75
+513,teuf(infertile),0,,,,0,,,,1,1.5,timad,.375
+514,lem (fertile),1,4,timad,1,0,,,,1,3,timad,.75
+514,lem-teuf,1,2,timad,.5,0,,,,1,1.5,timad,.375
+514,teuf(infertile),0,,,,0,,,,0,,,
+515,lem (fertile),2,3,timad,.75,0,,,,6,9.5,timad,2.375
+515,lem-teuf,0,,,,0,,,,2,5,timad,1.25
+515,teuf(infertile),0,,,,0,,,,0,,,
+516,lem (fertile),2,2,timad,.5,0,,,,4,5,timad,1.25
+516,lem-teuf,2,7,timad,1.75,0,,,,1,1.25,timad,.3125
+516,teuf(infertile),0,,,,0,,,,0,,,
+517,lem (fertile),2,1.75,timad,.4375,0,,,,6,6.75,timad,1.6875
+517,lem-teuf,0,,,,0,,,,1,1.5,timad,.375
+517,teuf(infertile),0,,,,0,,,,1,1.5,timad,.375
+518,lem (fertile),2,1.5,timad,.375,0,,,,0,,,
+518,lem-teuf,1,2,timad,.5,0,,,,1,1,timad,.25
+518,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+519,lem (fertile),2,2,timad,.5,0,,,,0,,,
+519,lem-teuf,4,4.5,timad,1.125,0,,,,2,2,timad,.5
+519,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+520,lem (fertile),3,2.5,timad,.625,0,,,,0,,,
+520,lem-teuf,2,2,timad,.5,0,,,,1,1,timad,.25
+520,teuf(infertile),0,,,,0,,,,0,,,
+641,lem (fertile),2,.75,kada,.1875,0,,,,1,2,kada,.5
+641,lem-teuf,1,1.25,kada,.3125,0,,,,0,,,
+641,teuf(infertile),0,,,,0,,,,0,,,
+642,lem (fertile),1,.5,kada,.125,0,,,,0,,,
+642,lem-teuf,3,4,kada,1,0,,,,0,,,
+642,teuf(infertile),1,.5,kada,.125,0,,,,1,1,kada,.25
+643,lem (fertile),0,,,,0,,,,0,,,
+643,lem-teuf,1,1,kada,.25,0,,,,0,,,
+643,teuf(infertile),1,1,kada,.25,0,,,,1,1,kada,.25
+644,lem (fertile),1,1,kada,.25,0,,,,1,1,kada,.25
+644,lem-teuf,3,3.5,kada,.875,0,,,,0,,,
+644,teuf(infertile),1,1.5,kada,.375,0,,,,0,,,
+645,lem (fertile),4,4.5,kada,1.125,1,.5,kada,.125,0,,,
+645,lem-teuf,1,.25,kada,.0625,0,,,,0,,,
+645,teuf(infertile),2,1,kada,.25,0,,,,0,,,
+646,lem (fertile),3,4,kada,1,0,,,,1,3,kada,.75
+646,lem-teuf,1,1,kada,.25,0,,,,0,,,
+646,teuf(infertile),1,2,kada,.5,0,,,,0,,,
+647,lem (fertile),0,,,,0,,,,0,,,
+647,lem-teuf,3,3.25,kada,.8125,0,,,,2,.5,kada,.125
+647,teuf(infertile),3,2,kada,.5,0,,,,1,.25,kada,.0625
+648,lem (fertile),1,1,kada,.25,0,,,,2,1.75,kada,.4375
+648,lem-teuf,1,1,kada,.25,0,,,,1,1,kada,.25
+648,teuf(infertile),0,,,,0,,,,0,,,
+649,lem (fertile),0,,,,0,,,,0,,,
+649,lem-teuf,2,1.25,kada,.3125,0,,,,2,1.25,kada,.3125
+649,teuf(infertile),2,.75,kada,.1875,0,,,,1,.5,kada,.125
+650,lem (fertile),1,1,kada,.25,0,,,,0,,,
+650,lem-teuf,3,2.5,kada,.625,0,,,,0,,,
+650,teuf(infertile),1,.5,kada,.125,0,,,,0,,,
+651,lem (fertile),2,3,kada,.75,0,,,,0,,,
+651,lem-teuf,0,,,,0,,,,2,1.5,kada,.375
+651,teuf(infertile),0,,,,0,,,,0,,,
+652,lem (fertile),1,1,kada,.25,0,,,,0,,,
+652,lem-teuf,2,1,kada,.25,0,,,,0,,,
+652,teuf(infertile),1,2,kada,.5,0,,,,0,,,
+653,lem (fertile),2,1.5,kada,.375,0,,,,1,1,kada,.25
+653,lem-teuf,1,1,kada,.25,0,,,,1,1,kada,.25
+653,teuf(infertile),0,,,,0,,,,0,,,
+654,lem (fertile),1,2,kada,.5,0,,,,0,,,
+654,lem-teuf,2,1,kada,.25,0,,,,2,2.5,kada,.625
+654,teuf(infertile),0,,,,0,,,,1,.5,kada,.125
+655,lem (fertile),2,1.5,kada,.375,0,,,,0,,,
+655,lem-teuf,1,1,kada,.25,0,,,,1,2,kada,.5
+655,teuf(infertile),1,1,kada,.25,0,,,,0,,,
+656,lem (fertile),1,1,kada,.25,0,,,,0,,,
+656,lem-teuf,2,2.5,kada,.625,0,,,,0,,,
+656,teuf(infertile),1,2,kada,.5,0,,,,0,,,
+657,lem (fertile),2,1.25,kada,.3125,0,,,,1,2,kada,.5
+657,lem-teuf,0,,,,0,,,,1,2,kada,.5
+657,teuf(infertile),0,,,,0,,,,0,,,
+658,lem (fertile),1,.25,kada,.0625,0,,,,1,1,kada,.25
+658,lem-teuf,3,.75,kada,.1875,0,,,,1,1,kada,.25
+658,teuf(infertile),2,.75,kada,.1875,0,,,,0,,,
+659,lem (fertile),2,2,kada,.5,0,,,,0,,,
+659,lem-teuf,1,.5,kada,.125,1,.5,kada,.125,0,,,
+659,teuf(infertile),3,2,kada,.5,0,,,,0,,,
+660,lem (fertile),1,1,kada,.25,0,,,,0,,,
+660,lem-teuf,1,1,kada,.25,0,,,,0,,,
+660,teuf(infertile),0,,,,0,,,,0,,,
+661,lem (fertile),0,,,,0,,,,0,,,
+661,lem-teuf,3,2.25,kada,.5625,0,,,,0,,,
+661,teuf(infertile),3,1.5,kada,.375,0,,,,4,4.5,kada,1.125
+662,lem (fertile),2,1,kada,.25,0,,,,0,,,
+662,lem-teuf,2,1.5,kada,.375,0,,,,1,1,kada,.25
+662,teuf(infertile),1,1,kada,.25,0,,,,2,2,kada,.5
+663,lem (fertile),2,2,kada,.5,0,,,,1,1,kada,.25
+663,lem-teuf,2,1.5,kada,.375,0,,,,2,1.5,kada,.375
+663,teuf(infertile),0,,,,0,,,,0,,,
+664,lem (fertile),1,1,kada,.25,0,,,,0,,,
+664,lem-teuf,1,1,kada,.25,0,,,,2,2.5,kada,.625
+664,teuf(infertile),0,,,,0,,,,0,,,
+665,lem (fertile),2,1,kada,.25,0,,,,0,,,
+665,lem-teuf,0,,,,0,,,,0,,,
+665,teuf(infertile),2,1.5,kada,.375,0,,,,0,,,
+666,lem (fertile),2,.5,kada,.125,0,,,,0,,,
+666,lem-teuf,2,1.25,kada,.3125,0,,,,1,1,kada,.25
+666,teuf(infertile),2,2,kada,.5,0,,,,0,,,
+667,lem (fertile),2,2,kada,.5,0,,,,1,1,kada,.25
+667,lem-teuf,0,,,,0,,,,0,,,
+667,teuf(infertile),1,.5,kada,.125,0,,,,1,1,kada,.25
+668,lem (fertile),1,1,kada,.25,0,,,,0,,,
+668,lem-teuf,1,1,kada,.25,0,,,,1,1,kada,.25
+668,teuf(infertile),0,,,,0,,,,0,,,
+669,lem (fertile),1,1,kada,.25,0,,,,0,,,
+669,lem-teuf,2,1.125,kada,.28125,0,,,,0,,,
+669,teuf(infertile),1,1.5,kada,.375,0,,,,0,,,
+670,lem (fertile),1,.125,kada,.03125,0,,,,2,.75,kada,.1875
+670,lem-teuf,1,.25,kada,.0625,0,,,,0,,,
+670,teuf(infertile),5,2,kada,.5,0,,,,1,1,kada,.25
+671,lem (fertile),0,,,,0,,,,0,,,
+671,lem-teuf,3,4,kada,1,0,,,,0,,,
+671,teuf(infertile),2,.5,kada,.125,0,,,,0,,,
+672,lem (fertile),0,,,,0,,,,0,,,
+672,lem-teuf,0,,,,0,,,,1,1,kada,.25
+672,teuf(infertile),5,5.5,kada,1.375,1,1,kada,.25,1,.5,kada,.125
+673,lem (fertile),0,,,,0,,,,0,,,
+673,lem-teuf,5,3,kada,.75,0,,,,1,2,kada,.5
+673,teuf(infertile),0,,,,0,,,,0,,,
+674,lem (fertile),0,,,,0,,,,0,,,
+674,lem-teuf,2,2.5,kada,.625,0,,,,1,2,kada,.5
+674,teuf(infertile),2,2.75,kada,.6875,0,,,,1,1,kada,.25
+675,lem (fertile),1,1,kada,.25,0,,,,0,,,
+675,lem-teuf,2,2.75,kada,.6875,0,,,,0,,,
+675,teuf(infertile),0,,,,0,,,,0,,,
+676,lem (fertile),0,,,,0,,,,0,,,
+676,lem-teuf,3,3,kada,.75,0,,,,1,2,kada,.5
+676,teuf(infertile),2,2.5,kada,.625,0,,,,1,1.5,kada,.375
+677,lem (fertile),2,1,kada,.25,0,,,,0,,,
+677,lem-teuf,2,2,kada,.5,0,,,,1,2,kada,.5
+677,teuf(infertile),2,1,kada,.25,0,,,,0,,,
+678,lem (fertile),3,1.5,kada,.375,0,,,,0,,,
+678,lem-teuf,0,,,,0,,,,0,,,
+678,teuf(infertile),1,.125,kada,.03125,0,,,,2,1.5,kada,.375
+679,lem (fertile),1,1,kada,.25,0,,,,4,5,kada,1.25
+679,lem-teuf,0,,,,0,,,,1,1,kada,.25
+679,teuf(infertile),0,,,,0,,,,0,,,
+680,lem (fertile),3,1.25,kada,.3125,0,,,,1,1,kada,.25
+680,lem-teuf,1,.25,kada,.0625,0,,,,1,1,kada,.25
+680,teuf(infertile),0,,,,0,,,,0,,,
+681,lem (fertile),1,3,kada,.75,0,,,,0,,,
+681,lem-teuf,3,3.5,kada,.875,0,,,,0,,,
+681,teuf(infertile),1,1.5,kada,.375,0,,,,0,,,
+682,lem (fertile),1,.5,kada,.125,0,,,,2,.5,kada,.125
+682,lem-teuf,2,1,kada,.25,0,,,,0,,,
+682,teuf(infertile),0,,,,0,,,,1,1,kada,.25
+683,lem (fertile),0,,,,0,,,,0,,,
+683,lem-teuf,2,.5,kada,.125,0,,,,1,.25,kada,.0625
+683,teuf(infertile),4,1,kada,.25,0,,,,0,,,
+684,lem (fertile),0,,,,0,,,,0,,,
+684,lem-teuf,3,1.5,kada,.375,0,,,,3,2.5,kada,.625
+684,teuf(infertile),3,1.5,kada,.375,0,,,,0,,,
+685,lem (fertile),0,,,,0,,,,0,,,
+685,lem-teuf,3,3,kada,.75,0,,,,0,,,
+685,teuf(infertile),3,1,kada,.25,0,,,,0,,,
+686,lem (fertile),2,1.5,kada,.375,0,,,,0,,,
+686,lem-teuf,2,1.5,kada,.375,0,,,,0,,,
+686,teuf(infertile),1,1,kada,.25,0,,,,0,,,
+687,lem (fertile),1,1.5,kada,.375,0,,,,1,1,kada,.25
+687,lem-teuf,3,2.75,kada,.6875,0,,,,0,,,
+687,teuf(infertile),1,.75,kada,.1875,0,,,,0,,,
+688,lem (fertile),1,.25,kada,.0625,0,,,,1,1,kada,.25
+688,lem-teuf,0,,,,0,,,,1,1,kada,.25
+688,teuf(infertile),0,,,,0,,,,0,,,
+689,lem (fertile),2,1.25,kada,.3125,0,,,,2,1.75,kada,.4375
+689,lem-teuf,3,2,kada,.5,0,,,,0,,,
+689,teuf(infertile),1,.125,kada,.03125,0,,,,0,,,
+690,lem (fertile),0,,,,0,,,,0,,,
+690,lem-teuf,1,.25,kada,.0625,0,,,,0,,,
+690,teuf(infertile),5,2.5,kada,.0625,0,,,,0,,,
+691,lem (fertile),0,,,,0,,,,1,1,kada,.25
+691,lem-teuf,1,.5,kada,.125,0,,,,0,,,
+691,teuf(infertile),3,1.25,kada,.3125,1,1,kada,.25,1,1.5,kada,.375
+692,lem (fertile),2,4,kada,1,0,,,,0,,,
+692,lem-teuf,1,1,kada,.25,3,3,kada,.75,1,1,kada,.25
+692,teuf(infertile),0,,,,0,,,,0,,,
+693,lem (fertile),2,1.5,kada,.375,0,,,,0,,,
+693,lem-teuf,1,.5,kada,.125,0,,,,0,,,
+693,teuf(infertile),2,1.25,kada,.3125,0,,,,3,2.5,kada,.625
+694,lem (fertile),3,4.25,kada,1.0625,0,,,,0,,,
+694,lem-teuf,1,1,kada,.25,0,,,,1,2,kada,.5
+694,teuf(infertile),0,,,,0,,,,1,1.25,kada,.3125
+695,lem (fertile),0,,,,0,,,,1,1,kada,.25
+695,lem-teuf,1,1,kada,.25,0,,,,1,1,kada,.25
+695,teuf(infertile),0,,,,0,,,,1,1,kada,.25
+696,lem (fertile),0,,,,0,,,,0,,,
+696,lem-teuf,2,2.5,kada,.625,0,,,,1,1,kada,.25
+696,teuf(infertile),0,,,,0,,,,1,2,kada,.5
+697,lem (fertile),1,.5,timad,.125,0,,,,0,,,
+697,lem-teuf,0,,,,0,,,,0,,,
+697,teuf(infertile),1,.5,timad,.125,0,,,,0,,,
+698,lem (fertile),2,2,kada,.5,0,,,,0,,,
+698,lem-teuf,2,2,kada,.5,0,,,,0,,,
+698,teuf(infertile),0,,,,0,,,,0,,,
+699,lem (fertile),3,3,kada,.75,0,,,,2,2,kada,.5
+699,lem-teuf,0,,,,0,,,,0,,,
+699,teuf(infertile),0,,,,0,,,,0,,,
+700,lem (fertile),1,2,kada,.5,0,,,,0,,,
+700,lem-teuf,1,1,kada,.25,0,,,,0,,,
+700,teuf(infertile),0,,,,0,,,,1,1,kada,.25
+701,lem (fertile),2,1,kada,.25,0,,,,3,3,kada,.75
+701,lem-teuf,0,,,,0,,,,1,1,kada,.25
+701,teuf(infertile),0,,,,0,,,,0,,,
+702,lem (fertile),1,1,kada,.25,0,,,,0,,,
+702,lem-teuf,0,,,,0,,,,0,,,
+702,teuf(infertile),3,3,kada,.75,0,,,,2,3,kada,.75
+703,lem (fertile),2,2,kada,.5,0,,,,0,,,
+703,lem-teuf,0,,,,0,,,,0,,,
+703,teuf(infertile),2,2,kada,.5,0,,,,0,,,
+704,lem (fertile),3,4,kada,1,0,,,,1,1,kada,.25
+704,lem-teuf,0,,,,0,,,,0,,,
+704,teuf(infertile),1,1,kada,.25,0,,,,0,,,
+705,lem (fertile),2,2,kada,.5,0,,,,0,,,
+705,lem-teuf,1,1,kada,.25,0,,,,0,,,
+705,teuf(infertile),0,,,,0,,,,1,1,kada,.25
+706,lem (fertile),1,.5,kada,.125,0,,,,1,.25,kada,.0625
+706,lem-teuf,2,3.25,kada,.8125,0,,,,1,2.25,kada,.5625
+706,teuf(infertile),3,2,kada,.5,0,,,,1,3.25,kada,.8125
+707,lem (fertile),0,,,,0,,,,0,,,
+707,lem-teuf,2,3.75,kada,.9375,0,,,,0,,,
+707,teuf(infertile),2,1.75,kada,.4375,0,,,,0,,,
+708,lem (fertile),3,4,kada,1,0,,,,0,,,
+708,lem-teuf,1,.5,kada,.125,0,,,,0,,,
+708,teuf(infertile),2,1.25,kada,.3125,0,,,,0,,,
+709,lem (fertile),1,.5,kada,.125,0,,,,0,,,
+709,lem-teuf,2,1.25,kada,.3125,0,,,,0,,,
+709,teuf(infertile),1,3,kada,.75,0,,,,0,,,
+710,lem (fertile),3,1.75,kada,.4375,0,,,,1,.25,kada,.0625
+710,lem-teuf,3,2,kada,.5,0,,,,0,,,
+710,teuf(infertile),1,1,kada,.25,0,,,,0,,,
+711,lem (fertile),3,1.5,kada,.375,0,,,,0,,,
+711,lem-teuf,4,2.25,kada,.5625,0,,,,0,,,
+711,teuf(infertile),1,.5,kada,.125,0,,,,0,,,
+712,lem (fertile),3,3,kada,.75,0,,,,1,1,kada,.25
+712,lem-teuf,0,,,,0,,,,1,1,kada,.25
+712,teuf(infertile),0,,,,0,,,,0,,,
+713,lem (fertile),2,1,kada,.25,0,,,,3,3,kada,.75
+713,lem-teuf,0,,,,0,,,,0,,,
+713,teuf(infertile),0,,,,0,,,,0,,,
+714,lem (fertile),4,2.75,kada,.6875,0,,,,1,1,kada,.25
+714,lem-teuf,1,1,kada,.25,0,,,,0,,,
+714,teuf(infertile),0,,,,0,,,,1,.5,kada,.125
+715,lem (fertile),0,,,,0,,,,0,,,
+715,lem-teuf,3,3,kada,.75,0,,,,2,3,kada,.75
+715,teuf(infertile),0,,,,0,,,,0,,,
+716,lem (fertile),1,.5,kada,.125,0,,,,0,,,
+716,lem-teuf,2,1.75,kada,.4375,0,,,,0,,,
+716,teuf(infertile),2,1.25,kada,.3125,0,,,,0,,,
+717,lem (fertile),0,,,,0,,,,0,,,
+717,lem-teuf,4,4.75,kada,1.1875,0,,,,0,,,
+717,teuf(infertile),0,,,,0,,,,0,,,
+718,lem (fertile),3,5,kada,1.25,0,,,,0,,,
+718,lem-teuf,0,,,,0,,,,1,1,kada,.25
+718,teuf(infertile),0,,,,0,,,,0,,,
+719,lem (fertile),1,.25,kada,.0625,0,,,,0,,,
+719,lem-teuf,2,2.25,kada,.5625,0,,,,0,,,
+719,teuf(infertile),4,3.5,kada,.875,0,,,,0,,,
+720,lem (fertile),1,.5,kada,.125,0,,,,1,1,kada,.25
+720,lem-teuf,0,,,,0,,,,0,,,
+720,teuf(infertile),2,2.5,kada,.625,0,,,,0,,,
+721,lem (fertile),0,,,,0,,,,1,1.5,kada,.375
+721,lem-teuf,4,4,kada,1,0,,,,0,,,
+721,teuf(infertile),0,,,,0,,,,2,3,kada,.75
+722,lem (fertile),1,.25,kada,.0625,0,,,,0,,,
+722,lem-teuf,1,1,kada,.25,0,,,,0,,,
+722,teuf(infertile),3,2.25,kada,.5625,0,,,,1,.25,kada,.0625
+723,lem (fertile),1,.25,kada,.0625,0,,,,0,,,
+723,lem-teuf,4,3.75,kada,.9375,0,,,,1,1,kada,.25
+723,teuf(infertile),2,.5,kada,.125,0,,,,1,.75,kada,.1875
+724,lem (fertile),0,,,,0,,,,1,1,kada,.25
+724,lem-teuf,2,2.25,kada,.5625,0,,,,1,.75,kada,.1875
+724,teuf(infertile),1,3,kada,.75,0,,,,1,1,kada,.25
+725,lem (fertile),2,1,kada,.25,0,,,,0,,,
+725,lem-teuf,0,,,,0,,,,0,,,
+725,teuf(infertile),3,3.5,kada,.875,0,,,,1,1,kada,.25
+726,lem (fertile),2,3.5,kada,.875,0,,,,3,2.25,kada,.5625
+726,lem-teuf,0,,,,0,,,,1,1.5,kada,.375
+726,teuf(infertile),0,,,,0,,,,0,,,
+727,lem (fertile),1,1,kada,.25,0,,,,0,,,
+727,lem-teuf,3,2.5,kada,.625,0,,,,0,,,
+727,teuf(infertile),1,1.5,kada,.375,0,,,,0,,,
+728,lem (fertile),1,1,kada,.25,0,,,,1,.5,kada,.125
+728,lem-teuf,5,6.5,kada,1.625,0,,,,0,,,
+728,teuf(infertile),0,,,,0,,,,0,,,
+729,lem (fertile),4,4.5,kada,1.125,0,,,,0,,,
+729,lem-teuf,0,,,,0,,,,0,,,
+729,teuf(infertile),0,,,,0,,,,0,,,
+730,lem (fertile),1,1,kada,.25,0,,,,2,2,kada,.5
+730,lem-teuf,1,1,kada,.25,0,,,,1,1,kada,.25
+730,teuf(infertile),0,,,,0,,,,0,,,
+731,lem (fertile),0,,,,0,,,,0,,,
+731,lem-teuf,5,5,kada,1.25,0,,,,0,,,
+731,teuf(infertile),0,,,,0,,,,0,,,
+732,lem (fertile),2,2,kada,.5,0,,,,1,.5,kada,.125
+732,lem-teuf,2,1.5,kada,.375,0,,,,0,,,
+732,teuf(infertile),0,,,,0,,,,0,,,
+733,lem (fertile),2,3.25,kada,.8125,0,,,,0,,,
+733,lem-teuf,0,,,,0,,,,0,,,
+733,teuf(infertile),0,,,,0,,,,0,,,
+734,lem (fertile),0,,,,0,,,,0,,,
+734,lem-teuf,3,2.5,kada,.625,0,,,,2,2,kada,.5
+734,teuf(infertile),2,2,kada,.5,0,,,,0,,,
+735,lem (fertile),2,2,kada,.5,0,,,,0,,,
+735,lem-teuf,3,3,kada,.75,0,,,,3,5.5,kada,1.375
+735,teuf(infertile),0,,,,0,,,,0,,,
+736,lem (fertile),1,1,kada,.25,0,,,,1,1,kada,.25
+736,lem-teuf,2,1.5,kada,.375,0,,,,1,1,kada,.25
+736,teuf(infertile),1,.5,kada,.125,0,,,,0,,,
+737,lem (fertile),1,1,kada,.25,0,,,,1,1,kada,.25
+737,lem-teuf,1,2,kada,.5,0,,,,1,1,kada,.25
+737,teuf(infertile),0,,,,0,,,,0,,,
+738,lem (fertile),1,1,kada,.25,0,,,,0,,,
+738,lem-teuf,3,6,kada,1.5,0,,,,0,,,
+738,teuf(infertile),0,,,,0,,,,0,,,
+739,lem (fertile),2,2,kada,.5,0,,,,0,,,
+739,lem-teuf,2,2.5,kada,.625,0,,,,1,1.5,kada,.375
+739,teuf(infertile),2,2,kada,.5,0,,,,0,,,
+740,lem (fertile),2,3,kada,.75,0,,,,4,4,kada,1
+740,lem-teuf,1,1,kada,.25,0,,,,0,,,
+740,teuf(infertile),1,1,kada,.25,0,,,,0,,,
+741,lem (fertile),2,1,kada,.25,0,,,,0,,,
+741,lem-teuf,0,,,,0,,,,0,,,
+741,teuf(infertile),2,2,kada,.5,0,,,,1,.5,kada,.125
+742,lem (fertile),2,2,kada,.5,0,,,,0,,,
+742,lem-teuf,3,3,kada,.75,0,,,,1,1,kada,.25
+742,teuf(infertile),0,,,,0,,,,0,,,
+743,lem (fertile),1,.25,kada,.0625,0,,,,3,2,kada,.5
+743,lem-teuf,0,,,,0,,,,1,2,kada,.5
+743,teuf(infertile),0,,,,0,,,,0,,,
+744,lem (fertile),2,2,kada,.5,0,,,,2,3,kada,.75
+744,lem-teuf,2,3,kada,.75,0,,,,1,1,kada,.25
+744,teuf(infertile),0,,,,0,,,,0,,,
+745,lem (fertile),3,5.5,kada,1.375,0,,,,0,,,
+745,lem-teuf,2,1.5,kada,.375,0,,,,0,,,
+745,teuf(infertile),0,,,,0,,,,0,,,
+746,lem (fertile),0,,,,0,,,,2,2,kada,.5
+746,lem-teuf,2,4,kada,1,0,,,,0,,,
+746,teuf(infertile),1,1,kada,.25,0,,,,0,,,
+747,lem (fertile),2,2,kada,.5,0,,,,0,,,
+747,lem-teuf,3,3,kada,.75,0,,,,1,1,kada,.25
+747,teuf(infertile),0,,,,0,,,,0,,,
+748,lem (fertile),3,3,kada,.75,0,,,,0,,,
+748,lem-teuf,6,8,kada,2,0,,,,0,,,
+748,teuf(infertile),0,,,,0,,,,0,,,
+749,lem (fertile),1,1,kada,.25,0,,,,0,,,
+749,lem-teuf,4,5,kada,1.25,0,,,,0,,,
+749,teuf(infertile),0,,,,0,,,,0,,,
+750,lem (fertile),0,,,,0,,,,0,,,
+750,lem-teuf,4,4,kada,1,0,,,,3,3.5,kada,.875
+750,teuf(infertile),1,.5,kada,.125,0,,,,0,,,
+751,lem (fertile),2,2.5,kada,.625,0,,,,1,1,kada,.25
+751,lem-teuf,1,.5,kada,.125,0,,,,0,,,
+751,teuf(infertile),3,2.25,kada,.5625,0,,,,0,,,
+752,lem (fertile),1,.5,kada,.125,0,,,,1,1,kada,.25
+752,lem-teuf,1,.5,kada,.125,0,,,,1,.5,kada,.125
+752,teuf(infertile),1,2,kada,.5,0,,,,0,,,
+753,lem (fertile),1,.5,kada,.125,0,,,,0,,,
+753,lem-teuf,1,.5,kada,.125,0,,,,2,2.5,kada,.625
+753,teuf(infertile),0,,,,0,,,,0,,,
+754,lem (fertile),0,,,,0,,,,0,,,
+754,lem-teuf,3,3.75,kada,.9375,0,,,,2,2,kada,.5
+754,teuf(infertile),0,,,,0,,,,0,,,
+755,lem (fertile),0,,,,0,,,,0,,,
+755,lem-teuf,3,5,kada,1.25,0,,,,0,,,
+755,teuf(infertile),0,,,,0,,,,0,,,
+756,lem (fertile),1,1,kada,.25,0,,,,0,,,
+756,lem-teuf,4,3,kada,.75,0,,,,0,,,
+756,teuf(infertile),0,,,,0,,,,0,,,
+757,lem (fertile),3,2.5,kada,.625,0,,,,0,,,
+757,lem-teuf,2,2,kada,.5,0,,,,0,,,
+757,teuf(infertile),0,,,,0,,,,0,,,
+758,lem (fertile),3,2.5,kada,.625,0,,,,0,,,
+758,lem-teuf,2,1,kada,.25,0,,,,0,,,
+758,teuf(infertile),0,,,,0,,,,0,,,
+759,lem (fertile),0,,,,0,,,,0,,,
+759,lem-teuf,0,,,,0,,,,0,,,
+759,teuf(infertile),5,3.75,kada,.9375,0,,,,0,,,
+760,lem (fertile),2,1.5,kada,.375,0,,,,0,,,
+760,lem-teuf,2,2.5,kada,.625,0,,,,1,.5,kada,.125
+760,teuf(infertile),0,,,,0,,,,0,,,
+581,lem (fertile),0,,,,0,,,,3,9,kert,2.25
+581,lem-teuf,0,,,,0,,,,0,,,
+581,teuf(infertile),0,,,,0,,,,0,,,
+582,lem (fertile),3,10.5,kert,2.625,0,,,,1,1,kert,.25
+582,lem-teuf,0,,,,0,,,,0,,,
+582,teuf(infertile),0,,,,0,,,,0,,,
+583,lem (fertile),5,12,kert,3,0,,,,1,2,kert,.5
+583,lem-teuf,0,,,,0,,,,0,,,
+583,teuf(infertile),0,,,,0,,,,0,,,
+584,lem (fertile),6,15.5,kert,3.875,0,,,,0,,,
+584,lem-teuf,0,,,,0,,,,0,,,
+584,teuf(infertile),0,,,,0,,,,0,,,
+585,lem (fertile),6,13.5,kert,3.375,0,,,,0,,,
+585,lem-teuf,0,,,,0,,,,0,,,
+585,teuf(infertile),0,,,,0,,,,0,,,
+586,lem (fertile),0,,,,0,,,,0,,,
+586,lem-teuf,3,8,kert,2,0,,,,0,,,
+586,teuf(infertile),0,,,,0,,,,0,,,
+587,lem (fertile),2,3,kert,.75,0,,,,1,3,kert,.75
+587,lem-teuf,2,8,kert,2,0,,,,0,,,
+587,teuf(infertile),0,,,,0,,,,0,,,
+588,lem (fertile),5,20,kert,5,0,,,,0,,,
+588,lem-teuf,0,,,,0,,,,0,,,
+588,teuf(infertile),0,,,,0,,,,0,,,
+589,lem (fertile),7,21.5,kert,5.375,0,,,,3,9.5,kert,2.375
+589,lem-teuf,0,,,,0,,,,0,,,
+589,teuf(infertile),0,,,,0,,,,0,,,
+590,lem (fertile),4,8,kert,2,0,,,,3,5.5,kert,1.375
+590,lem-teuf,0,,,,0,,,,1,1.5,kert,.375
+590,teuf(infertile),0,,,,0,,,,0,,,
+591,lem (fertile),8,26.5,kert,6.625,0,,,,0,,,
+591,lem-teuf,0,,,,0,,,,0,,,
+591,teuf(infertile),0,,,,0,,,,0,,,
+592,lem (fertile),4,7,kert,1.75,0,,,,3,8.5,kert,2.125
+592,lem-teuf,1,1.5,kert,.375,0,,,,0,,,
+592,teuf(infertile),0,,,,0,,,,0,,,
+593,lem (fertile),4,21,kert,5.25,0,,,,3,14,kert,3.5
+593,lem-teuf,2,6,kert,1.5,0,,,,4,10,kert,2.5
+593,teuf(infertile),0,,,,0,,,,0,,,
+594,lem (fertile),4,11.25,kert,2.813,0,,,,0,,,
+594,lem-teuf,0,,,,0,,,,0,,,
+594,teuf(infertile),0,,,,0,,,,0,,,
+595,lem (fertile),4,17.5,kert,4.375,0,,,,0,,,
+595,lem-teuf,0,,,,0,,,,0,,,
+595,teuf(infertile),0,,,,0,,,,0,,,
+596,lem (fertile),2,3,kert,.75,0,,,,0,,,
+596,lem-teuf,2,5,kert,1.25,0,,,,0,,,
+596,teuf(infertile),0,,,,0,,,,0,,,
+597,lem (fertile),1,1.5,kert,.375,0,,,,1,3,kert,.75
+597,lem-teuf,3,3,kert,.75,0,,,,1,2,kert,.5
+597,teuf(infertile),0,,,,0,,,,0,,,
+598,lem (fertile),3,4,kert,1,0,,,,2,2,kert,.5
+598,lem-teuf,1,2,kert,.5,0,,,,0,,,
+598,teuf(infertile),0,,,,0,,,,0,,,
+599,lem (fertile),2,3.5,kert,.875,0,,,,2,5,kert,1.25
+599,lem-teuf,1,2,kert,.5,0,,,,0,,,
+599,teuf(infertile),0,,,,0,,,,0,,,
+600,lem (fertile),4,6.5,kert,1.625,0,,,,0,,,
+600,lem-teuf,7,13.5,kert,3.375,0,,,,2,3,kert,.75
+600,teuf(infertile),0,,,,0,,,,0,,,
+601,lem (fertile),4,14,kert,3.5,0,,,,0,,,
+601,lem-teuf,0,,,,0,,,,0,,,
+601,teuf(infertile),0,,,,0,,,,0,,,
+602,lem (fertile),4,6,kert,1.5,0,,,,0,,,
+602,lem-teuf,0,,,,0,,,,0,,,
+602,teuf(infertile),0,,,,0,,,,0,,,
+603,lem (fertile),4,12,kert,3,0,,,,0,,,
+603,lem-teuf,0,,,,0,,,,0,,,
+603,teuf(infertile),0,,,,0,,,,0,,,
+604,lem (fertile),3,11,kert,2.75,0,,,,7,18,kert,4.5
+604,lem-teuf,0,,,,0,,,,0,,,
+604,teuf(infertile),0,,,,0,,,,0,,,
+606,lem (fertile),2,14,kert,3.5,0,,,,0,,,
+606,lem-teuf,0,,,,0,,,,0,,,
+606,teuf(infertile),0,,,,0,,,,0,,,
+607,lem (fertile),6,9,kert,2.25,0,,,,0,,,
+607,lem-teuf,0,,,,0,,,,0,,,
+607,teuf(infertile),0,,,,0,,,,0,,,
+608,lem (fertile),3,14.5,kert,3.625,0,,,,1,2,kert,.5
+608,lem-teuf,0,,,,0,,,,0,,,
+608,teuf(infertile),0,,,,0,,,,0,,,
+609,lem (fertile),3,4,kert,1,0,,,,7,21.5,kert,5.375
+609,lem-teuf,0,,,,0,,,,0,,,
+609,teuf(infertile),0,,,,0,,,,0,,,
+610,lem (fertile),6,13.5,kert,3.375,0,,,,0,,,
+610,lem-teuf,0,,,,0,,,,0,,,
+610,teuf(infertile),0,,,,0,,,,0,,,
+622,lem (fertile),3,7,kert,1.75,0,,,,2,4,kert,1
+622,lem-teuf,2,4,kert,1,0,,,,0,,,
+622,teuf(infertile),0,,,,0,,,,0,,,
+623,lem (fertile),0,,,,0,,,,0,,,
+623,lem-teuf,3,8,kert,2,0,,,,0,,,
+623,teuf(infertile),5,5.5,kert,1.375,0,,,,0,,,
+624,lem (fertile),3,8,kert,2,0,,,,1,2,kert,.5
+624,lem-teuf,2,3,kert,.75,0,,,,3,5,kert,1.25
+624,teuf(infertile),0,,,,0,,,,1,1,kert,.25
+625,lem (fertile),3,5,timad,1.25,0,,,,0,,,
+625,lem-teuf,1,6,timad,1.5,0,,,,2,6,timad,1.5
+625,teuf(infertile),1,1,timad,.25,0,,,,0,,,
+626,lem (fertile),3,2.75,hectare,2.75,0,,,,0,,,
+626,lem-teuf,3,1.25,hectare,1.25,1,2,hectare,2,0,,,
+626,teuf(infertile),2,1,hectare,1,0,,,,0,,,
+627,lem (fertile),3,8,kert,2,0,,,,1,1,kert,.25
+627,lem-teuf,0,,,,0,,,,2,2,kert,.5
+627,teuf(infertile),0,,,,0,,,,0,,,
+628,lem (fertile),1,1,kert,.25,0,,,,0,,,
+628,lem-teuf,2,12,kert,3,0,,,,0,,,
+628,teuf(infertile),1,3,kert,.75,0,,,,0,,,
+629,lem (fertile),1,2,kert,.5,0,,,,3,3,kert,.75
+629,lem-teuf,1,1,kert,.25,0,,,,3,5.5,kert,1.375
+629,teuf(infertile),0,,,,0,,,,0,,,
+630,lem (fertile),0,,,,0,,,,4,4,kert,1
+630,lem-teuf,2,2,kert,.5,0,,,,0,,,
+630,teuf(infertile),0,,,,0,,,,0,,,
+631,lem (fertile),3,10,kert,2.5,0,,,,0,,,
+631,lem-teuf,0,,,,0,,,,0,,,
+631,teuf(infertile),0,,,,0,,,,0,,,
+633,lem (fertile),0,,,,0,,,,0,,,
+633,lem-teuf,4,16,kert,4,0,,,,0,,,
+633,teuf(infertile),0,,,,0,,,,0,,,
+634,lem (fertile),0,,,,0,,,,0,,,
+634,lem-teuf,2,7.5,kert,1.875,0,,,,6,8,kert,2
+634,teuf(infertile),1,.5,kert,.125,0,,,,0,,,
+635,lem (fertile),4,4.5,kert,1.125,0,,,,0,,,
+635,lem-teuf,3,9,kert,2.25,0,,,,0,,,
+635,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+636,lem (fertile),0,,,,0,,,,0,,,
+636,lem-teuf,5,8,kert,2,1,1,kert,.25,1,2,kert,.5
+636,teuf(infertile),2,8,kert,2,1,1,kert,.25,1,4,kert,1
+637,lem (fertile),1,15,kert,3.75,0,,,,8,18,kert,4.5
+637,lem-teuf,0,,,,0,,,,4,11,kert,2.75
+637,teuf(infertile),0,,,,0,,,,0,,,
+638,lem (fertile),6,24,kert,6,0,,,,1,2,kert,.5
+638,lem-teuf,0,,,,0,,,,0,,,
+638,teuf(infertile),2,5,kert,1.25,0,,,,0,,,
+639,lem (fertile),3,6,kert,1.5,0,,,,0,,,
+639,lem-teuf,2,10,kert,2.5,0,,,,1,3,kert,.75
+639,teuf(infertile),3,9,kert,2.25,0,,,,0,,,
+640,lem (fertile),1,1,kert,.25,0,,,,0,,,
+640,lem-teuf,2,3.5,kert,.875,1,1.5,kert,.375,0,,,
+640,teuf(infertile),0,,,,0,,,,0,,,
+761,lem (fertile),4,10,kert,1.66,0,,,,0,,,
+761,lem-teuf,1,2,kert,.33000001,0,,,,0,,,
+761,teuf(infertile),0,,,,0,,,,0,,,
+762,lem (fertile),4,12.5,kert,2.0799999,0,,,,0,,,
+762,lem-teuf,4,5,kert,.82999998,0,,,,1,1,kert,.16
+762,teuf(infertile),0,,,,0,,,,1,6,kert,1
+763,lem (fertile),5,8,kert,2,1,4,kert,1,3,6,kert,1.5
+763,lem-teuf,1,2,kert,.5,0,,,,0,,,
+763,teuf(infertile),0,,,,0,,,,0,,,
+764,lem (fertile),0,,,,0,,,,1,1,kert,.25
+764,lem-teuf,1,3,kert,.75,0,,,,2,2,kert,.5
+764,teuf(infertile),0,,,,0,,,,0,,,
+770,lem (fertile),4,16.5,timad,2.0625,1,12,timad,1.5,0,,,
+770,lem-teuf,1,4,timad,.5,0,,,,0,,,
+770,teuf(infertile),0,,,,0,,,,1,20,timad,2.5
+767,lem (fertile),2,2.125,kert,.53125,0,,,,1,.5,kert,.125
+767,lem-teuf,0,,,,0,,,,0,,,
+767,teuf(infertile),0,,,,0,,,,0,,,
+768,lem (fertile),4,4,kert,1,1,1,kert,.25,0,,,
+768,lem-teuf,1,1.5,kert,.375,0,,,,0,,,
+768,teuf(infertile),0,,,,0,,,,0,,,
+766,lem (fertile),2,1.5,kert,.375,0,,,,0,,,
+766,lem-teuf,6,6,kert,1.5,0,,,,2,2,kert,.5
+766,teuf(infertile),1,1,kert,.25,0,,,,0,,,
+769,lem (fertile),2,3,kert,.75,0,,,,1,2,kert,.5
+769,lem-teuf,0,,,,0,,,,2,2,kert,.5
+769,teuf(infertile),0,,,,0,,,,0,,,
+765,lem (fertile),3,5.5,kert,4.375,0,,,,2,2,kert,.5
+765,lem-teuf,2,3,kert,.75,0,,,,0,,,
+765,teuf(infertile),3,7.5,kert,1.875,0,,,,0,,,
+771,lem (fertile),3,7,kert,1.75,0,,,,0,,,
+771,lem-teuf,8,10.5,kert,2.625,0,,,,0,,,
+771,teuf(infertile),4,4.5,kert,1.125,0,,,,0,,,
+772,lem (fertile),2,2,kert,.5,0,,,,1,2,kert,.5
+772,lem-teuf,3,3,kert,.75,0,,,,0,,,
+772,teuf(infertile),0,,,,0,,,,0,,,
+775,lem (fertile),2,5,kert,1.25,0,,,,0,,,
+775,lem-teuf,3,6,kert,1.5,0,,,,1,1,kert,.25
+775,teuf(infertile),0,,,,0,,,,0,,,
+774,lem (fertile),4,5.5,kert,1.375,0,,,,0,,,
+774,lem-teuf,1,4,kert,1,0,,,,0,,,
+774,teuf(infertile),0,,,,0,,,,0,,,
+773,lem (fertile),5,13,kert,3.25,0,,,,0,,,
+773,lem-teuf,6,8,kert,2,0,,,,0,,,
+773,teuf(infertile),0,,,,0,,,,0,,,
+776,lem (fertile),5,4.5,kert,1.125,0,,,,3,3.5,kert,.875
+776,lem-teuf,1,2,kert,.5,0,,,,1,1,kert,.25
+776,teuf(infertile),1,3,kert,.75,0,,,,1,1,kert,.25
+781,lem (fertile),1,3,kert,.75,3,8.5,kert,2.125,0,,,
+781,lem-teuf,0,,,,0,,,,0,,,
+781,teuf(infertile),0,,,,0,,,,0,,,
+782,lem (fertile),2,4.5,kert,1.125,0,,,,4,5,kert,1.25
+782,lem-teuf,0,,,,0,,,,0,,,
+782,teuf(infertile),0,,,,0,,,,0,,,
+783,lem (fertile),2,2,kert,.5,0,,,,0,,,
+783,lem-teuf,0,,,,0,,,,0,,,
+783,teuf(infertile),3,4.125,kert,1.03125,0,,,,0,,,
+784,lem (fertile),3,20,timad,2.5,0,,,,1,4,timad,.5
+784,lem-teuf,0,,,,0,,,,0,,,
+784,teuf(infertile),1,1,timad,.125,0,,,,0,,,
+785,lem (fertile),2,3,timad,.375,0,,,,0,,,
+785,lem-teuf,3,10,timad,1.25,0,,,,0,,,
+785,teuf(infertile),0,,,,0,,,,0,,,
+786,lem (fertile),1,1,kert,.25,0,,,,0,,,
+786,lem-teuf,5,3.125,kert,.78125,0,,,,0,,,
+786,teuf(infertile),0,,,,0,,,,0,,,
+787,lem (fertile),0,,,,1,4,timad,.5,0,,,
+787,lem-teuf,1,4,timad,.5,0,,,,0,,,
+787,teuf(infertile),2,9,timad,1.125,0,,,,0,,,
+788,lem (fertile),1,8,timad,1,0,,,,4,21,timad,2.625
+788,lem-teuf,1,8,timad,1,0,,,,0,,,
+788,teuf(infertile),1,2,timad,.25,0,,,,0,,,
+789,lem (fertile),0,,,,0,,,,0,,,
+789,lem-teuf,0,,,,0,,,,0,,,
+789,teuf(infertile),2,9,timad,1.125,0,,,,0,,,
+790,lem (fertile),2,5.5,timad,.6875,0,,,,2,7,timad,.875
+790,lem-teuf,0,,,,0,,,,1,2,timad,.25
+790,teuf(infertile),0,,,,0,,,,0,,,
+791,lem (fertile),4,18,timad,2.25,0,,,,0,,,
+791,lem-teuf,1,2,timad,.25,0,,,,0,,,
+791,teuf(infertile),0,,,,0,,,,0,,,
+792,lem (fertile),0,,,,0,,,,2,4.5,kert,.75
+792,lem-teuf,2,2.5,kert,.41600001,0,,,,3,3,kert,.5
+792,teuf(infertile),0,,,,0,,,,0,,,
+793,lem (fertile),1,1,kert,.25,0,,,,0,,,
+793,lem-teuf,2,4,kert,1,0,,,,0,,,
+793,teuf(infertile),2,3,kert,.75,0,,,,0,,,
+794,lem (fertile),2,2,kert,.33000001,0,,,,2,3,kert,.5
+794,lem-teuf,0,,,,0,,,,0,,,
+794,teuf(infertile),0,,,,0,,,,0,,,
+795,lem (fertile),3,25,timad,3.125,0,,,,0,,,
+795,lem-teuf,0,,,,0,,,,0,,,
+795,teuf(infertile),0,,,,1,6,timad,.75,0,,,
+796,lem (fertile),6,10,kert,1.66,0,,,,0,,,
+796,lem-teuf,0,,,,0,,,,0,,,
+796,teuf(infertile),0,,,,0,,,,0,,,
+797,lem (fertile),0,,,,0,,,,0,,,
+797,lem-teuf,4,7,kert,1.166,0,,,,0,,,
+797,teuf(infertile),0,,,,0,,,,0,,,
+798,lem (fertile),0,,,,0,,,,2,1,kert,.25
+798,lem-teuf,1,3,kert,.75,0,,,,0,,,
+798,teuf(infertile),4,10,kert,2.5,0,,,,0,,,
+799,lem (fertile),4,7,kert,1.16,0,,,,0,,,
+799,lem-teuf,5,9,kert,1.5,0,,,,0,,,
+799,teuf(infertile),0,,,,0,,,,0,,,
+800,lem (fertile),3,6.5,kert,1.08,0,,,,0,,,
+800,lem-teuf,7,13.5,kert,2.25,0,,,,0,,,
+800,teuf(infertile),0,,,,0,,,,0,,,
+778,lem (fertile),0,,,,0,2,timad,.25,1,2,timad,.25
+778,lem-teuf,1,4,timad,.5,0,,,,5,11.5,timad,1.4375
+778,teuf(infertile),0,,,,0,,,,0,,,
+779,lem (fertile),2,3,kert,.5,3,4,kert,.66000003,0,,,
+779,lem-teuf,1,1,kert,.16,0,,,,0,,,
+779,teuf(infertile),1,1,kert,.16,0,,,,0,,,
+780,lem (fertile),1,2,kert,.5,0,,,,0,,,
+780,lem-teuf,4,10,kert,2.5,0,,,,0,,,
+780,teuf(infertile),0,,,,0,,,,0,,,
+128,lem (fertile),5,11,kert,2.75,0,,,,6,15,kert,3.75
+128,lem-teuf,0,,,,0,,,,2,7,kert,1.75
+128,teuf(infertile),0,,,,0,,,,0,,,
+261,lem (fertile),0,,,,0,,,,6,64,kert,16
+261,lem-teuf,0,,,,0,,,,4,60,kert,15
+261,teuf(infertile),1,4,kert,1,0,,,,0,,,
+777,lem (fertile),2,2,kert,.5,0,,,,6,9,kert,2.25
+777,lem-teuf,0,,,,0,,,,6,7,kert,1.75
+777,teuf(infertile),0,,,,0,,,,13,18,kert,4.5
+181,lem (fertile),3,26,kert,6.5,0,,,,7,54,kert,13.5
+181,lem-teuf,0,,,,0,,,,0,,,
+181,teuf(infertile),1,2,kert,.5,0,,,,0,,,
+620,lem (fertile),5,12,kert,3,0,,,,0,,,
+620,lem-teuf,3,5,kert,1.25,0,,,,1,4,kert,1
+620,teuf(infertile),2,4,kert,1,0,,,,1,1,kert,.25
+605,lem (fertile),4,11.5,kert,2.875,0,,,,10,27,kert,6.75
+605,lem-teuf,0,,,,0,,,,0,,,
+605,teuf(infertile),0,,,,0,,,,0,,,
