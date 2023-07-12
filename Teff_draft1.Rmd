@@ -1,0 +1,366 @@
+---
+title: "Teff_draft"
+output: html_document
+date: "2023-05-21"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## Setup
+
+```{r}
+library(fastDummies) 
+library(tidyverse)
+library(dbplyr)
+```
+
+## Import data
+
+```{r}
+teff_input_use<- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectionf3_teffinputuseduringcultivation.txt")
+teffsales <- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectiong_teffsales.txt")
+householdroster <- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectiona_householdroster.txt")
+landownershipandcultivationtypeofparcels <- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectionb_landownershipandcultivationtypeofparcels.txt")
+sectionn_assets <- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectionn_assets.txt")
+sectiono_livestockownership <- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectiono_livestockownership.txt")
+sectionc_landsizesacquisitionandtenure <- read.csv("https://raw.githubusercontent.com/Chihirono/Capstone/main/sectionc_landsizesacquisitionandtenure.txt")
+```
+
+# Teff input (independent variable)
+
+## Check data
+
+```{r}
+names(teff_input_use)
+teff_input_use <-rename(teff_input_use, percel_no = "sectionf31",teffplotno = "sectionf32",dap_quintals = "sectionf33",urea_quintals = "sectionf35")
+summary(teff_input_use)
+```
+
+# Teff input (dependent variable)
+
+## Make a column of the quantitiy of chemical fertilizer ( dap_quintals + urea_quintals)
+
+```{r}
+teff_input_use <- mutate(teff_input_use,chemical_fertilizer = teff_input_use$dap_quintals+teff_input_use$urea_quintals)
+
+teff_chemical_dependent <- teff_input_use%>%
+  group_by(hhid) %>% summarise(sum_fertilizer_hhid = sum(chemical_fertilizer))
+teff_chemical_dependent <-as.data.frame(teff_chemical_dependent)
+
+```
+
+# Teff transportation cost (independent variable)
+
+## Check data
+
+```{r}
+teffsales <- rename(teffsales, total_cost_transportation = sectiong15, transactionno = sectiong1)
+summary(teffsales)
+
+#length(unique(teffsales$hhid))
+
+```
+
+## get a total transportation cost group by house hold id. (hhid)
+
+```{r}
+sum_transportation <- teffsales%>%
+  group_by(hhid) %>% summarise(sum_transportationcost_hhid = sum(total_cost_transportation))
+sum_transportation <-as.data.frame(sum_transportation)
+
+```
+
+## Devide transportation cost by percel of each household
+
+```{r}
+#Check the number of transaction of each household
+summary(teffsales$transactionno) #column "transactionno" includes some na.
+```
+
+```{r}
+#Check the contents of na
+na_transactioncostcost <- as.data.frame(table(teffsales[is.na(teffsales$transactionno),"hhid" ]))
+colnames(na_transactioncostcost ) <- c("hhid","number_of_na_for_transaction_cost")
+table(na_transactioncostcost)
+```
+
+The table shows - hhid of 114,515,708　has 9 missing value, probably by
+mistake. 1. not count these 9 missing value to divide total transaction
+cost of each hh.
+
+-   Other hhid that has one missing value in transaction cost answered
+    that they did not have any transaction (column:"sectiong0=0").
+
+2.  not include for regression analysis because they can't show the
+    relationship between transportation cost and input.
+
+```{r}
+#1. not count these 9 missing value to divide total transaction cost of each hh.
+error_na_for_parcel_amount_removed<-as.data.frame((teffsales[!(teffsales$sectiong0==1 & is.na(teffsales$transactionno)),]))
+no_of_percel_for_each_household<-as.data.frame(table(error_na_for_parcel_amount_removed$hhid))
+colnames(no_of_percel_for_each_household) <-c("hhid","no_of_parcel")
+summary(no_of_percel_for_each_household) # check if the maximum of parcel number is 5 (consistent with the survey)
+no_of_percel_for_each_household$hhid<-as.numeric(no_of_percel_for_each_household$hhid)
+```
+
+```{r}
+average_transportation_cost_per_percel<-inner_join(sum_transportation,no_of_percel_for_each_household, by = "hhid")
+average_transportation_cost_per_percel<-mutate(average_transportation_cost_per_percel,average_transportation_cost=average_transportation_cost_per_percel$sum_transportationcost_hhid/average_transportation_cost_per_percel$no_of_parcel)
+average_transportation_cost_per_percel$average_transportation_cost<-round(average_transportation_cost_per_percel$average_transportation_cost,1)
+names(average_transportation_cost_per_percel)
+transportation_independent<-select(average_transportation_cost_per_percel,hhid,average_transportation_cost)
+```
+
+## Combine dependent variable and independent variable based on household id(hhid)
+
+```{r}
+chemical_transportation <- inner_join(transportation_independent,teff_chemical_dependent, by = "hhid")
+```
+
+## Do regression analysis
+
+```{r}
+fertilizerinput_model1 <-
+  lm(sum_fertilizer_hhid~average_transportation_cost,data= chemical_transportation)
+  
+  
+  #lm(minutes~scale(n_previous_marathons)+scale(age)+scale(hills)+Male+Female+Sunny+Cloudy+Heavy_Rain,data=Marathon_Time_df)
+summary(fertilizerinput_model1)
+
+```
+
+## Household infromation (<data:householdroster>)
+
+What we need is -sex of the head of household - age of the head of
+household - education level of head of household
+
+ID　code1 is the head of house hold -\> take the sex (male = 1) and age
+of each ID code1 Then recode the education level into number.
+
+### Make a column of sex and age
+
+性別と年齢の
+
+```{r}
+householdroster <-rename(householdroster, ID_code = sectiona1,
+                        sex = sectiona2,
+                        age = sectiona3)
+householdroster1 <-subset(householdroster,householdroster$ID_code==1)
+householdroster1 <-dummy_cols(householdroster1,select_columns = "sex")
+
+```
+
+### Make a column of education level.
+
+```{r}
+#1. check the value and its number inside the original columns.
+table_edu <- as.data.frame(table(householdroster1$sectiona7))
+table_edu
+
+ggplot()+geom_bar(data=table_edu, aes(x = Var1, y = Freq,fill="Frequency"),
+            linewidth = 1, width = 0.4, stat="identity", position="identity")+theme_bw()+theme(text=element_text(size=14),legend.position = c(0.98, 0.98),legend.justification = c(0.48, 0.48), legend.background=element_rect(fill="white"))+ggtitle("Histogram of education level")+xlab("Education level")+ylab("Number of people")+theme(plot.title = element_text(hjust =0.5))+theme(legend.position="top")+theme(legend.title=element_blank())+theme(axis.text.x = element_text(size = 10, angle = -30, vjust = 0.5, hjust = 0))
+```
+
+```{r}
+unique(householdroster1$sectiona7)
+```
+
+As the number of "","adult literacy program", "some church/mosque
+school" ,"other literacy program" are not dominant, these category is
+replaced with missing value and these household ID will be disregarded
+for regression.
+
+"completed higher education (not university)" -\>9 "incomplete higher
+education (not university)"-\>8(average of 7.8.9) check the number of
+values below "adult literacy program" -\>remove the row "some
+church/mosque school" -\>remove the row "other literacy program"
+-\>remove the row
+
+```{r}
+householdroster1 <- mutate(householdroster1, educationlevel = recode(sectiona7,
+                                                                     "1st grade"=1,
+                                                                     "2nd grade"=2,
+                                                                     "3rd grade"=3,
+                                                                     "4th grade"=4,
+                                                                     "5th grade"=5,
+                                                                     "6th grade"=6,
+                                                                     "7th grade"=7,
+                                                                     "8th grade" =8,
+                                                                     "9th grade"=9,
+                                                                     "10nth grade"=10,
+                                                                     "11th grade"=11,
+                                                                     "12th grade" =12,
+                                                                     "incomplete higher education (not university)"=8,
+                                                                     "completed higher education (not university)"=9,
+                                                                     "did not complete any schooling"=0
+                                                                     
+                                                                  ))
+
+householdroster1
+gender_age_education_independet<-select(householdroster1,hhid,sex_male,age,educationlevel)
+```
+
+```{r}
+size_of_household <- table(householdroster$hhid) 
+size_of_household <-as.data.frame(size_of_household)
+colnames(size_of_household ) <- c("hhid","size_of_hh")  # change column names of all the columns in the dataframe 
+size_of_household$hhid <-as.numeric(size_of_household$hhid) #change data hhid into numeric to combine data frames later as an independent variable
+summary(size_of_household)
+size_of_household 
+
+```
+
+### if the household own donkey
+
+```{r}
+table(sectiono_livestockownership$sectiono1) #Check if each household indicates ownership status of donkey
+donkey <-subset(sectiono_livestockownership,sectiono_livestockownership$sectiono1=="donkeys")# Aggregate by the row donkey
+donkey <-dummy_cols(donkey,select_columns = "sectiono3")
+donkey <- select(donkey,1,7) #choose column needed for the regression
+names(donkey)
+donkey<- rename(donkey, own_donkey = sectiono3_yes)
+
+```
+
+### if the household own mobile phone
+
+```{r}
+table(sectionn_assets$sectionn1) #Check if each household indicates ownership status of mobile phone
+mobile_phone <-subset(sectionn_assets,sectionn_assets$sectionn1=="mobile phone")# Aggregate by mobile phone
+mobile_phone <-dummy_cols(mobile_phone,select_columns = "sectionn3")
+mobile_phone <- select(mobile_phone,1,7) #choose column needed for the regression
+mobile_phone<- rename(mobile_phone, own_mobile_phone = sectionn3_yes)
+```
+
+```{r}
+landownershipandcultivationtypeofparcels<- rename(landownershipandcultivationtypeofparcels, ha_cultivated_by_hh_or_not_cultivated= sectionb7,
+                        ha_cultivated_by_anotherhh = sectionb11)
+
+#replace na of the ha of land owned with 0 
+landownershipandcultivationtypeofparcels[is.na(landownershipandcultivationtypeofparcels$ha_cultivated_by_hh_or_not_cultivated),]$ha_cultivated_by_hh_or_not_cultivated <- 0
+landownershipandcultivationtypeofparcels[is.na(landownershipandcultivationtypeofparcels$ha_cultivated_by_anotherhh),]$ha_cultivated_by_anotherhh <- 0
+
+summary(landownershipandcultivationtypeofparcels)
+#landownershipandcultivationtypeofparcels<-mutate(landownershipandcultivationtypeofparcels,land_owned_per_each_property = ha_cultivated_by_hh_or_not_cultivated + ha_cultivated_by_anotherhh)
+
+
+land_owned <- landownershipandcultivationtypeofparcels%>%group_by(hhid) %>% summarise(sum_ha_cultivated_by_hh_or_not_cultivated = sum(ha_cultivated_by_hh_or_not_cultivated),sum_ha_cultivated_by_anotherhh = sum(ha_cultivated_by_anotherhh))
+land_owned <-as.data.frame(land_owned)
+
+
+land_owned <-mutate(land_owned, total_land_owned = sum_ha_cultivated_by_hh_or_not_cultivated + sum_ha_cultivated_by_anotherhh)
+land_owned_independent <- select(land_owned,hhid,total_land_owned)             
+```
+
+## Dependent variable total cultivated parcels
+
+To divide chemical use per cultivated parcel
+
+```{r}
+summary(sectionc_landsizesacquisitionandtenure)
+total_ha_cultivated <- sectionc_landsizesacquisitionandtenure %>% group_by(hhid) %>% summarise(sum_total_ha_cultivated = sum(sectionc2c))
+total_ha_cultivated <-as.data.frame(total_ha_cultivated)
+total_ha_cultivated<-select(total_ha_cultivated,hhid,sum_total_ha_cultivated)
+
+```
+
+## Make dependent variable2
+
+This time, dependent variable is total fertilizer divided by the ha of
+cultivated land per each household.
+
+```{r}
+teff_chemical_devided_by_ha <- inner_join(teff_chemical_dependent,total_ha_cultivated, by = "hhid")
+teff_chemical_devided_by_ha <-mutate(teff_chemical_devided_by_ha,teff_chemical_devided_by_ha=sum_fertilizer_hhid/sum_total_ha_cultivated)
+teff_chemical_ha_dependent2<-select(teff_chemical_devided_by_ha,c(1,4))
+teff_chemical_ha_dependent2 #This is the dependent variable for the second analysis
+```
+
+## Make independent variable 2
+
+```{r}
+
+teff_independent2 <- transportation_independent %>%
+  inner_join(gender_age_education_independet,by="hhid") %>% 
+  inner_join(size_of_household,by="hhid") %>% 
+  inner_join(mobile_phone,by="hhid") %>%
+  inner_join(donkey,by="hhid") %>% 
+  inner_join(land_owned_independent,by="hhid")
+
+```
+
+### Make data frame for the model2
+
+```{r}
+chemical_transportation_df2 <- inner_join(teff_chemical_ha_dependent2,teff_independent2, by = "hhid")
+names(chemical_transportation_df2)
+```
+
+### Regression analysis 2
+
+-   Dependent variable:chemical input divided by ha for each household
+-   Independent:
+
+1.  Average transportation cost
+2.  Gender of household head
+3.  Education level of of household head
+4.  size of household
+5.  If household own mobile phone
+6.  If household own donkey
+7.  Total land owned by household
+
+```{r}
+chemical_transportation_df2$age <-as.numeric(chemical_transportation_df2$age)
+fertilizerinput_model2 <-
+  lm(teff_chemical_devided_by_ha~average_transportation_cost+sex_male+age+educationlevel+size_of_hh+own_mobile_phone+own_donkey+total_land_owned,data= chemical_transportation_df2)
+summary(fertilizerinput_model2)
+```
+
+### Z sores of Regression analysis 2
+
+```{r}
+z_scores_fertilizerinput_model2 <- scale(coef(fertilizerinput_model2))
+z_scores_fertilizerinput_model2
+```
+
+### Regression analysis 3
+
+-   Dependent variable: Sum of chemical input for each household
+-   Independent:
+
+1.  Average transportation cost
+2.  Gender of household head
+3.  Education level of of household head
+4.  size of household
+5.  If household own mobile phone
+6.  If household own donkey
+7.  Total land owned by household
+
+```{r}
+chemical_transportation_df3 <- inner_join(teff_chemical_dependent,teff_independent2, by = "hhid")
+chemical_transportation_df3$age <-as.numeric(chemical_transportation_df3$age)
+fertilizerinput_model3 <-lm(sum_fertilizer_hhid~average_transportation_cost+sex_male+age+educationlevel+size_of_hh+own_mobile_phone+own_donkey+total_land_owned,data= chemical_transportation_df3)
+summary(fertilizerinput_model3)
+```
+
+### Z sores of Regression analysis 3
+
+```{r}
+z_scores_fertilizerinput_model3 <- scale(coef(fertilizerinput_model3))
+z_scores_fertilizerinput_model3
+```
+
+## Conclusion
+
+-   Regression analysis 2 indicates that average transportation cost
+    does not influence the amount of average chemical input.
+-   Regression analysis 3 indicates that average transportation cost
+    influence the amount of total chemical input.
+
+```{r}
+regression2_without_na <- na.omit(chemical_transportation_df2)
+
+fertilizerinput_model2_without_na <- lm(teff_chemical_devided_by_ha~average_transportation_cost+sex_male+age+educationlevel+size_of_hh+own_mobile_phone+own_donkey+total_land_owned,data= regression2_without_na)
+summary(fertilizerinput_model2_without_na)
+```
